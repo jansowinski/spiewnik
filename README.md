@@ -2,7 +2,7 @@
 
 - [Wersja podglądowa (pdf)](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.pdf)
 - [Wersja txt](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.txt)
-- [Dokument do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)
+- **[Dokument do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)**
 
 ## Jak to działa?
 
