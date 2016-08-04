@@ -22,6 +22,7 @@ Wszak ty harcerskie serca znasz     G C C7
 
 W kręgu watry
 
+
 Zapłonęło już ognisko,            d g
 Gdzieś daleko światła miast       C d
 Siądźmy wszyscy w kręgu ognia     d g
@@ -63,25 +64,26 @@ Blady świt zastanie nas           /
 
 Szara lilijka
 
+
 Gdy zakochasz się w szarej lilijce    a d
 I w świetlanym harcerskim krzyżu      E a
 Kiedy olśni cię blask ogniska
 Jedną radę ci dam
 
-Załóż mundur i przypnij lilijkę      a d
-Czapkę na bakier włóż                G C E
-W szeregu stań wśród harcerzy        a d
-I razem z nimi w świat rusz          E a
+  Załóż mundur i przypnij lilijkę      a d
+  Czapkę na bakier włóż                G C E
+  W szeregu stań wśród harcerzy        a d
+  I razem z nimi w świat rusz          E a
 
-Razem z nimi będziesz wędrował
-Po Łysicy i Świętym Krzyżu
+Razem z nimi będziesz wędrował        a d
+Po Łysicy i Świętym Krzyżu            E a
 Poznasz szlaki gór Świętokrzyskich
 Które powiedzą ci tak
 
-Załóż mundur i przypnij lilijkę
-Czapkę na bakier włóż
-W szeregu stań wśród harcerzy
-I razem z nimi w świat rusz
+  Załóż mundur i przypnij lilijkę
+  Czapkę na bakier włóż
+  W szeregu stań wśród harcerzy
+  I razem z nimi w świat rusz
 
 Gdy po latach będziesz wspominał
 Dawne dzieje z harcerskiej drużyny
@@ -117,24 +119,27 @@ Ramię pręż, słabość krusz         D a
 i nie zawiedź w potrzebie         e h
 Podaj swą pomocną dłoń
 tym, co liczą na ciebie
-Zmieniaj świat, zawsze bądź
-sprawiedliwy i odważny
-Śmiało zwalczaj wszelkie zło,
-niech twym bratem będzie każdy       e
 
-I świeć przykładem świeć      G A D
+Zmieniaj świat, zawsze bądź       D a
+sprawiedliwy i odważny            e h
+Śmiało zwalczaj wszelkie zło,     D a
+niech twym bratem będzie każdy    e
+
+I świeć przykładem świeć          G A D
 I leć w przestworza leć
 I nieś ze sobą wieść
 Że być harcerzem chcesz
 
-A gdy spyta cię ktoś
-skąd ten krzyż na twej piersi
+A gdy spyta cię ktoś              D a
+skąd ten krzyż na twej piersi     e h
 Z dumą odpowiesz mu
 taki mają najdzielniejsi
-I choć mało mam lat
-w tym harcerskim mundurze
-Bogu, ludziom i Ojczyźnie
-na ich wieczną chwałę służę
+
+I choć mało mam lat               D a
+w tym harcerskim mundurze         e h
+Bogu, ludziom i Ojczyźnie         D a
+na ich wieczną chwałę służę       e
+
 
 Błękitny czas
 
@@ -704,8 +709,11 @@ Lśni w oddali toń jeziora słyszysz ptaków krzyk
 Tu odpoczniesz dziś i nabierzesz sił
 Ale jutro znów wyruszysz na swój stary szlak
 Będziesz dalej szedł tam gdzie pędzi wiatr
+
+
 Pytania syna poety
 (Trzeci oddech kaczuchy)
+
 
 Ja, poeta i łachmyta             C G
 Milczę, kiedy syn mnie pyta;           a F C G
@@ -3471,7 +3479,9 @@ Rozewrzyj dłonie, mocniej, mocniej
 Za kark chwyć słońce, sięgnij w niebo.
 
 Odnaleźć musisz, gdzie chmury górom dłoń podają
-Gdzie deszcz i susza, gdzie lipce, październiki, maje. Stają się rokiem, węzłem życia, swój dom bukowy
+Gdzie deszcz i susza, 
+gdzie lipce, październiki, maje. 
+Stają się rokiem, węzłem życia, swój dom bukowy
 Zawieszony u nieba pnia, kroplą żywicy
 Błękitny złoty i zielony
 
@@ -5736,7 +5746,8 @@ Co robi Góral w krymską noc,              G D A D
 Gdy gestem w wiernych towarzyszy          e Fis h
 Wpaja swą legendarną moc.              G D A D
 
-Nie miejcie żalu do Stalina, nie on się za tym wszystkim krył,  d C d C  Przecież to nie jest jego wina, że Roosvelt w Jałcie nie miał sił.
+Nie miejcie żalu do Stalina, nie on się za tym wszystkim krył,  d C d C
+Przecież to nie jest jego wina, że Roosvelt w Jałcie nie miał sił.
 Gdy się Triumwirat wspólnie brał za świata historyczne kształty,
 - Wiadomo kto Cezara grał –               d C
 I tak rozumieć trzeba Jałtę.              D A D
@@ -7315,6 +7326,8 @@ Spadł jak worek ten co szukał śladu gwiazd;
 Nikt się nigdy nie dowiedział co zobaczył gdy tam siedział -
 Słup jak słup - a przyjaciela ma się raz!
 
+
+
 Z XVI – wiecznym portretem trumiennym rozmowa
 (Jacek Kaczmarski)
 
@@ -7390,6 +7403,7 @@ Na co nas jeszcze stać:
 Bo się kochamy - w sobie!
 Nie pragnąc - siebie - znać!
 
+
 A my nie chcemy uciekać stąd
 (Jacek Kaczmarski)
 
@@ -7399,22 +7413,22 @@ Jest głęboka, naprawdę czarna noc,
 Z piwnic płonące uciekają szczury.
 
 Krzyczę przez okno, czoło w szybę wgniatam,    a B
-Haustem powietrza robię w żarze wyłom      C d
+Haustem powietrza robię w żarze wyłom          C d
 Ten, co mnie słyszy ma mnie za wariata,
 Woła – co jeszcze świrze ci się śniło?
 
-Więc chwytam kraty rozgrzane do białości    d B
+Więc chwytam kraty rozgrzane do białości      d B
 Twarz swoją widzę, twarz w przekleństwach,    C d
 A obok sąsiad patrzy z ciekawością,
 Jak płonie na nim kaftan bezpieczeństwa.
 
 Dym w dziurce od klucza, a drzwi bez klamek,     a B
-Pękają tynki wzdłuż spoconej ściany.      C d
+Pękają tynki wzdłuż spoconej ściany.             C d
 Wsuwam swój język w rozpalony zamek,
 Śmieje się za mną ktoś jak obłąkany.
 
 Lecz większość śpi nadal, przez sen się uśmiecha,   d a C d
-A kto się zbudzi nie wierzy w przebudzenie.    d B C d
+A kto się zbudzi nie wierzy w przebudzenie.         d B C d
 Krzyk w wytłumionych salach nie zna echa,
 Na rusztach łóżek milczy przerażenie.
 

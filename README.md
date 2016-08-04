@@ -1,12 +1,12 @@
 # spiewnik
 
-- [Wersja podglądowa (pdf)](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.pdf)
+- [Wersja podglądowa (pdf)](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0)
 - [Wersja txt](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.txt)
 - **[Dokument do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)**
 
 ## Jak to działa?
 
-1. Patrzymy sobie na [wersję poglądową](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.pdf), i patrzymy co nam nie pasuje
+1. Patrzymy sobie na [wersję poglądową](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0), i patrzymy co nam nie pasuje
 2. Wpisujemy co nam nie pasuje do listy rzeczy do zrobienia w [dokumencie do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)
 3. (opcjonalnie) Kopiujemy piosenkę i wklejamy do [dokumentu do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing) a następnie przerabiamy tak, żeby było dobrze
 
@@ -21,6 +21,7 @@
 - [ ] W kręgu watry (W kręgu watry (Watra))
 - [ ] California (Kalifornia)
 - [ ] Tyle kilometrów (Tyle kilometrów (Tam w bieszczadach))
+- [ ] Pytania syna poety (Ja poeta (pytania syna poety)
 
 **Dorobić taby:**
 
