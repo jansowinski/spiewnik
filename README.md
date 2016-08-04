@@ -21,7 +21,9 @@
 - [ ] W kręgu watry (W kręgu watry (Watra))
 - [ ] California (Kalifornia)
 - [ ] Tyle kilometrów (Tyle kilometrów (Tam w bieszczadach))
-- [ ] Pytania syna poety (Ja poeta (pytania syna poety)
+- [ ] Pytania syna poety (Ja poeta (Pytania syna poety)
+- [ ] Góry (A kiedy idę wśród gór (Góry))
+- [ ] Viva la sierra (viva la plata)
 
 **Dorobić taby:**
 
@@ -29,10 +31,43 @@
 - [ ] Błękitny czas
 - [ ] Chyba już można iść spać
 - [ ] Zaułki
+- [ ] Winda
+- [ ] Dom wschodzącego słońca
+- [ ] Kwiatek
 
 **Dodać piosenki:**
 
 - [ ] A piosnka wciąż płynie
+- [ ] Siądź z nami przy kominku
+- [ ] Hej, ho żagle staw!
+- [ ] High life
+- [ ] Hymn harcerski
+- [ ] Idzie noc
+- [ ] Bratnie słowo
+- [ ] Jaworzyna?
+- [ ] Kołysanka dla Joanny
+- [ ] Lubię podróże
+- [ ] Niewidzialna plastelina
+- [ ] Pałacyk Michla
+- [ ] Październik
+- [ ] Pędziwiatr
+- [ ] Pierwsza zmierzchu fala
+- [ ] Pieski małe dwa
+- [ ] Pieśń o małym rycerzu
+- [ ] Piosenka na nowy rok?
+- [ ] Pożegnanie (SDM)
+- [ ] C'est la vie
+- [ ] Siódme niebo
+- [ ] Stare namioty
+- [ ] Stary cowboy (koń, lasso i bat)
+- [ ] Szklana góra
+- [ ] W lesie tym
+- [ ] Walczyk kubusia
+- [ ] Wehikuł czasu
+- [ ] Whiskey
+- [ ] Wilno odbijemy
+- [ ] Zakochani
+- [ ] Żegnaj Ameryko
 - [x] Zielony płomień
 - [x] Płonie ognisko
 - [x] Puszcza
@@ -47,6 +82,7 @@
 - [ ] Easy rider
 - [ ] Dola szeryfa
 - [ ] Rzeka
+- [ ] W więziennym szpitalu (Dom wschodzącego słońca)
 - [x] Przechyły
 - [x] Bez słów
 - [x] Bajka
