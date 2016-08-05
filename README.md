@@ -6,11 +6,11 @@
 
 ## Jak to działa?
 
-1. Patrzymy sobie na [wersję poglądową](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0), i patrzymy co nam nie pasuje
-2. Wpisujemy co nam nie pasuje do listy rzeczy do zrobienia w [dokumencie do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)
+1. Zaglądamy sobie do [wersji poglądowej](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0), i ogarniamy co nam nie pasuje (brakuje piosenek, złe chwyty, brakuje tabulatur i tak dalej...)
+2. Wpisujemy uwagi (czyli to co nam nie pasuje) do listy rzeczy do zrobienia w odpowiednią kategorię [dokumencie do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)
 3. (opcjonalnie) Kopiujemy piosenkę i wklejamy do [dokumentu do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing) a następnie przerabiamy tak, żeby było dobrze
 
-**_Uwaga!_** _Nie używamy 'tab'ów' - zamiast tego spacje, nie używamy innych czcionek niż courier new - w finalnej wersji będziemy używać ładniejszej czcionki ale google docs oferuje tylko jedną czcionkę stałej szerokości, która pozwoli nam później na łatwiejsze ogarnięcie edycji._
+**_Uwaga!_** _Nie używamy tab'ów - zamiast tego spacje, nie używamy innych czcionek niż courier new - w finalnej wersji będziemy używać ładniejszej czcionki ale google docs oferuje tylko jedną czcionkę stałej szerokości, która pozwoli nam później na łatwiejsze ogarnięcie edycji._
 
 ## Co jest do zrobienia?
 
