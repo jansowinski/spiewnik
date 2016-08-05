@@ -29,11 +29,11 @@
 
 - [ ] Chyba już można iść spać
 - [ ] Błękitny czas
-- [ ] Chyba już można iść spać
 - [ ] Zaułki
 - [ ] Winda
 - [ ] Dom wschodzącego słońca
 - [ ] Kwiatek
+- [x] Piosenka o rzeczach białych
 
 **Dodać piosenki:**
 
