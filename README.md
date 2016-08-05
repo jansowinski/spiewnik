@@ -4,6 +4,52 @@
 - [Wersja txt](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.txt)
 - **[Dokument do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)**
 
+## Etapy rozwoju
+
+[_Zjedź niżej, żeby przeczytać instrukcję poprawiania śpiewnika i dodawania do niego piosenek_](](https://github.com/iansowinski/spiewnik#jak-to-działa))
+
+1. [Poprawianie surowej wersji **_(od teraz do połowy września)_**](https://github.com/iansowinski/spiewnik#jak-to-działa)
+
+   - dodawanie piosenek
+   - dodawanie tabulatur
+   - poprawianie tekstów
+   - poprawianie chwytów
+   - poprawianie tytułów piosenek
+
+2. Edycja i przygotowanie do druku **_(do końca października)_**
+
+   - przygotowanie surowego dokumentu z odpowiednimi wcięciami i rozmieszczeniem chwytów
+   - poprawki w rozmieszczeniu piosenek w treści
+   - opracowanie szablonu - przetestowanie odpowiednich czcionek i rozmieszczenia numerów stron itp
+   - przygotowanie dokumentu do druku w indesignie
+   - przerobienie surowego pliku na wersje markdown i eksport do html
+
+3. Projektowanie śpiewnika samego w sobie **_(do połowy listopada)_**
+
+   - research materiałów na okładkę
+   - ewentualne przygotowanie ilustracji na okładkę
+   - research rodzajów papieru
+   - przygotowanie arkuszu stylów internetowej wersji śpiewnika
+   - projektowanie i testowanie spisu treści
+   - poprawki w pliku do druku
+   - opracowanie dodatkowych bajerów i pierwszy testowy wydruk całości
+
+4. Druk **_(do żółkiewszczady)_**
+
+   - zebranie zamówień
+   - znalezienie drukarni i wycena
+   - przelewy od chętnych
+   - druk
+   - przycięcie
+   - oprawa
+   - publikacja w internecie pdfa z instrukcją do druku
+   - publikacja strony-śpiewnika
+
+5. Post-druk
+
+   - znalezienie osoby odpowiedzialnej za śpiewnik
+   - ogarnięcie systemu aktualizacji
+
 ## Jak to działa?
 
 1. Zaglądamy sobie do [wersji poglądowej](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0), i ogarniamy co nam nie pasuje (brakuje piosenek, złe chwyty, brakuje tabulatur i tak dalej...)

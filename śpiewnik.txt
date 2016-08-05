@@ -16,9 +16,9 @@ Mówiłeś druhu komendancie           C
 Wszak ty harcerskie serca znasz     G C C7
 
   Warunki tylko warunkami            F
-  od dawna już słyszymy to           G C G
-  lecz my jesteśmy harcerzami        C
-  i zwyciężymy wszelkie zło!         G C C7/ GC
+  Od dawna już słyszymy to           G C G
+  Lecz my jesteśmy harcerzami        C
+  I zwyciężymy wszelkie zło!         G C C7/ GC
 
 
 W kręgu watry
@@ -120,14 +120,14 @@ A zaraz pod nim                      D a
 Harcerskich dziesięć prawd           e
 
   Ramię pręż, słabość krusz         D a
-  i nie zawiedź w potrzebie         e h
+  I nie zawiedź w potrzebie         e h
   Podaj swą pomocną dłoń            D a
-  tym, co liczą na ciebie           e
+  Tym, co liczą na ciebie           e
 
   Zmieniaj świat, zawsze bądź       D a
-  sprawiedliwy i odważny            e h
+  Sprawiedliwy i odważny            e h
   Śmiało zwalczaj wszelkie zło      D a
-  niech twym bratem będzie każdy    e
+  Niech twym bratem będzie każdy    e
 
   I świeć przykładem świeć          G A D
   I leć w przestworza leć           G A D
@@ -186,9 +186,9 @@ Tyle rajdów już przeżyłeś        C a C a
 Zapomniałeś - a przecież ty...   F G F G
 
   Tyle kilometrów masz za sobą         F G C a
-  tyle rajdów, biwaków i tras          F G C a
+  Tyle rajdów, biwaków i tras          F G C a
   Tyle lat wędrówki wspólną drogą      F G C a
-  więc dlaczego chcesz zostawić nas?   F G C a
+  Więc dlaczego chcesz zostawić nas?   F G C a
 
 Wspominając tamte lata           C a C a
 I te wszystkie wspólne dni       F G F G
@@ -196,9 +196,9 @@ Rogatywka, mundur, mapa          C a C a
 Niech przypomną one ci           F G F G
 
   Tyle kilometrów masz za sobą         F G C a
-  tyle rajdów, biwaków i tras          F G C a
+  Tyle rajdów, biwaków i tras          F G C a
   Tyle lat wędrówki wspólną drogą      F G C a
-  więc dlaczego chcesz zostawić nas?   F G C a
+  Więc dlaczego chcesz zostawić nas?   F G C a
 
 Życie płynie, czas ucieka        C a C a
 Obowiązków masz już dość         F G F G
@@ -206,9 +206,9 @@ A na ciebie ciągle czeka         C a C a
 Tych Bieszczadzkich lasów woń    F G F G
 
   Tyle kilometrów masz za sobą         F G C a
-  tyle rajdów, biwaków i tras          F G C a
+  Tyle rajdów, biwaków i tras          F G C a
   Tyle lat wędrówki wspólną drogą      F G C a
-  więc dlaczego chcesz zostawić nas?   F G C a
+  Więc dlaczego chcesz zostawić nas?   F G C a
 
 
 Bieszczadzki trakt
@@ -287,7 +287,7 @@ Kiedy tak przy ognisku                     G
 Tak jak on w sercu ojczyznę czujesz        C G
 
   Naszej ziemi śpiewamy                      G
-  ziemi pokłon składamy                      D
+  Ziemi pokłon składamy                      D
   Taki prosty, zwyczajny, harcerski          C D G
   Niechaj echo poniesie tę balladę rajdową   G D
   W nowe jutro i przyszłość nową             C D G
@@ -304,40 +304,40 @@ Pożegnamy rzekę, las             D
 Bądźcie zdrowi nasi bracia       e
 Bądźcie zdrowi, na nas czas      A
 
-  Ustawimy mały obóz
-  Bramę zbudujemy z serc
-  A z tych dusz co tak gorące
-  Zbudujemy sobie piec
-  Rozpalimy mały ogień
-  A w tym ogniu będziesz piekł
-  Naszą przyjaźń która łączy
-  Która da ci to co chcesz
+  Ustawimy mały obóz             D
+  Bramę zbudujemy z serc         fis
+  A z tych dusz co tak gorące    D7
+  Zbudujemy sobie piec           G
+  Rozpalimy mały ogień           g
+  A w tym ogniu będziesz piekł   D
+  Naszą przyjaźń która łączy     e
+  Która da ci to co chcesz       A
 
-Hej, my jeszcze tu wrócimy 
-Nie za rok no to za dwa
-Więc dlaczego płacze rzeka 
-Więc dlaczego szumi las
-Wszak przyjaźni naszej wielkiej
-Nie rozłączy promień zła 
-Ona mocna jest bezczelnie 
-Więc my wszyscy, jeszcze raz
+Hej, my jeszcze tu wrócimy        D
+Nie za rok no to za dwa           fis
+Więc dlaczego płacze rzeka        D7
+Więc dlaczego szumi las           G
+Wszak przyjaźni naszej wielkiej   g
+Nie rozłączy promień zła          D
+Ona mocna jest bezczelnie         e
+Więc my wszyscy, jeszcze raz      A
 
 
 Zielony mundur
 
-Dawno minął czas dziecinnych zabaw       G e C D
-Z krótkich spodni już wyrósł każdy z nas
-Chciałbyś jeszcze komuś zrobić jakiś kawał
-Lecz coś ci podpowie; ile masz już lat
+Dawno minął czas dziecinnych zabaw           G e C D
+Z krótkich spodni już wyrósł każdy z nas     G e C D
+Chciałbyś jeszcze komuś zrobić jakiś kawał   G e C D
+Lecz coś ci podpowie; ile masz już lat       G e C D
 
-Znów pewnie wysłuchasz zbyt długie kazanie
-O zdrowiu, o książkach pomyśleć czas
-O piciu, paleniu i złym zachowaniu
-Pomyślisz, posłuchasz i westchniesz tak:
+Znów pewnie wysłuchasz zbyt długie kazanie   G e C D
+O zdrowiu, o książkach pomyśleć czas         G e C D
+O piciu, paleniu i złym zachowaniu           G e C D
+Pomyślisz, posłuchasz i westchniesz tak:     G e C D
 
-Ach, jak bardzo chciałbym swój
-Zielony mundur mieć
-I plecak też
+Ach, jak bardzo chciałbym swój               G e C D
+Zielony mundur mieć                          G e C D
+I plecak też                                 G e C D
 
 Byłeś jeszcze zuchem, gdy dostałeś mundur
 Trochę później plecak, minął jakiś czas
@@ -4179,6 +4179,8 @@ Chód po ziemi człowieka co na widnokręgu
 Malejąc łatwo zwiewną gęstwę ciała niesie
 I w tej gęstwie się modli i gmatwa co chwila
 I wyziera z tej gęstwy w świat i na motyla 
+
+
 Ballada o rzeczach białych
 (Jan Krzysztof Kelus)
 
@@ -7369,43 +7371,43 @@ Z XVI – wiecznym portretem trumiennym rozmowa
 (Jacek Kaczmarski)
 
 Nie patrz na nas z wyrzutem pyszny szaławiło       a G a G a
-Bądźże z sercem otwartym dla dzieci swych dzieci    d F G g A
-Od twoich czasów sławnych tyle się zmieniło       d C d a
-Że aż szkoda zawracać tym głowę Waszeci      G F d F G a
+Bądźże z sercem otwartym dla dzieci swych dzieci   d F G g A
+Od twoich czasów sławnych tyle się zmieniło        d C d a
+Że aż szkoda zawracać tym głowę Waszeci            G F d F G a
 
-Mało wiemy o tobie, coś na Turka chadzał 
-Węgra królem obierał i tratował Szweda 
-Ale patrzył i tego, by obrana władza
-Nie zabrała ci czasem, czegoś sam jej nie dał 
+Mało wiemy o tobie, coś na Turka chadzał        
+Węgra królem obierał i tratował Szweda          
+Ale patrzył i tego, by obrana władza            
+Nie zabrała ci czasem, czegoś sam jej nie dał   
 
-A nie dałeś jej prawa by ci grozić drewnem      F C G a
-Bo przed Bogiem za posła nie chcesz Jezuity       F C B A
-By na takie cię pola mogła słać bitewne         F C d a
-Gdzie krew i rany - twoje, a cudze profity        G F d F G a
+A nie dałeś jej prawa by ci grozić drewnem    F C G a
+Bo przed Bogiem za posła nie chcesz Jezuity   F C B A
+By na takie cię pola mogła słać bitewne       F C d a
+Gdzie krew i rany - twoje, a cudze profity    G F d F G a
 
-A my, co rusz, to przed kimś            e a e
-Kolejnym - na kolanach;            a e
+A my, co rusz, to przed kimś   e a e
+Kolejnym - na kolanach;        a e
 Dalekośmy odeszli              C G
-Od siły Waszmość Pana            a h
-Po wciąż to nowych dworach            C G
-Pętamy się nie w porę;              C D e
-Kochamy się w honorach             C D G
-Nie znamy się z honorem            C D G
+Od siły Waszmość Pana          a h
+Po wciąż to nowych dworach     C G
+Pętamy się nie w porę;         C D e
+Kochamy się w honorach         C D G
+Nie znamy się z honorem        C D G
 
-Łypnij na nas łagodniej okiem wyrazistym
-Co widziało królestwa twojego Wiek Złoty 
-Zamiast łajać nas z trumny za sprawą artysty 
-Że są czasy kolosów i czasy miernoty 
+Łypnij na nas łagodniej okiem wyrazistym       
+Co widziało królestwa twojego Wiek Złoty       
+Zamiast łajać nas z trumny za sprawą artysty   
+Że są czasy kolosów i czasy miernoty           
 
-Rzymskim prawem się szczycisz opartym na sile:
-Dłoń złocisty pas maca, kręci wąs sumiasty;
-Ale wyrozumiałość - to siły przywilej
-Urodzony z rozumu na twój wiek szesnasty 
+Rzymskim prawem się szczycisz opartym na sile:   
+Dłoń złocisty pas maca, kręci wąs sumiasty;      
+Ale wyrozumiałość - to siły przywilej            
+Urodzony z rozumu na twój wiek szesnasty         
 
-Czemuś synów nie uczył, z czegoś sam korzystał 
-Że czapka rozum grzeje, by nie skapiał chyłkiem?
-Rychło jeden za drugim - poseł czy statysta -
-Czapkowali rozumem, a myśleli tyłkiem 
+Czemuś synów nie uczył, z czegoś sam korzystał     
+Że czapka rozum grzeje, by nie skapiał chyłkiem?   
+Rychło jeden za drugim - poseł czy statysta -      
+Czapkowali rozumem, a myśleli tyłkiem              
 
 I my - na byle słowo
 Na tylne stajem łapki;
@@ -7444,50 +7446,50 @@ Nie pragnąc - siebie - znać!
 A my nie chcemy uciekać stąd
 (Jacek Kaczmarski)
 
-Stanął w ogniu nasz wielki dom         d
-Dym w korytarzach kręci sznury 
-Jest głęboka, naprawdę czarna noc 
-Z piwnic płonące uciekają szczury 
+Stanął w ogniu nasz wielki dom      d
+Dym w korytarzach kręci sznury      d 
+Jest głęboka, naprawdę czarna noc   d
+Z piwnic płonące uciekają szczury   d
 
-Krzyczę przez okno, czoło w szybę wgniatam     a B
-Haustem powietrza robię w żarze wyłom          C d
-Ten, co mnie słyszy ma mnie za wariata 
-Woła – co jeszcze świrze ci się śniło?
+ Krzyczę przez okno, czoło w szybę wgniatam   a B
+ Haustem powietrza robię w żarze wyłom        C d
+ Ten, co mnie słyszy ma mnie za wariata       a B
+ Woła – co jeszcze świrze ci się śniło?       C d
 
-Więc chwytam kraty rozgrzane do białości      d B
-Twarz swoją widzę, twarz w przekleństwach     C d
-A obok sąsiad patrzy z ciekawością 
-Jak płonie na nim kaftan bezpieczeństwa 
+  Więc chwytam kraty rozgrzane do białości    d B
+  Twarz swoją widzę, twarz w przekleństwach   C d
+  A obok sąsiad patrzy z ciekawością          d B
+  Jak płonie na nim kaftan bezpieczeństwa     C d
 
-Dym w dziurce od klucza, a drzwi bez klamek      a B
-Pękają tynki wzdłuż spoconej ściany             C d
-Wsuwam swój język w rozpalony zamek 
-Śmieje się za mną ktoś jak obłąkany 
+Dym w dziurce od klucza, a drzwi bez klamek   a B
+Pękają tynki wzdłuż spoconej ściany           C d
+Wsuwam swój język w rozpalony zamek           a B
+Śmieje się za mną ktoś jak obłąkany           C d
 
-Lecz większość śpi nadal, przez sen się uśmiecha    d a C d
+Lecz większość śpi nadal, przez sen się uśmiecha   d a C d
 A kto się zbudzi nie wierzy w przebudzenie         d B C d
-Krzyk w wytłumionych salach nie zna echa 
-Na rusztach łóżek milczy przerażenie 
+Krzyk w wytłumionych salach nie zna echa           d a C d
+Na rusztach łóżek milczy przerażenie               d B C d
 
-Ci przywiązani dymem materaców 
-Przepowiadają życia swego słowa 
-Nam pod nogami żarzą się posadzki 
-Deszcz iskier czerwonych osiada na głowach 
+Ci przywiązani dymem materaców               d a C d
+Przepowiadają życia swego słowa              d B C d
+Nam pod nogami żarzą się posadzki            d a C d
+Deszcz iskier czerwonych osiada na głowach   d B C d
 
-Dym coraz gęstszy, obcy ktoś się wdziera 
-A my wciśnięci w najdalszy sali kąt 
-Tędy! - Wrzeszczy - Niech was jasna cholera!
-A my nie chcemy uciekać stąd!
+Dym coraz gęstszy, obcy ktoś się wdziera       d a C d
+A my wciśnięci w najdalszy sali kąt            d B C d
+Tędy! - Wrzeszczy - Niech was jasna cholera!   d a C d
+A my nie chcemy uciekać stąd!                  d B C d
 
-A my nie chcemy uciekać stąd!
-Krzyczymy w szale wściekłości i pokory
-Stanął w ogniu nasz wielki dom!
-Dom dla psychicznie i nerwowo chorych!
+A my nie chcemy uciekać stąd!            d a C d
+Krzyczymy w szale wściekłości i pokory   d B C d
+Stanął w ogniu nasz wielki dom!          d a C d
+Dom dla psychicznie i nerwowo chorych!   d B C d
 
-Stanął w ogniu nasz wielki dom!
-Dom dla psychicznie i nerwowo chorych!
-
-A my nie chcemy uciekać stąd!
-Krzyczymy w szale wściekłości i pokory
-Stanął w ogniu nasz wielki dom!
-Dom dla psychicznie i nerwowo chorych!
+Stanął w ogniu nasz wielki dom!          d a C d
+Dom dla psychicznie i nerwowo chorych!   d B C d
+ 
+A my nie chcemy uciekać stąd!            d a C d
+Krzyczymy w szale wściekłości i pokory   d B C d
+Stanął w ogniu nasz wielki dom!          d a C d
+Dom dla psychicznie i nerwowo chorych!   d B C d
