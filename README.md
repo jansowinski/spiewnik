@@ -10,45 +10,45 @@
 
 1. [Poprawianie surowej wersji **_(od teraz do połowy września)_**](https://github.com/iansowinski/spiewnik#jak-to-działa)
 
-   - dodawanie piosenek
-   - dodawanie tabulatur
-   - poprawianie tekstów
-   - poprawianie chwytów
-   - poprawianie tytułów piosenek
+  - dodawanie piosenek
+  - dodawanie tabulatur
+  - poprawianie tekstów
+  - poprawianie chwytów
+  - poprawianie tytułów piosenek
 
 2. Edycja i przygotowanie do druku **_(do końca października)_**
 
-   - przygotowanie surowego dokumentu z odpowiednimi wcięciami i rozmieszczeniem chwytów
-   - poprawki w rozmieszczeniu piosenek w treści
-   - opracowanie szablonu - przetestowanie odpowiednich czcionek i rozmieszczenia numerów stron itp
-   - przygotowanie dokumentu do druku w indesignie
-   - przerobienie surowego pliku na wersje markdown i eksport do html
+  - przygotowanie surowego dokumentu z odpowiednimi wcięciami i rozmieszczeniem chwytów
+  - poprawki w rozmieszczeniu piosenek w treści
+  - opracowanie szablonu - przetestowanie odpowiednich czcionek i rozmieszczenia numerów stron itp
+  - przygotowanie dokumentu do druku w indesignie
+  - przerobienie surowego pliku na wersje markdown i eksport do html
 
 3. Projektowanie śpiewnika samego w sobie **_(do połowy listopada)_**
 
-   - research materiałów na okładkę
-   - ewentualne przygotowanie ilustracji na okładkę
-   - research rodzajów papieru
-   - przygotowanie arkuszu stylów internetowej wersji śpiewnika
-   - projektowanie i testowanie spisu treści
-   - poprawki w pliku do druku
-   - opracowanie dodatkowych bajerów i pierwszy testowy wydruk całości
+  - research materiałów na okładkę
+  - ewentualne przygotowanie ilustracji na okładkę
+  - research rodzajów papieru
+  - przygotowanie arkuszu stylów internetowej wersji śpiewnika
+  - projektowanie i testowanie spisu treści
+  - poprawki w pliku do druku
+  - opracowanie dodatkowych bajerów i pierwszy testowy wydruk całości
 
 4. Druk **_(do żółkiewszczady)_**
 
-   - zebranie zamówień
-   - znalezienie drukarni i wycena
-   - przelewy od chętnych
-   - druk
-   - przycięcie
-   - oprawa
-   - publikacja w internecie pdfa z instrukcją do druku
-   - publikacja strony-śpiewnika
+  - zebranie zamówień
+  - znalezienie drukarni i wycena
+  - przelewy od chętnych
+  - druk
+  - przycięcie
+  - oprawa
+  - publikacja w internecie pdfa z instrukcją do druku
+  - publikacja strony-śpiewnika
 
 5. Post-druk
 
-   - znalezienie osoby odpowiedzialnej za śpiewnik
-   - ogarnięcie systemu aktualizacji
+  - znalezienie osoby odpowiedzialnej za śpiewnik
+  - ogarnięcie systemu aktualizacji
 
 ## Jak to działa?
 
@@ -114,6 +114,8 @@
 - [ ] Wilno odbijemy
 - [ ] Zakochani
 - [ ] Żegnaj Ameryko
+- [ ] Kto zeżarł talerz klusek
+- [ ] Pan jest mocą swojego ludu
 - [x] Zielony płomień
 - [x] Płonie ognisko
 - [x] Puszcza
