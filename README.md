@@ -123,6 +123,9 @@
 - [ ] Modlitwa harcerska
 - [ ] My cyganie
 - [ ] Pieśń odchodzących
+- [ ] Młody las
+- [ ] Piosenka z szabli
+- [ ] Droga do Tiperary
 - [x] Zielony płomień
 - [x] Płonie ognisko
 - [x] Puszcza
