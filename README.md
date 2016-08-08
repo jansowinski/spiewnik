@@ -83,22 +83,21 @@
 
 **Dodać piosenki:**
 
-- [ ] A piosnka wciąż płynie
-- [ ] Siądź z nami przy kominku
-- [ ] Hej, ho żagle staw!
-- [ ] High life
+- [x] A piosnka wciąż płynie
+- [x] Siądź z nami przy kominku
+- [x] High life
 - [ ] Hymn harcerski
-- [ ] Idzie noc
-- [ ] Bratnie słowo
+- [x] Idzie noc
+- [x] Bratnie słowo
 - [ ] Jaworzyna?
 - [ ] Kołysanka dla Joanny
-- [ ] Lubię podróże
+- [x] Lubię podróże
 - [ ] Niewidzialna plastelina
 - [ ] Pałacyk Michla
 - [ ] Październik
 - [ ] Pędziwiatr
 - [ ] Pierwsza zmierzchu fala
-- [ ] Pieski małe dwa
+- [x] Pieski małe dwa
 - [ ] Pieśń o małym rycerzu
 - [ ] Piosenka na nowy rok?
 - [ ] Pożegnanie (SDM)
@@ -107,13 +106,13 @@
 - [ ] Stare namioty
 - [ ] Stary cowboy (koń, lasso i bat)
 - [ ] Szklana góra
-- [ ] W lesie tym
+- [x] W lesie tym
 - [ ] Walczyk kubusia
-- [ ] Wehikuł czasu
-- [ ] Whiskey
+- [x] Wehikuł czasu
+- [x] Whiskey
 - [ ] Wilno odbijemy
 - [ ] Zakochani
-- [ ] Żegnaj Ameryko
+- [x] Żegnaj Ameryko
 - [ ] Kto zeżarł talerz klusek
 - [ ] Pan jest mocą swojego ludu
 - [x] Zielony płomień
