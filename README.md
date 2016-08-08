@@ -115,6 +115,14 @@
 - [x] Żegnaj Ameryko
 - [ ] Kto zeżarł talerz klusek
 - [ ] Pan jest mocą swojego ludu
+- [ ] Cóż wam chorym
+- [ ] Chory na wyobraźnię
+- [ ] Ptaki ptakom(?)
+- [ ] Więc chodź, pomaluj mój świat
+- [ ] Mleko
+- [ ] Modlitwa harcerska
+- [ ] My cyganie
+- [ ] Pieśń odchodzących
 - [x] Zielony płomień
 - [x] Płonie ognisko
 - [x] Puszcza
