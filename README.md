@@ -83,6 +83,8 @@
 - [ ] Droga do Tiperary
 - [ ] Wciąż płynie czas (szybko pędzi wielki pociąg)
 - [ ] Mój świat (kiedy w piątek słońce świeci)
+- [ ] Idzie zuch
+- [ ] Przebudzenie
 - [x] Zielony płomień
 - [x] Płonie ognisko
 - [x] Puszcza

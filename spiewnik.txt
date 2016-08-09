@@ -471,6 +471,7 @@ Na cichy ciemny Kościół, dziecko wzywające Ciebie    F G a E7
 
  Drugi Brzeg
 
+
 (Arka Noego)
 
 Tak jest mało czasu, mało dni        C
@@ -508,6 +509,7 @@ Nie wiem czy Cię poznam, ale wiem    C
 
  Sieje je
 
+
 (Arka Noego)
 
 Dzisiaj zasieje ziarno nadzieje    F C a G
@@ -540,6 +542,7 @@ Trzeba juz wstać i pora je siać!
 
 
  Przebaczone winy
+
 
 (Arka Noego)
 
@@ -578,6 +581,7 @@ Hevenu shalom alehem
 
  Najlepsza Modlitwa
 
+
 (Arka Noego)
 
 Dla Ciebie siedzę, dla Ciebie chodzę      A h D
@@ -601,6 +605,7 @@ Cieszyć się z tego, z tego co mam
 
 
  Taki mały taki duży
+
 
 (Arka Noego)
 
@@ -634,6 +639,7 @@ X2
 
 
  Ja jestem
+
 
 (Arka Noego)
 
@@ -813,7 +819,8 @@ Będziesz dalej szedł tam gdzie pędzi wiatr
 
 
  Pytania syna poety
-(Trzeci oddech kaczuchy)
+
+ (Trzeci oddech kaczuchy)
 
 Ja, poeta i łachmyta           C G
 Milczę, kiedy syn mnie pyta;   a F C G
@@ -975,7 +982,8 @@ Które zwie się wolnością
 
 
  Jesień idzie
-(Aleksander Grotowski)
+
+ (Aleksander Grotowski)
 
 Raz staruszek, spacerując w lesie     e A7 e A7
 Ujrzał listek przywiędły i blady  e A7 H7
@@ -1511,7 +1519,8 @@ Z poranną rosą czekać dnia
 
 
  Bieszczadzkie anioły
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Anioły są takie ciche           a
 Zwłaszcza te w Bieszczadach        G
@@ -1620,7 +1629,8 @@ Będzie tak krążył do świtania
 
 
  Połoniny niebieskie
-(Adam Drąg)
+
+ (Adam Drąg)
 
 Gdy nie zostanie po mnie nic        C F C F
 Oprócz pożółkłych fotografii         C F C G
@@ -1649,7 +1659,8 @@ Trochę mi tylko będzie żal
 
 
  We wtorek w schronisku
-(Wołosatki)
+
+ (Wołosatki)
 
 Złotym kobiercem wymoszczone góry      C F C
 Jesień w doliny przyszła dziś nad ranem      e F d G
@@ -1746,7 +1757,8 @@ Gapiąc się na mnie spod rzęs
 
 
  Noc czerwcowa
-(tekst; K. I. Gałczyński)
+
+ (tekst; K. I. Gałczyński)
 
 Kiedy noc się w powietrzu zaczyna       D e
 Wtedy noc jest jak młoda dziewczyna:    G D
@@ -1780,7 +1792,8 @@ Wsłuchajcie się w śpiewny chód
 
 
  Zapiszę śniegiem w kominie
-(Robert Kasprzycki)
+
+ (Robert Kasprzycki)
 
 A jeśli zabraknie na koncie pieniędzy       C G F C
 I w kącie zagnieździ się bieda         C G F F
@@ -1817,7 +1830,8 @@ I zawsze już będę z powrotem
 
 
  Niebo do wynajęcia
-(Robert Kasprzycki)
+
+ (Robert Kasprzycki)
 
 Na tablicy ogłoszeń pod hasłem "lokale"        e
 Przeczytałem przedwczoraj ogłoszenie ciekawe    e
@@ -1848,7 +1862,8 @@ Myśląc "nic nie straciłem pewnie tak jest i tam"
 
 
  Anioł i Diabeł
-(Agnieszka Osiecka)
+
+ (Agnieszka Osiecka)
 
 Idzie Diabeł ścieżką krzywą pełen myśli złych     e C D e
 Nie pożyczył mu na piwo, nie pożyczył nikt 
@@ -1872,7 +1887,8 @@ I stworzyli sobie piekło z odrobiną nieba
 
 
  Easy Rider
-(Krzysztof Dauszkewicz)
+
+ (Krzysztof Dauszkewicz)
 
 A kiedy nic już nie miałem w mieście do roboty       a
 Bo na większość poetów skończył się już popyt       a
@@ -1973,7 +1989,8 @@ Syrena ze Świdra amfibia
 
 
  Minęło wiele miesięcy
-(tekst. Edward Stachura)
+
+ (tekst. Edward Stachura)
 
 Minęło wiele miesięcy            D e
 Ale mnie nic nie minęło;         G D
@@ -2130,7 +2147,8 @@ Tutaj każda letnia noc ma smak twoich ust
 
 
  Jesienna zaduma
-(Elżbieta Adamiak)
+
+ (Elżbieta Adamiak)
 
 Nic nie mam             e
 Zdmuchnęła mnie ta jesień całkiem     F e
@@ -2156,7 +2174,8 @@ Jesiennej strony
 
 
  Naprawdę nie dzieje się nic
-(Grzegorz Turnau)
+
+ (Grzegorz Turnau)
 
 Czy zdanie okrągłe wypowiesz      e
 Czy księgę mądrą napiszesz        G d
@@ -2186,7 +2205,8 @@ Niedoskonałym
 
 
  Deszcz
-(Kobranocka)
+
+ (Kobranocka)
 
 Deszcz się na kałużach spienił, miało być inaczej   C G a E
 Miało się coś przecież zmienić          a E
@@ -2217,7 +2237,8 @@ Tak chciał cię znienawidzić
 
 
  Czaple
-(Iwona Piastowska)
+
+ (Iwona Piastowska)
 
 Przyleciały czaple, wyszły na mokradła      e C D
 Jesień się zgubiła, Twoja panna zbladła      D C a e H7
@@ -2236,7 +2257,8 @@ Zwiąż węzełek z wiatru, zapisz na suficie
 
 
  Jaka jesteś
-(Tomasz Lewandowski)
+
+ (Tomasz Lewandowski)
 
 Jesteś bitwą moją nieskończoną      G a
 W której ciągle o przyczółek walczę      C D G (a C D)
@@ -2282,7 +2304,9 @@ Boje się morza w twoich myślach
 Kiedy jesteś do drogi już gotów
 Leżysz przy mnie, oczy otwarte
 Miły boję się twoich powrotów
-Pożegnalny ton
+
+
+ Pożegnalny ton
 
 Chyba dobrze wiesz już, jaką z dróg        C G a F
 Popłyniesz, kiedy serce rośnie Ci nadzieją      F G
@@ -2571,7 +2595,8 @@ I przez morza mnie powiedzie. Ty zostaniesz tu
 
 
  Burza
-(Perły i Łotry)
+
+ (Perły i Łotry)
 
 A stary Thudner Jim, bo tak go nazywali 
 Wey! Hey! Bo burza na nas wali!
@@ -2780,7 +2805,8 @@ Do swych ukochanych, najpiękniejszych stron
 
 
  Nim wstanie dzień
-(Krzysztof Komeda)
+
+ (Krzysztof Komeda)
 
 Ze świata czterech stron            a e a
 Z jarzębinowych dróg              a e a
@@ -2817,7 +2843,8 @@ Wstanie świt
 
 
  Nie rozdziobią nas kruki
-(tekst; Bruno Jasieński)
+
+ (tekst; Bruno Jasieński)
 
 Nie rozdziobią nas kruki        D G0 h G
 Ni wrony, ani  nic!          Fis e A7 4
@@ -2843,7 +2870,8 @@ Fruniemy w góry gdzieś !
 
 
  Preludium dla Leonarda
-(Leonard Luther)
+
+ (Leonard Luther)
 
 Na parterze w mojej chacie          D
 Mieszkał kiedyś taki facet           G D
@@ -2889,7 +2917,8 @@ Gdzie okręt twój zawinie
 
 
  Lecące Bociany
-(Na Bani)
+
+ (Na Bani)
 
 Obudzić się            G D G
 Rosie rozkażę           D e
@@ -2919,7 +2948,8 @@ Ref. Tylko ręce rozłożę jak bociek…
 
 
  Wędrujemy
-(Na Bani)
+
+ (Na Bani)
 
 Wędruję ścieżką od ciebie do ciebie        A
 Choć droga prowadzi tylko przez góry      fis F A
@@ -2951,7 +2981,8 @@ U świata krawędzi z chmur skłębionych czytam
 
 
  W naszym niebie
-(Cisza jak Ta)
+
+ (Cisza jak Ta)
 
 Jeszcze śpisz          h
 Za rzęsami schowana        D
@@ -3002,7 +3033,8 @@ W naszym niebie…
 
 
  Pożegnalny wieczór
-(Cisza jak Ta)
+
+ (Cisza jak Ta)
 
 Dziękuję ci za wszystko to tragiczne i zabawne      e a D e
 Co nam kazało ściszać głos i mówić sobie prawdę    e a D G
@@ -3032,7 +3064,8 @@ Napijmy się do dna, do dna, niczemu nikt nie winien
 
 
  Wyspa
-(Cisza jak Ta)
+
+ (Cisza jak Ta)
 
 Kiedy się szumem, tłumem, gwarem    D e h A
 Ludzkie skupiska ustokrotnią        D e G A
@@ -3061,7 +3094,8 @@ Tam, gdzie nas nie ma…
 
 
  Kolorami miasta
-(Myśli Rozczochrane Wiatrem Zapisane)
+
+ (Myśli Rozczochrane Wiatrem Zapisane)
 
 Kolorami miasta namaluję Cię         cis gis
 W kolorach miasta zamknę dłonie dwie      A E H7
@@ -3090,7 +3124,8 @@ Szukając po miejsku połówki pomarańczy
 
 
  Z tylu chmur
-(Piotr Bukartyk)
+
+ (Piotr Bukartyk)
 
 Nie musisz trzymać mnie za rękę
 Straszyć, że bez Ciebie zgubię się
@@ -3148,7 +3183,8 @@ Póki starczy mi sił
 
 
  Wieczorne śpiewogranie
-(Witold Olderowicz)
+
+ (Witold Olderowicz)
 
 Kiedy cisza świat zaległa        G
 Bóg rozpostarł tren ciemności      D
@@ -3172,7 +3208,8 @@ I gdy rozstać się nie chcemy
 
 
  Nic byś nie zyskał
-(Dom o Zielonych Progach)
+
+ (Dom o Zielonych Progach)
 
 Mówi przyjaciel            e D a7 e
 Jak ja Ci zazdroszczę          a7 C D h
@@ -3215,7 +3252,8 @@ O wszystko inne zadbał
 
 
  Pieśń XXIX
-(Dom o Zielonych Progach)
+
+ (Dom o Zielonych Progach)
 
 Całe życie w niebo idzie          D
 Mój połoniński pochód          C
@@ -3242,7 +3280,8 @@ W wielkich oknach mego świata
 
 
  Łemata
-(Dom o Zielonych Progach)
+
+ (Dom o Zielonych Progach)
 
 Pamiętam tylko tabun chmur się rozwinął      C G a e
 I cichy wiatr wiejący ku połoninom          F C G F G
@@ -3269,8 +3308,10 @@ Przy wodospadzie tam gdzie słychać śpiew
 W źródlanej wodzie czas zanurzyć dłoń
 Żegnam was dziś odchodzę stąd
 
+
  Wieje wiatr
-(Dom o Zielonych Progach)
+
+ (Dom o Zielonych Progach)
 
 Wieje wiatr w mojej głowie         e D
 Nad doliny i nad sady niesie mnie       a7 h7 e
@@ -3304,7 +3345,8 @@ H
 
 
  Zostanie tyle gór
-(Dom o Zielonych Progach)
+
+ (Dom o Zielonych Progach)
 
 Zostanie tyle gór            e
 Ile udźwignąłem na plecach        C
@@ -3340,7 +3382,8 @@ Rok cały będzie tam jesień
 
 
  Poezja
-(Jacek Telus)
+
+ (Jacek Telus)
 
 Ty przychodzisz jak noc majowa         h fis
 Biała noc, uśpiona w jaśminie         G A
@@ -3394,7 +3437,8 @@ Jak chorągwie podarte na wichrze
 
 
  Znów wędrujemy
-(wyk. Grzegorz Turnau  tekst; K. K. Baczyński)
+
+ (wyk. Grzegorz Turnau  tekst; K. K. Baczyński)
 
 Znów wędrujemy ciepłym krajem        e h
 Malachitową łąką morza          C D
@@ -3429,7 +3473,8 @@ Malachitową łąką morza
 
 
  Nuta z Ponidzia
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 A F E7 a
 
@@ -3460,7 +3505,8 @@ Na Poniziu wiosna trwa
 
 
  Sielanka o domu
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 A jeśli dom będę miał          A h7 cis7 A
 To będzie bukowy koniecznie         D E AA7
@@ -3515,7 +3561,8 @@ A niebo nade mną jak góry
 
 
  Majster Bieda
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 Skąd przychodził, kto go znał        C F
 Kto mu rękę podał kiedy        C F G
@@ -3550,23 +3597,28 @@ Majster Bieda
 
 
  Piosenka o zajączku
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 Mam mało czasu, tak mało, jak piachu      GF CG
 W dziecięcej garści nad rzeką          DA G
 Zwieram powieki, zatrzymać obraz        GF CG
 Co z moich wspomnień wycieka        DA G
-Bledną kolory i płynie, płynie          GD DF
-Rzeka po szarej łące            FC G
-I płynie, płynie nierealniejąc          GD DF
-Rzeką zielony zajączek            FC e
+
+  Bledną kolory i płynie, płynie   G D D F
+  Rzeka po szarej łące             F C G
+  I płynie, płynie nierealniejąc   G D D F
+  Rzeką zielony zajączek           F C e
 
 Biegnę wciąż, biegnę, przed siebie, w siebie
 Tęczę rozgarniam rękami
 Letnim upałem wytrzeć do sucha
 Spotniałą, wilgotną pamięć
 
-Bledną kolory... 
+  Bledną kolory i płynie, płynie   G D D F
+  Rzeka po szarej łące             F C G
+  I płynie, płynie nierealniejąc   G D D F
+  Rzeką zielony zajączek           F C e
 
 Rzeki jaszczurka w trawie się wije
 Słońce się chyli zrudziałe
@@ -3580,7 +3632,8 @@ I drzwi mi otwórz, zajączku
 
 
  Beskid I
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 A w Beskidzie rozzłocony buk        G C D G
 A w Beskidzie rozzłocony buk        G C G D
@@ -3611,7 +3664,8 @@ Niech mi grają na rozstajach moich dróg
 
 
  Pejzaże harasymowiczowskie
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 Kiedy stałem w przedświcie, a Synaj      G D
 Prawdę głosił przez trąby wiatru         C e
@@ -3638,7 +3692,8 @@ Rozgwieździła się Bukowina
 
 
  Bukowina II
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 Dość wytoczyli bań próżnych przed domy kalecy     C d F C
 Żyją jak żyli, bezwolni, głusi i ślepi           C d F C
@@ -3670,7 +3725,8 @@ Błękitny złoty i zielony
 
 
  Ocean
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 Oceanie sinowłosy          A G
 Białe statki ku mnie wyślij        D A
@@ -3710,7 +3766,8 @@ W łonie matki się ułożę
 
 
  Pieśń Łagodnych
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 Ile światłem prowadzeni         G G7+
 Dróg powietrza przejść zdołamy       C7+ cis07
@@ -3740,7 +3797,8 @@ Do krainy łagodności bramą
 
 
  Rzeka
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 Wsłuchany w twą cichą piosenkę      C F7+ C F7+
 Wyszedłem na brzeg pierwszy raz      C F7+ e
@@ -3764,7 +3822,8 @@ By poznać twą melodię
 
 
  Nocna piosenka o mieście
-(Wolna Grupa Bukowina)
+
+ (Wolna Grupa Bukowina)
 
 W mieście jak ryby tramwaje        C G
 A miasto jak studnia bez dna        F a G
@@ -3794,7 +3853,8 @@ Czekam na przyjście
 
 
  Bezsenność (Jaką tęczę malujesz)
-(Wojtek Neron Warchoł)
+
+ (Wojtek Neron Warchoł)
 
 Co się jutro znów wydarzy          C
 Milion pytań bardzo ważnych       G
@@ -3829,7 +3889,8 @@ Wymyślać kolory, by snem się zmęczyć
 
 
  Na błękicie jest polana
-(Stare Dobre Małżeństwo, tekst; Edward Stachura)
+
+ (Stare Dobre Małżeństwo, tekst; Edward Stachura)
 
 Powiedz mi co byś chciała       D
 Cuda ja czynię, mała        D7
@@ -3854,7 +3915,8 @@ Powiedz mi
 
 
  Leluchów
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Wyjedź ze mną dziś jeszcze        d F C
 Przecież blisko jest dworzec        d F C
@@ -3884,7 +3946,8 @@ Kiedyś w Leluchowie
 
 
  Kim właściwie była ta piękna pani
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Nikt nie zna ścieżek gwiazd;      a G
 Wybrańcem kto wśród nas?      e a
@@ -3921,7 +3984,8 @@ Ja będę czekać, przyjdź!
 
 
  Blues dla małej
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Wystukaj po torach do mnie list           C G
 Wtedy naprawdę nie wyjedziesz cała         a G
@@ -3954,7 +4018,8 @@ Niech czeka wciąż lepszych dni
 
 
  Z nim będziesz szczęśliwsza
-(Stare Dobre Małżeństwo   tekst; Edward Stachura)
+
+ (Stare Dobre Małżeństwo   tekst; Edward Stachura)
 
 Zrozum to, co powiem             e H7
 Spróbuj to zrozumieć dobrze          G D
@@ -3985,7 +4050,8 @@ W dali znikać cicho            e
 
 
  Pod kątem ostrym
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Dom mój ostatnio          G C
 Ledwo stał na nogach        D e
@@ -4009,7 +4075,8 @@ Cicho piją wodę
 
 
  Jak
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Jak po nocnym niebie sunące białe obłoki nad lasem    D A G D
 Jak na szyi wędrowca apaszka szamotana wiatrem    e G D
@@ -4042,7 +4109,8 @@ Cudne manowce, cudne manowce, cudne, cudne manowce
 
 
  Gloria
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Chwała najsampierw komu      G e
 Komu gloria na wysokościach ?    G a C D G G7
@@ -4087,7 +4155,8 @@ Gloria ! Gloria !
 
 
  Opadły mgły
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Opadły mgły i miasto ze snu się budzi       C F
 Górą czmycha już noc            C G
@@ -4130,7 +4199,8 @@ Nowy dzień!
 
 
  Piosenka dla Wojtka Bellona
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Powiedz, dokąd znów wędrujesz    D G D
 Czy daleko jest twój sad      D G D
@@ -4155,7 +4225,8 @@ Przyszedł czas, Pan dał Ci znak
 
 
  Nie brooklyński most
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Rozdzierający          d
 Jak tygrysa pazur          C
@@ -4182,8 +4253,10 @@ Będziemy szaleć nienagannie
 Będziemy naprzód niesłychanie
 Ku polanie
 
+
  Dolina w długich cieniach
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Kiedy przybyłem do tej doliny       e H7
 Dzień miał się ku zachodowi        G D
@@ -4215,8 +4288,10 @@ Między górami sinoniebieskimi;
 Cicho i spokojnie;
 Tam jest już dawno po wojnie
 
-Jest już za późno
-(Stare Dobre Małżeństwo)
+
+ Jest już za późno
+
+ (Stare Dobre Małżeństwo)
 
 Jeszcze zdążymy w dżungli ludzkości siebie odnaleźć      C d7 C
 Tęskność zawrotna przybliża nas             F C d G
@@ -4249,7 +4324,8 @@ Nie jest za późno!
 
 
  Ite missa est (Pieśń na wyjście)
-(Stare Dobre Małżeństwo, tekst; Edward Stachura)
+
+ (Stare Dobre Małżeństwo, tekst; Edward Stachura)
 
 Idź, człowieku, idź, rozpowiedz    a
 Idźcie wszystkie stany        d
@@ -4277,7 +4353,8 @@ Nie zamienimy w bagno krwi      C e a e
 
 
  Czarny blues o czwartej nad ranem
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Czwarta nad ranem            A/E
 Może sen przyjdzie            cis/fis
@@ -4320,7 +4397,8 @@ Może mnie odwiedzisz
 
 
  Zwiewność
-(Bez Jacka, tekst; Bolesław Leśmian)
+
+ (Bez Jacka, tekst; Bolesław Leśmian)
 
 Brzęk muchy w pustym dzbanie co stoi na półce    a
 Smuga w oczach po znikłej za oknem jaskółce      G
@@ -4349,7 +4427,8 @@ I wyziera z tej gęstwy w świat i na motyla
 
 
  Ballada o rzeczach białych
-(Jan Krzysztof Kelus)
+
+ (Jan Krzysztof Kelus)
 
 Patrz - na białym śniegu
 Ślady miękkich łap
@@ -4430,7 +4509,8 @@ Nad ranem
 
 
  Było kiedyś między nami
-(Grzegorz Turnau)
+
+ (Grzegorz Turnau)
 
 Przecież było proszę pani       a
 Tyle kłótni między nami       E
@@ -4468,7 +4548,8 @@ Do paru chwil co były kiedyś między nami
 
 
  Winda
-(Przemysław Gintrowski)
+
+ (Przemysław Gintrowski)
 
 Tatę wzięli godzinę temu      D A D
 Przyszło trzech i zabrali tatę      D G D
@@ -4492,7 +4573,8 @@ I ciągle nią jadę w dół
 
 
  Ballada o krzyżowcu
-(Stanisław Wawrykiewicz)
+
+ (Stanisław Wawrykiewicz)
 
 Wolniej, wolniej, wstrzymaj konia       e
 Dokąd pędzisz w stal odziany?       A
@@ -4532,7 +4614,8 @@ I odjeżdżam na południe
 
 
  Litania
-(Leszek Wojtowicz)
+
+ (Leszek Wojtowicz)
 
 Jaki jeszcze numer mi wytniesz       C F C
 W która ślepą skierujesz ulicę      a d
@@ -4574,7 +4657,8 @@ Ale jest coś takiego w tobie
 
 
  Zegarmistrz Światła
-(Tadeusz Woźniak)
+
+ (Tadeusz Woźniak)
 
 A kiedy przyjdzie także po mnie      a G
 Zegarmistrz światła purpurowy      D a
@@ -4588,7 +4672,8 @@ I pójdę, nie wiem gdzie na zawsze
 
 
  Pod niebem
-(Raz Dwa Trzy)
+
+ (Raz Dwa Trzy)
 
 Pod niebem pełnym cudów        D G
 Nieruchomieję z nudów        D G
@@ -4641,7 +4726,8 @@ Ten błękit snów i pragnień…
 
 
  W wielkim mieście
-(Raz Dwa Trzy)
+
+ (Raz Dwa Trzy)
 
 W wielkim mieście niebo jasne           A
 I wiadomo żyć nie łatwo w wielkim mieście      D E A
@@ -4701,7 +4787,8 @@ Doczekam tego dnia
 
 
  Człowiek z liściem na głowie
-(Elektryczne Gitary)
+
+ (Elektryczne Gitary)
 
 Wsiadł do autobusu człowiek z liściem na głowie    a e
 Nikt go nie poratuje, nikt mu nic nie powie      G D
@@ -4721,8 +4808,11 @@ Tylko sie każdy gapi, tylko sie każdy gapi i nic
 Wsiadł drugi podobny, nad człowiekiem sie zlitował
 Tamten sie pogłaskał w główkę liścia sobie schował
 Bo ja mówi, jestem z lasu, bo ja mówi, jestem z lasu i już!
-Nasze przebudzenie
-(Buzu Squat)
+
+
+ Nasze przebudzenie
+
+ (Buzu Squat)
 
 Słuchać w pełnym słońcu, jak pulsuje ziemia      C G d a
 Uspokoić swoje serce, niczego już nie zmieniać
@@ -4809,7 +4899,8 @@ Które mi samo się wyrywa do niej
 
 
  Nie, nie kocham Cię wcale
-(Sekcja Muzyczna Kołłątajowskiej Kuźni Prawdziwych Mężczyzn z Olą)
+
+ (Sekcja Muzyczna Kołłątajowskiej Kuźni Prawdziwych Mężczyzn z Olą)
 
 Nie, nie kocham Cię wcale! x4          a F C G
 
@@ -4854,7 +4945,8 @@ Nie zmienia to faktu, że nie kocham cię wcale
 
 
  Na ułańskie stepy
-(SMKKPMzO)
+
+ (SMKKPMzO)
 
 Spakowałam do walizy wszystkie rzeczy Twoje      d a
 Przyzdobiłam wiankiem lico, wiankiem lico swoje
@@ -4899,7 +4991,8 @@ Miał być z Ciebie kozak, a jest z Ciebie kretyn!
 
 
  Wilk i Sokół
-(SMKKPMzO)
+
+ (SMKKPMzO)
 
 Prosiłem o szpadę
 A podałaś mi szpadel
@@ -4966,7 +5059,8 @@ Codziennie zakochuję się od nowa
 
 
  Wyznanie
-(SMKKPMzO)
+
+ (SMKKPMzO)
 
 Przecież wiem, nie musisz mi tłumaczyć, że     G h a h
 Prawie w ogóle się nie znamy 
@@ -5012,7 +5106,8 @@ Posiedzę przy Tobie
 
 
  Lubię mówić z Tobą
-(Akurat)
+
+ (Akurat)
 
 Kiedy z serca płyną słowa        a C
 Uderzają z wielką mocą         G a
@@ -5032,7 +5127,8 @@ I dlatego lubię mówić z Tobą
 
 
  Teksański
-(Hey)
+
+ (Hey)
 
 Herbata stygnie zapada mrok     D G A
 A pod piórem ciągle nic
@@ -5056,7 +5152,8 @@ Wyśpiewasz je sam
 
 
  Bananowy Song
-(Vox)
+
+ (Vox)
 
 Kiedy budzę się po prostu dziarski chwat        a D F G
 A za oknem znów po prostu smutny świat        a D F G
@@ -5128,7 +5225,8 @@ Ja już tam nie mieszkam
 
 
  Majka
-(Stare Dobre Małżeństwo)
+
+ (Stare Dobre Małżeństwo)
 
 Gdy jestem sam, myślami biegnę       G e C D
 Do mej najdroższej, jak rzeka wiernej
@@ -5147,7 +5245,8 @@ Za jeden uśmiech, jedno spojrzenie
 
 
  Jolka, Jolka
-(Budka Suflera)
+
+ (Budka Suflera)
 
 Jolka, Jolka pamiętasz lato ze snów          D A h
 Gdy pisałaś: Tak mi źle            D A h
@@ -5195,7 +5294,8 @@ Ale nic nie jest proste w te dni
 
 
  Peggy Brown
-(Myslovitz)
+
+ (Myslovitz)
 
 O Peggy Brown, o Peggy Brown       a G
 Kto ciebie ukochać będzie umiał       C F
@@ -5223,7 +5323,8 @@ Twej dumy nie urażę, o nie
 
 
  Lubiła tańczyć
-(Myslovitz)
+
+ (Myslovitz)
 
 Samochód w deszczu stał          C a
 Radio przestało grać
@@ -5252,7 +5353,8 @@ Mówiła mi…
 
 
  Kocham Cię jak Irlandię
-(Kobranocka)
+
+ (Kobranocka)
 
 Znikałaś gdzieś w domu nad Wisłą       C e
 Pamiętam to tak dokładnie         A d
@@ -5286,7 +5388,8 @@ Czy to dla Ciebie coś znaczy         G D
 
 
  Nadzieja
-(Ira)
+
+ (Ira)
 
 Możesz masz w głowie myśli bardziej szalone niż ja     D C2 G C2
 Może masz skrzydła których by Tobie pozazdrościł ptak   D C2 G C2
@@ -5308,7 +5411,8 @@ Tylko ja                   F F C G
 
 
  Autobiografia
-(Perfect)
+
+ (Perfect)
 
 Miałem dziesięć lat, gdy usłyszał o nim świat      h
 W mej piwnicy był nasz klub            G A
@@ -5363,7 +5467,8 @@ Otwieram drzwi i nie mówię już nic
 
 
  Dom wschodzącego słońca
-(na melodię „House of a Rising Sun”)
+
+ (na melodię „House of a Rising Sun”)
 
 W więziennym szpitalu na zgniłym posłaniu
 Nieznany młodzieniec umiera
@@ -5392,7 +5497,8 @@ Umiera zakuty w kajdany!''
 
 
  Śmiech
-(Przemysław Gintrowski)
+
+ (Przemysław Gintrowski)
 
 Bardzo śmiesznie jest umierać       G a
 Kiedy żyć byś chciał           C G
@@ -5514,7 +5620,8 @@ Nieubłagany czas
 
 
  Modlitwa o wschodzie słońca
-(Jacek Kaczmarski, Przemysław Gintrowski)
+
+ (Jacek Kaczmarski, Przemysław Gintrowski)
 
 Każdy Twój wyrok przyjmę twardy      D G D G
 Przed mocą twoją się ukorzę        D A D A
@@ -5533,7 +5640,8 @@ Ocal mnie od pogard, Panie
 
 
  Mury
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 On natchniony i młody był         e H7 e
 Ich nie policzyłby nikt           e H7
@@ -5596,7 +5704,8 @@ A mury rosną, rosną, rosną;
 
 
  Nasza klasa
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Co się stało z naszą klasą        d
 Pyta Adam w Tel – Avivie         A A7 A
@@ -5673,7 +5782,8 @@ Jedno i to samo drzewo...
 
 
  Przedszkole
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 W przedszkolu naszym nie jest źle          a
 Zabawek mamy tutaj w bród            B
@@ -5737,7 +5847,8 @@ W przedszkolu naszym nie jest źle!
 
 
  Bajka o Głupim Jasiu
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Ojców dom pożegnał głupi Jasio          a
 Szukać wody życia rad nie rad        d
@@ -5834,7 +5945,8 @@ Ale zawsze warto po nią iść!        H7 E a
 
 
  Sen Katarzyny II
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Na smyczy trzymam filozofów Europy      G D G
 Podparłam armią marmurowe Piotra stropy    G D e
@@ -5878,7 +5990,8 @@ Gdyby się taki kochanek kiedyś znalazł...
 
 
  Zbroja
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Dałeś mi Panie zbroję           e D e
 Dawny kuł płatnerz ją          e D e
@@ -5966,7 +6079,8 @@ Zbroja!
 
 
  Jałta
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Jak nowa rezydencja carów, służba swe obowiązki zna     D G D A D
 Precz wysiedlono stąd Tatarów, gdzie na świat wyrok zapaść ma 
@@ -6038,7 +6152,8 @@ I tak rozumieć trzeba Jałtę!            D A D
 
 
  Obława
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Skulony w jakiejś ciemnej jamie smaczniem sobie spał     a C G C
 I spały małe wilczki dwa - zupełnie ślepe jeszcze       F E
@@ -6103,7 +6218,8 @@ Ciała wilcze kłami gończych psów szarpane!
 
 
  Ballada wrześniowa
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Długośmy na ten dzień czekali        e
 Z nadzieją niecierpliwą w duszy        a
@@ -6154,7 +6270,8 @@ Po pierwszym - siedemnasty
  
 
  Samosierra
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Pod prąd wąwozem w twarz ognistym wiatrom      a C
 Po końskie brzuchy w nurt płynącej lawy        F C d E
@@ -6194,7 +6311,8 @@ Ci, co przeżyli - muszą walczyć dalej        G D e Fis h
 
 
  Przejście polaków przez Morze Czerwone
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Na brzegu stojąc, drżące plemię boże      a E7
 Patrzymy w trwodze na Czerwone Morze    C G
@@ -6262,7 +6380,8 @@ I stąd ta piosenka, której by nie było!
 
 
  Barykada (Śmierć Baczyńskiego)
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Tym galeonem barykady        a E7
 Planetę ognia opływamy        a G
@@ -6302,7 +6421,8 @@ Planeta - grudka krwi          H7 E7 a
 
 
  Poczekalnia
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Siedzieliśmy w poczekalni, bo na zewnątrz deszcz i ziąb  a E a
 Do pociągu sporo czasu jeszcze było -        G a
@@ -6365,7 +6485,8 @@ Tę łatwą wiarę w megafony
 
 
  Drzewo genealogiczne
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Rodowód mój nie sięga bursztynowych szlaków    D A
 Mój praszczur się nie najadł na ciele Popiela      D A
@@ -6419,7 +6540,8 @@ Prosi nas o dokument, że jest Polakiem!
 
 
  Lekcja historii klasycznej
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Gallia est omnis divisa in partestres            C G
 Quarum unam incolunt Belgae aliam Aquitani        d E
@@ -6453,7 +6575,8 @@ A Juliusz Cezar ćwiczy lapidarność stylu!
 
 
  Piosenka napisana mimochodem
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Słońce błyśnie między wschodem a zachodem      a d a d
 Mimochodem obrysuje miasto chmur        a e a
@@ -6506,7 +6629,8 @@ Miasto chmur, chwile szczęść          a e a
 
 
  Źródło
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Płynie rzeka wąwozem jak dnem koleiny        e
 Która sama siebie żłobiła 
@@ -6555,7 +6679,8 @@ Wciąż bije                  C Ezm7 H
 
 
  Encore, jeszcze raz
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Mam wszystko, czego może chcieć uczciwy człowiek –  a d a
 Światopogląd, wykształcenie, młodość, zdrowie     a d C
@@ -6615,7 +6740,8 @@ Jeszcze raz! Jeszcze raz! Encore!
 
 
  Epitafium dla Włodzimierza Wysockiego
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 To moja droga z piekła do piekła           e
 W dół na złamanie karku gnam!           e
@@ -6795,7 +6921,8 @@ Przecież wrócę, gdy zacznie się dzień!
 
 
  Kantyczka z lotu ptaka
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Patrz mój dobrotliwy Boże        a
 Na swój ulubiony ludek         C
@@ -6860,7 +6987,8 @@ W imię Ojca, Syna, Ducha…          Cis7
 
 
  Arka Noego
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 W pełnym słońcu w środku lata        e De
 Wśród łagodnych fal zieleni          e De
@@ -6918,7 +7046,8 @@ Na pierwszy i na ostatni chrzest!
 
 
  Krzyk
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Dlaczego wszyscy ludzie mają zimne twarze?       e fis h
 Dlaczego drążą w świetle ciemne korytarze?       e fis h
@@ -6960,7 +7089,8 @@ Uznać krzyk z mych niemych ust za swój!
 
 
  Rublow
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Na ziemi, co zawsze pod wodą, lub śniegiem
 Są drogi, po których nikt prawie nie chodzi 
@@ -7063,7 +7193,8 @@ Koń i Ikona
 
 
  Opowieść pewnego Emigranta
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Nie bój się, nie zabraknie to krajowa czysta     d C
 Ja widzisz przed wojną byłem komunista      A7 g d
@@ -7125,7 +7256,8 @@ Z tą Polską związanym pępowiną hańb
 
 
  Ambasadorowie
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Jeszcze pod ręką globus - z taką mapą świata      d C a d
 Na jaką stać strategię, plany i marzenia       d C a A7
@@ -7171,7 +7303,8 @@ Ach! Jean de Dinteville, francuski ambasador...
 
 
  Szulerzy
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Jeśli siadasz przy tym stole zważ, że światło nienajlepsze   D A Fis7 h
 A partnerzy w każdym razie przypadkowi        G D A7
@@ -7205,7 +7338,8 @@ I zaprosisz - kogo chcesz - by go oskubać
 
 
  Świadectwo
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Jaja w kraju niewyjęte -          d
 Solidarność dała ciała           B
@@ -7255,7 +7389,8 @@ Dadzą azyl polityczny?
 
 
  Limeryki o narodach
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Był Anglik co przyjaźń nawiązał z Hindusem      a
 Z najczystszej sympatii, a nie pod przymusem      G
@@ -7486,7 +7621,8 @@ Nieprędko się chyba położą
 
 
  Kariera Nikodema Dyzmy
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Mój śmiech histerii i pogardy        A
 Do waszych uszu nie dociera        A
@@ -7536,7 +7672,8 @@ Kariera Nikodema Dyzmy!
 
 
  Przyjaciele
-(Jacek Kaczmarski)
+
+ (Jacek Kaczmarski)
 
 Żyło raz przyjaciół dwóch; jeden mieli smak i słuch    a
 I na świat patrzyli takim samym wzrokiem;      a E
@@ -7575,8 +7712,9 @@ Słup jak słup - a przyjaciela ma się raz!
 
 
 
-Z XVI – wiecznym portretem trumiennym rozmowa
-(Jacek Kaczmarski)
+ Z XVI – wiecznym portretem trumiennym rozmowa
+
+ (Jacek Kaczmarski)
 
 Nie patrz na nas z wyrzutem pyszny szaławiło       a G a G a
 Bądźże z sercem otwartym dla dzieci swych dzieci   d F G g A
@@ -7651,8 +7789,9 @@ Bo się kochamy - w sobie!
 Nie pragnąc - siebie - znać!
 
 
-A my nie chcemy uciekać stąd
-(Jacek Kaczmarski)
+ A my nie chcemy uciekać stąd
+
+ (Jacek Kaczmarski)
 
 Stanął w ogniu nasz wielki dom      d
 Dym w korytarzach kręci sznury      d 

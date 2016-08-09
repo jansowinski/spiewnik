@@ -1,3 +1,5 @@
+A my nie chcemy uciekać stąd
+A tu w głowie ciągle szumi
 Ambasadorowie
 Anioł i Diabeł
 Arka Noego
@@ -20,13 +22,14 @@ Bieszczadzki trakt
 Bieszczadzkie anioły
 Bieszczadzkie reggae
 Blues dla małej
-Błękitny czas
 Bo ja, za dnia
 Bo przecież!
 Bolero
 Bukowina II
 Burza
 Było kiedyś między nami
+Błękitny czas
+California
 Chyba już można iść spać
 Czaple
 Czarny blues o czwartej nad ranem
@@ -35,33 +38,38 @@ Czas płynie wciąż
 Człowiek z liściem na głowie
 Deszcz
 Dola szeryfa (góry skaliste)
+Dolina w długich cieniach
 Dom wschodzącego słońca
 Drugi Brzeg
 Drzewo genealogiczne
 Dym z jałowca
+Dżungla
 Easy Rider
 Encore, jeszcze raz
 Epitafium dla Włodzimierza Wysockiego
 Fula mi nalej
 Gdzie ta keja
 Gloria
-Góry
 Graj jesiennie
 Grosza nie mam
+Góry
 Harcerska miłość
 Harcerskie ideały
 Hej w góry
+Hej, Leonardo
 Hej, przyjaciele!
 Hiszpańskie dziewczyny
 Ite missa est (Pieśń na wyjście)
+Ja jestem
 Jajecznica
 Jak
 Jaka jesteś
 Jaki był ten dzień
-Jałta
 Jasnowłosa (Żegnaj Irlandio)
+Jałta
 Jesienna zaduma
 Jesień idzie
+Jest już za późno
 Jolka, Jolka
 Już rozpaliło się ognisko
 Kantyczka z lotu ptaka
@@ -80,11 +88,10 @@ Limeryki o narodach
 Litania
 Lubię mówić z Tobą
 Lubiła tańczyć
-Łemata
 Majka
 Majster Bieda
-Mały obóz
 Mazurski rejs
+Mały obóz
 Minęło wiele miesięcy
 Modlitwa o wschodzie słońca
 Morskie Opowieści
@@ -94,8 +101,10 @@ Na błękicie jest polana
 Na ułańskie stepy
 Nadzieja
 Najemnicy
+Najlepsza Modlitwa
 Naprawdę nie dzieje się nic
 Nasza klasa
+Nasze przebudzenie
 Nic byś nie zyskał
 Nie brooklyński most
 Nie rozdziobią nas kruki
@@ -114,9 +123,9 @@ Opowieść pewnego Emigranta
 Pechowy dzień
 Peggy Brown
 Pejzaże harasymowiczowskie
-Pieśń Łagodnych
 Pieśń Wielorybników
 Pieśń XXIX
+Pieśń Łagodnych
 Piosenka dla Wojtka Bellona
 Piosenka napisana mimochodem
 Piosenka o zajączku
@@ -124,9 +133,10 @@ Poczekalnia
 Pod kątem ostrym
 Pod niebem
 Poezja
-Połoniny niebieskie
 Powroty
 Powrócisz
+Połoniny niebieskie
+Pożegnalny ton
 Pożegnalny wieczór
 Pożegnanie Liverpoolu
 Preludium dla Leonarda
@@ -149,8 +159,7 @@ Sielanka o domu
 Sosenka (jak to dobrze być harcerzem)
 Szara lilijka
 Szulerzy
-Śmiech
-Świadectwo
+Taki mały taki duży
 Tam, gdzie byłem
 Teksański
 Tyle kilometrów
@@ -162,15 +171,17 @@ W naszym niebie
 W wielkim mieście
 We wtorek w schronisku
 Wesele Papuasa
-Wędrowiec
-Wędrujemy
 Wieczorne krajobrazy
 Wieczorne śpiewogranie
+Wieje wiatr
 Wigwam
 Wilk i Sokół
 Winda
 Wyspa
 Wyznanie
+Wędrowiec
+Wędrujemy
+Z XVI – wiecznym portretem trumiennym rozmowa
 Z nim będziesz szczęśliwsza
 Z tylu chmur
 Za celem
@@ -183,4 +194,7 @@ Znów bieszczadów stoki
 Znów wędrujemy
 Zostanie tyle gór
 Zwiewność
+Łemata
+Śmiech
+Świadectwo
 Źródło
