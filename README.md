@@ -126,6 +126,8 @@
 - [ ] Młody las
 - [ ] Piosenka z szabli
 - [ ] Droga do Tiperary
+- [ ] Wciąż płynie czas (szybko pędzi wielki pociąg)
+- [ ] Mój świat (kiedy w piątek słońce świeci)
 - [x] Zielony płomień
 - [x] Płonie ognisko
 - [x] Puszcza
