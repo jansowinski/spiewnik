@@ -19,90 +19,105 @@
 
 **zmienić tytuły piosenek:**
 
-- [ ] W kręgu watry (W kręgu watry (Watra))
 - [ ] California (Kalifornia)
-- [ ] Tyle kilometrów (Tyle kilometrów (Tam w bieszczadach))
-- [ ] Pytania syna poety (Ja poeta (Pytania syna poety)
 - [ ] Góry (A kiedy idę wśród gór (Góry))
+- [ ] Pytania syna poety (Ja poeta (Pytania syna poety)
+- [ ] Tyle kilometrów (Tyle kilometrów (Tam w bieszczadach))
 - [ ] Viva la sierra (viva la plata)
+- [ ] W kręgu watry (W kręgu watry (Watra))
 
 **Dorobić taby:**
 
-- [ ] Chyba już można iść spać
+- [ ] Barykada (Śmierć Baczyńskiego)
+- [ ] Bukowina II
 - [ ] Błękitny czas
-- [ ] Zaułki
-- [ ] Winda
+- [ ] Chyba już można iść spać
 - [ ] Dom wschodzącego słońca
+- [ ] Dom wschodzącego słońca
+- [ ] Jolka, Jolka
 - [ ] Kwiatek
+- [ ] Mury
+- [ ] Myślę sobie, że
+- [ ] Nasza klasa
+- [ ] Nie płacz Ewka
+- [ ] Piosenka na nowy rok
+- [ ] Wehikuł czasu
+- [ ] Winda
+- [ ] Zaułki
+- [ ] Śmiech
 - [x] Piosenka o rzeczach białych
 
 **Dodać piosenki:**
 
-- [x] A piosnka wciąż płynie
-- [x] Siądź z nami przy kominku
-- [x] High life
+- [ ] C'est la vie
+- [ ] Chory na wyobraźnię
+- [ ] Cóż wam chorym
+- [ ] Droga do Tiperary
 - [ ] Hymn harcerski
-- [x] Idzie noc
-- [x] Bratnie słowo
+- [ ] Idzie zuch
 - [ ] Jaworzyna?
 - [ ] Kołysanka dla Joanny
-- [x] Lubię podróże
+- [ ] Kto zeżarł talerz klusek
+- [ ] Maestro bezdomny
+- [ ] Mleko
+- [ ] Modlitwa harcerska
+- [ ] My cyganie
+- [ ] Mój świat (kiedy w piątek słońce świeci)
+- [ ] Młody las
 - [ ] Niewidzialna plastelina
+- [ ] Pan jest mocą swojego ludu
 - [ ] Pałacyk Michla
 - [ ] Październik
-- [ ] Pędziwiatr
 - [ ] Pierwsza zmierzchu fala
-- [x] Pieski małe dwa
 - [ ] Pieśń o małym rycerzu
+- [ ] Pieśń odchodzących
 - [ ] Piosenka na nowy rok?
+- [ ] Piosenka z szabli
 - [ ] Pożegnanie (SDM)
-- [ ] C'est la vie
+- [ ] Przebudzenie
+- [ ] Ptaki ptakom(?)
+- [ ] Pędziwiatr
 - [ ] Siódme niebo
 - [ ] Stare namioty
 - [ ] Stary cowboy (koń, lasso i bat)
 - [ ] Szklana góra
-- [x] W lesie tym
+- [ ] W domach z betonu
 - [ ] Walczyk kubusia
-- [x] Wehikuł czasu
-- [x] Whiskey
-- [ ] Wilno odbijemy
-- [ ] Zakochani
-- [x] Żegnaj Ameryko
-- [ ] Kto zeżarł talerz klusek
-- [ ] Pan jest mocą swojego ludu
-- [ ] Cóż wam chorym
-- [ ] Chory na wyobraźnię
-- [ ] Ptaki ptakom(?)
-- [ ] Więc chodź, pomaluj mój świat
-- [ ] Mleko
-- [ ] Modlitwa harcerska
-- [ ] My cyganie
-- [ ] Pieśń odchodzących
-- [ ] Młody las
-- [ ] Piosenka z szabli
-- [ ] Droga do Tiperary
 - [ ] Wciąż płynie czas (szybko pędzi wielki pociąg)
-- [ ] Mój świat (kiedy w piątek słońce świeci)
-- [ ] Idzie zuch
-- [ ] Przebudzenie
-- [x] Zielony płomień
-- [x] Płonie ognisko
-- [x] Puszcza
-- [x] Idziemy w jasną
+- [ ] Wilno odbijemy
+- [ ] Windą do nieba
+- [ ] Więc chodź, pomaluj mój świat
+- [ ] Zakochani
+- [x] A piosnka wciąż płynie
+- [x] Bratnie słowo
 - [x] Gdy szedłem raz od warty
+- [x] High life
+- [x] Idzie noc
+- [x] Idziemy w jasną
+- [x] Lubię podróże
 - [x] Nie płacz Ewka
 - [x] Ogień
+- [x] Pieski małe dwa
+- [x] Puszcza
+- [x] Płonie ognisko
+- [x] Siądź z nami przy kominku
+- [x] W lesie tym
+- [x] Wehikuł czasu
+- [x] Whiskey
+- [x] Zielony płomień
+- [x] Żegnaj Ameryko
 
 **Zmienić / dodać chwyty:**
 
-- [x] Bieszczadzki trakt (nananananana)
-- [ ] Easy rider
 - [ ] Dola szeryfa
+- [ ] Easy rider
 - [ ] Rzeka
 - [ ] W więziennym szpitalu (Dom wschodzącego słońca)
-- [x] Przechyły
-- [x] Bez słów
 - [x] Bajka
+- [x] Bez słów
+- [x] Bieszczadzki trakt (nananananana)
+- [x] Przechyły
+- [x] W lekkim powiewie
 
 ## Etapy rozwoju
 

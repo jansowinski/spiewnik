@@ -232,6 +232,8 @@ Tańczą iskry z gwiazdami, a my    G D G
   Choć lata młode szybko płyną, wiemy, że   C D G C
   Nie starzejemy się                        C D G
 
+  Nananananananananananananananananana    G D C G
+
 W lesie, gdzie licho śpi                   G D
 Ma przygoda swe drzwi                      C G
 Chodźmy tam, gdzie na ścianie lasu lśnią   G D e
@@ -244,6 +246,8 @@ Niedźwiedź idzie a ptaki się drą           G D G
   Choć lata młode szybko płyną, wiemy, że   C D G C
   Nie starzejemy się                        C D G
 
+  Nananananananananananananananananana    G D C G
+
 Dorzuć do ognia drew                 G D
 W górę niech płynie śpiew            C G
 Wiatr poniesie go w wilgotny świat   G D e
@@ -255,6 +259,8 @@ A połączy nas bieszczadzki trakt     G D G
   Śpiewajmy razem, ilu jest tu nas          C D e
   Choć lata młode szybko płyną, wiemy, że   C D G C
   Nie starzejemy się                        C D G
+
+  Nananananananananananananananananana    G D C G
 
 
  Ballada rajdowa
@@ -348,36 +354,40 @@ Lecz coś ci podpowie; ile masz już lat       G e C D
 
 Znów pewnie wysłuchasz zbyt długie kazanie   G e C D
 O zdrowiu, o książkach pomyśleć czas         G e C D
-O piciu, paleniu i złym zachowaniu           G e C D
+O piciu, paleniu i złym zachowaniu           G e C D 
 Pomyślisz, posłuchasz i westchniesz tak:     G e C D
 
-Ach, jak bardzo chciałbym swój               G e C D
-Zielony mundur mieć                          G e C D
-I plecak też                                 G e C D
+  Ach, jak bardzo chciałbym swój               G e C D
+  Zielony mundur mieć                          G e C D
+  I plecak też                                 G e C D
 
-Byłeś jeszcze zuchem, gdy dostałeś mundur
-Trochę później plecak, minął jakiś czas
-Patrzysz w kącie szafy, cóż to, ale heca
-To twój stary mundur, obraz tamtych lat
+Byłeś jeszcze zuchem, gdy dostałeś mundur   G e C D
+Trochę później plecak, minął jakiś czas     G e C D
+Patrzysz w kącie szafy, cóż to, ale heca    G e C D
+To twój stary mundur, obraz tamtych lat     G e C D
 
-Gdy szedłeś przed siebie ze swoim plecakiem
-Twą drogę wyznaczał kolorowy szlak
-Z przygodą, piosenką i czapką na bakier
-Odkrywałeś ciągle jakiś nowy świat
+Gdy szedłeś przed siebie ze swoim plecakiem   G e C D
+Twą drogę wyznaczał kolorowy szlak            G e C D
+Z przygodą, piosenką i czapką na bakier       G e C D
+Odkrywałeś ciągle jakiś nowy świat            G e C D
 
-Ach, jak bardzo chciałbym swój
-Zielony mundur mieć
-I plecak też
+  Ach, jak bardzo chciałbym swój               G e C D
+  Zielony mundur mieć                          G e C D
+  I plecak też                                 G e C D
 
-Nie ma na co czekać, nie ma co rozpaczać
-Po co dłużej zwlekać, jaki problem masz
-Ty wciąż jesteś młody, to świat się postarzał
-Zrozumiesz to wtedy, gdy zatrzymasz czas
+Nie ma na co czekać, nie ma co rozpaczać        G e C D
+Po co dłużej zwlekać, jaki problem masz         G e C D
+Ty wciąż jesteś młody, to świat się postarzał   G e C D
+Zrozumiesz to wtedy, gdy zatrzymasz czas        G e C D
 
-I pójdziesz przed siebie ze swoim plecakiem
-Twą drogę wyznaczy kolorowy szlak
-Z przygodą, z piosenką i z czapką na bakier
-Odkrywać znów będziesz jakiś nowy świat
+I pójdziesz przed siebie ze swoim plecakiem   G e C D
+Twą drogę wyznaczy kolorowy szlak             G e C D
+Z przygodą, z piosenką i z czapką na bakier   G e C D
+Odkrywać znów będziesz jakiś nowy świat       G e C D
+
+  Ach, jak bardzo chciałbym swój               G e C D
+  Zielony mundur mieć                          G e C D
+  I plecak też                                 G e C D
 
 
  Dym z jałowca
@@ -392,20 +402,20 @@ Czyjś głos w leśnej ciszy prosi      G A
 Żeby był przy Tobie ktoś, kogo nie zniechęci droga   D fis G A
 Abyś plecak swoich win stromą ścieżką umiał nieść    D h G A
 
-Tuż pod szczytem się zatrzymaj     D h
-Spójrz jak gwiazdy z gór spadają   G A
-Spójrz jak drży kosodrzewina       D h
-Góry z Tobą wraz wołają:           G A
+  Tuż pod szczytem się zatrzymaj     D h
+  Spójrz jak gwiazdy z gór spadają   G A
+  Spójrz jak drży kosodrzewina       D h
+  Góry z Tobą wraz wołają:           G A
 
 Żeby była taka noc, kiedy myśli mkną do Boga         D fis G A
 Żeby były takie dni, że się przy Nim ciągle jest     D h G A
 Żeby był przy Tobie ktoś, kogo nie zniechęci droga   D fis G A
 Abyś plecak swoich win stromą ścieżką umiał nieść    D h G A
 
-Usiądź z nami przy ognisku   D h
-Płomień twarz Ci zarumieni   G A
-Usiądziemy tutaj blisko      D h
-Wspólną myślą połączeni:     G A
+  Usiądź z nami przy ognisku   D h
+  Płomień twarz Ci zarumieni   G A
+  Usiądziemy tutaj blisko      D h
+  Wspólną myślą połączeni:     G A
 
 Żeby była taka noc, kiedy myśli mkną do Boga         D fis G A
 Żeby były takie dni, że się przy Nim ciągle jest     D h G A
@@ -433,12 +443,11 @@ Chwalcie wszystkie świata strony   C d C d
 
  W lekkim powiewie
 
-W lekkim powiewie
-Przychodzisz do mnie, Panie
-Nie przez wicher ogromny 
-I nie przez ogień
-Ale w lekkim powiewie przychodzisz do mnie
-W lekkim powiewie nawiedzasz duszę mą
+W lekkim powiewie przychodzisz do mnie Panie   a D a D
+W lekkim powiewie przychodzisz do mnie Panie   a D a D
+Nie przez wicher ogromny i nie przez ogień     F G
+Ale w lekkim powiewie przychodzisz do mnie     F G
+W lekkim powiewie nawiedzasz duszę mą          a F E a
 
 
  Rozpięty na ramionach
@@ -542,7 +551,6 @@ Trzeba juz wstać i pora je siać!
 
 
  Przebaczone winy
-
 
 (Arka Noego)
 
@@ -771,28 +779,41 @@ Słońce świeci, wody ni ma, hej!   a F (C G C)
 
  Hej, Leonardo
 
+(Maryla Rodowicz)
+
 Ja niewesoła, ale z kokardą         D A
 Lecę do słońca, hej, Leonardo       h G A
 A ja się kręcę, bo stać nie warto   D A
 Naprzód planeto, hej, Leonardo      h G A
 
-Dość jest wszystkiego
-Dojść można wszędzie
+  Dość jest wszystkiego   D A
+  Dojść można wszędzie    h G A
 
-Diabeł mnie trzyma, targa za uszy;
-Dokąd wariatko chcesz wyruszyć
-A ja wesoła, ja z halabardą
-Lecę do słońca, hej, Leonardo
+Diabeł mnie trzyma, targa za uszy   D A
+Dokąd wariatko chcesz wyruszyć      h G A
+A ja wesoła, ja z halabardą         D A
+Lecę do słońca, hej, Leonardo       h G A
 
-Panie w koronie, panie z liczydłem 
-Nie chcę być mrówką, ja chcę być szczygłem
-A moja sława, droga, muzyka
-Do błękitnego życia umyka
+  Dość jest wszystkiego   D A
+  Dojść można wszędzie    h G A
 
-Przyszłam z bylekąd, ale co z tego
-Zmierzam daleko, hej, kolego!
-Odłóżmy sprawy, kochany synku
-Na jakieś dziesięć miejsc po przecinku
+Panie w koronie, panie z liczydłem           D A
+Nie chcę być mrówką, ja chcę być szczygłem   h G A
+A moja sława, droga, muzyka                  D A
+Do błękitnego życia umyka                    h G A
+
+  Dość jest wszystkiego   D A
+  Dojść można wszędzie    h G A
+
+Przyszłam z bylekąd, ale co z tego       D A
+Zmierzam daleko, hej, kolego!            h G A
+Odłóżmy sprawy, kochany synku            D A
+Na jakieś dziesięć miejsc po przecinku   h G A
+
+  Dość jest wszystkiego   D A
+  Dojść można wszędzie    h G A
+
+W górę szlaban!
 
 
  Wędrowiec
@@ -807,10 +828,10 @@ Znasz tu każdy szlak przestrzeń woła cię            C g d
   Przecież wiesz, jak upalna bywa letnia noc          F C g d
   Przecież wiesz, że wędrowca los, to jest twój los   F C g d
 
-Lśni w oddali toń jeziora słyszysz ptaków krzyk
-Tu odpoczniesz dziś i nabierzesz sił
-Ale jutro znów wyruszysz na swój stary szlak
-Będziesz dalej szedł tam gdzie pędzi wiatr
+Lśni w oddali toń jeziora słyszysz ptaków krzyk   d F
+Tu odpoczniesz dziś i nabierzesz sił              C g d
+Ale jutro znów wyruszysz na swój stary szlak      d F
+Będziesz dalej szedł tam gdzie pędzi wiatr        C g d
 
   Przecież wiesz, że dla ciebie każdy nowy dzień      F C g d
   Przecież wiesz, że dla ciebie chłodny lasów cień    F C g d
@@ -914,287 +935,303 @@ Jeszcze od rosy rzęsy mokre        a F G
 We mgle turkoce pierwsza bryka     C d
 Słońce wyrusza na włóczęgę         a E
 
-Drogą pylistą, drogą polną
-Jak kolorowa panny krajka
-Słońce się wznosi nad stodołą
-Będziemy tańczyć walca
+  Drogą pylistą, drogą polną      a d
+  Jak kolorowa panny krajka       a F G
+  Słońce się wznosi nad stodołą   C d
+  Będziemy tańczyć walca          a E
 
-A ja mam swoją gitarę          F G
-Spodnie wytarte i buty stare   C a
-Wiatry niosą mnie              d E a (A7)/d E a
+  A ja mam swoją gitarę          F G
+  Spodnie wytarte i buty stare   C a
+  Wiatry niosą mnie              d E a (A7)/d E a
 
-Zmoknięte świerszcze stroją skrzypce
-Żuraw się wsparł o cembrowinę
-Wiele nanosi wody jeszcze
-Wielu się ludzi z niej napije
+Zmoknięte świerszcze stroją skrzypce   a d
+Żuraw się wsparł o cembrowinę          a F G
+Wiele nanosi wody jeszcze              C d
+Wielu się ludzi z niej napije          a E
 
-Drogą pylistą, drogą polną
-Jak kolorowa panny krajka
-Słońce się wznosi nad stodołą
-Będziemy tańczyć walca
+  Drogą pylistą, drogą polną      a d
+  Jak kolorowa panny krajka       a F G
+  Słońce się wznosi nad stodołą   C d
+  Będziemy tańczyć walca          a E
 
-A ja mam swoją gitarę
-Spodnie wytarte i buty stare
-Wiatry niosą mnie
+  A ja mam swoją gitarę          F G
+  Spodnie wytarte i buty stare   C a
+  Wiatry niosą mnie              d E a (A7)/d E a
 
 
  Czarny chleb i czarna kawa
 
-Jedzie pociąg, złe wagony        e
-Do więzienia wiozą mnie      G
-Świat ma tylko cztery strony       D
-A w tym świecie nie ma mnie      e
+Jedzie pociąg, złe wagony      e
+Do więzienia wiozą mnie        G
+Świat ma tylko cztery strony   D
+A w tym świecie nie ma mnie    e
 
-Gdy swe oczy otworzyłem
-Wielki żal ogarnął mnie 
-Po policzkach łzy spłynęły 
-Zrozumiałem wtedy, że... 
+Gdy swe oczy otworzyłem      e
+Wielki żal ogarnął mnie      G
+Po policzkach łzy spłynęły   D
+Zrozumiałem wtedy, że...     e
 
-Czarny chleb i czarna kawa
-Opętani samotnością
-Myślą swą szukają szczęścia 
-Które zwie się wolnością
+Czarny chleb i czarna kawa    e
+Opętani samotnością           G
+Myślą swą szukają szczęścia   D 
+Które zwie się wolnością      e
 
-Młodsza siostra zapytała;
-Mamo, gdzie braciszek mój?
-Brat twój w ciemnej celi siedzi 
-Odsiaduje wyrok swój
+Młodsza siostra zapytała          e
+Mamo, gdzie braciszek mój?        G
+Brat twój w ciemnej celi siedzi   D
+Odsiaduje wyrok swój              e
 
-Czarny chleb i czarna kawa
-Opętani samotnością 
-Myślą swą szukają szczęścia 
-Które zwie się wolnością
+Czarny chleb i czarna kawa    e
+Opętani samotnością           G
+Myślą swą szukają szczęścia   D
+Które zwie się wolnością      e
 
-Wtem do celi klawisz wpada
-I zaczyna więźnia bić 
-Młody więzień na twarz pada 
-Serce mu przestaje bić 
+Wtem do celi klawisz wpada    e
+I zaczyna więźnia bić         G
+Młody więzień na twarz pada   D
+Serce mu przestaje bić        e
 
-I nadejdzie chwila błoga 
-Śmierć zabierze oddech mój 
-Moje ciało stąd wyniosą 
-A pod celą będą znów... 
+I nadejdzie chwila błoga     e
+Śmierć zabierze oddech mój   G
+Moje ciało stąd wyniosą      D
+A pod celą będą znów...      e
 
-Inny czarny chleb i czarna kawa
-Opętani samotnością 
-Myślą swą szukają szczęścia
-Które zwie się wolnością
+Inny czarny chleb i czarna kawa   e
+Opętani samotnością               G
+Myślą swą szukają szczęścia       D
+Które zwie się wolnością          e
 
 
  Jesień idzie
 
  (Aleksander Grotowski)
 
-Raz staruszek, spacerując w lesie     e A7 e A7
-Ujrzał listek przywiędły i blady  e A7 H7
-I pomyślał: Znowu idzie jesień   e A7 e A7
-Jesień idzie, nie ma na to rady!  C H7 e
+Raz staruszek, spacerując w lesie   e A7 e A7
+Ujrzał listek przywiędły i blady    e A7 H7
+I pomyślał: Znowu idzie jesień      e A7 e A7
+Jesień idzie, nie ma na to rady!    C H7 e
 
-I podreptał do chaty po dróżce   C D G e
-I oznajmił, stanąwszy przed chatą 
-Swojej żonie, tak samo staruszce:
-- Jesień idzie, nie ma rady na to!  C H7 (e A7 e A7)
+  I podreptał do chaty po dróżce      C D G e
+  I oznajmił, stanąwszy przed chatą   C D G e
+  Swojej żonie, tak samo staruszce:   C D G e
+  Jesień idzie, nie ma rady na to!    C H7 (e A7 e A7)
 
-A staruszka zmartwiła się szczerze 
-Zamachnęła rękami obiema:
-- Musisz zacząć chodzić w pulowerze 
-Jesień idzie, rady na to nie ma!
+A staruszka zmartwiła się szczerze   e A7 e A7
+Zamachnęła rękami obiema:            e A7 H7
+Musisz zacząć chodzić w pulowerze    e A7 e A7
+Jesień idzie, rady na to nie ma!     C H7 e
 
-Może zrobić się chłodno już jutro
-Lub pojutrze, a może za tydzień
-Trzeba będzie wyjąć z kufra futro 
-Nie ma rady; Jesień, jesień idzie!
+  Może zrobić się chłodno już jutro    C D G e
+  Lub pojutrze, a może za tydzień      C D G e
+  Trzeba będzie wyjąć z kufra futro    C D G e
+  Nie ma rady; Jesień, jesień idzie!   C D G e
 
-A był sierpień. Pogoda prześliczna 
-Wszystko w złocie trwało i w zieleni 
-Prócz staruszków nikt chyba nie myślał
-O mającej nastąpić jesieni 
+A był sierpień. Pogoda prześliczna       e A7 e A7
+Wszystko w złocie trwało i w zieleni     e A7 H7
+Prócz staruszków nikt chyba nie myślał   e A7 e A7
+O mającej nastąpić jesieni               C H7 e
 
-Ale cóż, oni żyli najdłużej 
-Mieli swoje staruszkowie zasady
-I wiedzieli, że prędzej czy później
-Jesień przyjdzie. Nie ma na to rady 
+  Ale cóż, oni żyli najdłużej           C D G e
+  Mieli swoje staruszkowie zasady       C D G e
+  I wiedzieli, że prędzej czy później   C D G e
+  Jesień przyjdzie. Nie ma na to rady   C D G e
 
 
  Wigwam
 
-Gdy przewieją nas już wszystkie zimne wiatry     e G
-Gdy przemoczą nas do nitki wszystkie deszcze     e G
-Policzymy na swym ciele ślady prawdy       C G
-Pomyślimy o spoczynku, ale jeszcze       D C D
+Gdy przewieją nas już wszystkie zimne wiatry   e G
+Gdy przemoczą nas do nitki wszystkie deszcze   e G
+Policzymy na swym ciele ślady prawdy           C G
+Pomyślimy o spoczynku, ale jeszcze             D C D
 
-Zbudujmy wigwam              G
-W nim rozpalmy ogień wieczny         C D
-Rozległy wigwam             G
-Gdzie każdy będzie już bezpieczny         C D
-I śpiewać będzie z nami           C D
-Wolności wielką pieśń             G e
-Spróbujmy własnymi rękami           C D
-Ogromny wigwam wznieść           G D G
+  Zbudujmy wigwam                     G
+  W nim rozpalmy ogień wieczny        C D
+  Rozległy wigwam                     G
+  Gdzie każdy będzie już bezpieczny   C D
+  I śpiewać będzie z nami             C D
+  Wolności wielką pieśń               G e
+  Spróbujmy własnymi rękami           C D
+  Ogromny wigwam wznieść              G D G
 
-Gdy opuszczą nas już wszyscy przyjaciele
-Kiedy nawet dobry Bóg zapomni o nas
-Gdy stracimy wszystkie piękne wzniosłe cele
-Gdy odechce nam cokolwiek się budować
+Gdy opuszczą nas już wszyscy przyjaciele      e G
+Kiedy nawet dobry Bóg zapomni o nas           e G
+Gdy stracimy wszystkie piękne wzniosłe cele   C G
+Gdy odechce nam cokolwiek się budować         D C D
 
-Zbudujmy wigwam 
-A w nim rozpalmy ogień wieczny
-Rozległy wigwam
-Gdzie każdy będzie już bezpieczny
-I śpiewać będzie z nami
-Wolności wielką pieśń
-Spróbujmy własnymi rękami
-Ogromny wigwam wznieść
+  Zbudujmy wigwam                     G
+  W nim rozpalmy ogień wieczny        C D
+  Rozległy wigwam                     G
+  Gdzie każdy będzie już bezpieczny   C D
+  I śpiewać będzie z nami             C D
+  Wolności wielką pieśń               G e
+  Spróbujmy własnymi rękami           C D
+  Ogromny wigwam wznieść              G D G
 
 
  Pechowy dzień
 
-Wiatr przystojny w garniturze      D
-Chce podobać się złej chmurze      a
-Chmura  w złości deszczem go przędza    G D
-Wiatr się schował w jakimś oknie
-Jest szczęśliwy że nie moknie
-A miał właśnie chmurze być za męża
+Wiatr przystojny w garniturze          D
+Chce podobać się złej chmurze          a
+Chmura  w złości deszczem go przędza   G D
+Wiatr się schował w jakimś oknie       D
+Jest szczęśliwy że nie moknie          a
+A miał właśnie chmurze być za męża     G D
 
-Lecz nie jest źle            F C
-Mogło być gorzej            A7 d
-Czasem w życiu zdarza się        F C
-Pechowy dzień            D
+  Lecz nie jest źle           F C
+  Mogło być gorzej            A7 d
+  Czasem w życiu zdarza się   F C
+  Pechowy dzień               D
 
-Wiatr szczęśliwy w wolnym stanie
-Zawsze stać go na zawianie
-Zawsze stać go na samotny spacer
-A nie jedna chmura teraz
-Kocha, cierpi i umiera 
-Mówiąc; wietrze mogło być inaczej
+Wiatr szczęśliwy w wolnym stanie    D
+Zawsze stać go na zawianie          a
+Zawsze stać go na samotny spacer    G D
+A nie jedna chmura teraz            D
+Kocha, cierpi i umiera              a
+Mówiąc; wietrze mogło być inaczej   G D
 
-Lecz nie jest źle
-Mogło być gorzej
-Czasem w życiu zdarza się
-Pechowy dzień
+  Lecz nie jest źle           F C
+  Mogło być gorzej            A7 d
+  Czasem w życiu zdarza się   F C
+  Pechowy dzień               D
 
 
  Bajka
 
-Jest gdzieś za morzami kraj         G D
-Gdzie nawet w ciemną noc        e
+Jest gdzieś za morzami kraj    G D
+Gdzie nawet w ciemną noc       e
 Zaklęte gwiazdy świecą         H7
-Jest, jest tam czarownik zły         C G
-Co więzi w zamku swym         C
-Też księżniczkę             D D7
-A zamek ten straszny jest
-Strzeże go groźny lew
-Zaklęty w zimny kamień
-Bo straszny czarownik chce
-Rękę księżniczki mieć
-Lecz na próżno
+Jest, jest tam czarownik zły   C G
+Co więzi w zamku swym          C
+Też księżniczkę                a D
+A zamek ten straszny jest      G D
+Strzeże go groźny lew          e
+Zaklęty w zimny kamień         H7
+Bo straszny czarownik chce     C G
+Rękę księżniczki mieć          C
+Lecz na próżno                 a D
 
-Bo przyjdzie kiedyś rycerz        G
-Pokona czarownika          C
-Tak przecież w bajce musi być      G C D D7
-Pokocha też księżniczkę        G
-Bo dla niej przecież przyjdzie        C
-Bo miłość go przywiedzie tu        G C D D7
+  Bo przyjdzie kiedyś rycerz        G
+  Pokona czarownika                 C
+  Tak przecież w bajce musi być     G a D7
+  Pokocha też księżniczkę           G
+  Bo dla niej przecież przyjdzie    C
+  Bo miłość go przywiedzie tu       G a D7
+ 
+Jest gdzieś za morzami kraj   G D
+Gdzie nawet w ciemną noc      e
+Ptak o miłości śpiewa         H7
+Bo czarnoksiężnika moc        C G
+Słaba jest kiedy z nią        C
+Walczy miłość                 a D
 
-Jest gdzieś za morzami kraj
-Gdzie nawet w ciemną noc
-Ptak o miłości śpiewa
-Bo czarnoksiężnika moc
-Słaba jest kiedy z nią
-Walczy miłość
+  Bo przyjdzie kiedyś rycerz        G
+  Pokona czarownika                 C
+  Tak przecież w bajce musi być     G a D7
+  Pokocha też księżniczkę           G
+  Bo dla niej przecież przyjdzie    C
+  Bo miłość go przywiedzie tu       G a D7
 
-On będzie księciem          G
-Złoty jej pierścień da          C D
-I pójdą razem przez świat        C D7 G
+    On będzie księciem        G
+    Złoty jej pierścień da    C 
+    Pójdą razem przez świat   C D7 G
 
 
  Kwiatek
 
-Jesteś kwiatku pewny siebie         D A e
-Wyrosłeś o kwiatku luby 
-Lecz wszystkiego jeszcze nie wiesz;
-Bliskie są dni twojej zguby
+Jesteś kwiatku pewny siebie            D A e
+Wyrosłeś o kwiatku luby                D A e
+Lecz wszystkiego jeszcze nie wiesz;    D A e
+Bliskie są dni twojej zguby            D A e
 
-Nic po tobie, nic po wierszach
-W smogu zapach twój utonie
-Już pustynia coraz szersza 
-Już romantyczności koniec 
+Nic po tobie, nic po wierszach   D A e
+W smogu zapach twój utonie       D A e
+Już pustynia coraz szersza       D A e
+Już romantyczności koniec        D A e
 
-Tu, gdzie kwitniesz, w tej dąbrowie 
-Tam pobiegnie nowa trasa 
-Postarają się panowie 
-Aby był porządek w lasach 
+Tu, gdzie kwitniesz, w tej dąbrowie   D A e
+Tam pobiegnie nowa trasa              D A e
+Postarają się panowie                 D A e
+Aby był porządek w lasach             D A e
 
-Nic po tobie, nic po wierszach
-W smogu zapach twój utonie
-Już pustynia coraz szersza
-Już romantyczności koniec 
+Nic po tobie, nic po wierszach   D A e
+W smogu zapach twój utonie       D A e
+Już pustynia coraz szersza       D A e
+Już romantyczności koniec        D A e
 
-W grunt się wryją buldożery 
-Wszystkie drzewa drwale wytną 
-Będę z tobą, kwiatku, szczery
-Jak tu na betonie kwitnąć?
+W grunt się wryją buldożery     D A e
+Wszystkie drzewa drwale wytną   D A e
+Będę z tobą, kwiatku, szczery   D A e
+Jak tu na betonie kwitnąć?      D A e
 
-Nic po tobie, nic po wierszach
-W smogu zapach twój utonie
-Już pustynia coraz szersza
-Już romantyczności koniec 
+Nic po tobie, nic po wierszach   D A e
+W smogu zapach twój utonie       D A e
+Już pustynia coraz szersza       D A e
+Już romantyczności koniec        D A e
 
-W lepkiej i smolistej ropie
-Giną nasze biedne ptaki 
-Sypie się z kominów popiół 
-Już się nie czerwienią maki 
+W lepkiej i smolistej ropie   D A e
+Giną nasze biedne ptaki       D A e
+Sypie się z kominów popiół    D A e
+Już się nie czerwienią maki   D A e
 
-Nic po tobie, nic po wierszach
-W smogu zapach twój utonie
-Już pustynia coraz szersza
-Już romantyczności koniec
+Nic po tobie, nic po wierszach   D A e
+W smogu zapach twój utonie       D A e
+Już pustynia coraz szersza       D A e
+Już romantyczności koniec        D A e
 
-Pszczoła złota też umiera 
-Więcej miodu już nie zbierze
-I zatrutą atmosferą
-Oddycha zmęczone zwierzę 
+Pszczoła złota też umiera      D A e
+Więcej miodu już nie zbierze   D A e
+I zatrutą atmosferą            D A e
+Oddycha zmęczone zwierzę       D A e
 
-Nic po tobie, nic po wierszach
-W smogu zapach twój utonie
-Już pustynia coraz szersza
-Już romantyczności koniec
+Nic po tobie, nic po wierszach   D A e
+W smogu zapach twój utonie       D A e
+Już pustynia coraz szersza       D A e
+Już romantyczności koniec        D A e
 
-Więc harcerzu podnieś głowę 
-Obroń swą przyrodę matkę 
-Rozkuj beton, zasiej trawę 
-Rozwiej dymy ponad kwiatkiem
+Więc harcerzu podnieś głowę    D A e
+Obroń swą przyrodę matkę       D A e
+Rozkuj beton, zasiej trawę     D A e
+Rozwiej dymy ponad kwiatkiem   D A e
 
 
  Myślę sobie że
 
-Myślę sobie, że            C F G
-Ta zima kiedyś musi minąć        d C F G
-Zazieleni się 
-Urośnie parę drzew
-Niedojedzony chleb
-Zdąży w ustach się rozpłynąć
-A niedopity rum
-Rozgrzeje jeszcze krew 
+Myślę sobie, że                C F G
+Ta zima kiedyś musi minąć      d C F G
+Zazieleni się                  C F G
+Urośnie parę drzew             d C F G
+Niedojedzony chleb             C F G
+Zdąży w ustach się rozpłynąć   d C F G
+A niedopity rum                C F G
+Rozgrzeje jeszcze krew         d C F G
 
-Tak mało rozumiem          E Fis F E
-A dzwony fałszywe
-Coś mówi mi, że            E Fis
-Jeszcze wszystko będzie możliwe      Gis A H
-Nim stanie się tak
-Jak gdyby nigdy nic nie było 
-Nim stanie się tak
-Jak gdyby nigdy nic
+  Tak mało rozumiem                 E Fis F E
+  A dzwony fałszywe                 E Fis F E
+  Coś mówi mi, że                   E Fis
+  Jeszcze wszystko będzie możliwe   Gis A H
+  Nim stanie się tak                E Fis F E
+  Jak gdyby nigdy nic nie było      E Fis F E
+  Nim stanie się tak                E Fis
+  Jak gdyby nigdy nic               Gis A H
 
-Zimny poniedziałek
-Gorącą stanie się niedzielą
-To co nie pozmywane
-Samo zmyje się
-Nieśmiały dotąd głos
-Odezwie się jak dzwon w kościele
-A tego czego mało
-Nie będzie wcale mniej…
+Zimny poniedziałek                 C F G
+Gorącą stanie się niedzielą        d C F G
+To co nie pozmywane                C F G
+Samo zmyje się                     d C F G
+Nieśmiały dotąd głos               C F G
+Odezwie się jak dzwon w kościele   d C F G
+A tego czego mało                  C F G
+Nie będzie wcale mniej             d C F G
 
+  Tak mało rozumiem                 E Fis F E
+  A dzwony fałszywe                 E Fis F E
+  Coś mówi mi, że                   E Fis
+  Jeszcze wszystko będzie możliwe   Gis A H
+  Nim stanie się tak                E Fis F E
+  Jak gdyby nigdy nic nie było      E Fis F E
+  Nim stanie się tak                E Fis
+  Jak gdyby nigdy nic               Gis A H
+ 
 
  Hej, przyjaciele!
 
@@ -2050,35 +2087,49 @@ Odeszła niby sen
 Może wróci
 
 
- Bez słów
+ Bez słów (zmienić chwyty (lepsza tonacja)
 
-Chodzą ulicami ludzie          G D
-Maj przechodzą lipiec grudzień      e h
-Zagubieni wśród ulic bram        C G D
-Przemarznięte grzeją dłonie
-Dokądś pędzą za czymś gonią
-I budują wciąż domki z kart
+Chodzą ulicami ludzie            A E
+Maj przechodzą lipiec grudzień   fis cis
+Zagubieni wśród ulic bram        D A E
+Przemarznięte grzeją dłonie      A E
+Dokądś pędzą za czymś gonią      fis cis
+I budują wciąż domki z kart      D A E
 
-A tam w mech odziany kamień      C G
-Tam zaduma w wiatru graniu        C G
-Tam powietrze ma inny smak        C G D
-Porzuć kroków rytm na bruku
-Spróbuj-znajdziesz jeśli szukasz
-Zechcesz nowy świat własny świat
+  A tam w mech odziany kamień          D A 
+  Tam zaduma w wiatru graniu           D A
+  Tam powietrze ma inny smak           D A E 
+  Porzuć kroków rytm na bruku          D A
+  Spróbuj - znajdziesz jeśli szukasz   D A
+  Zechcesz nowy świat własny świat     D A E
 
-Płyną ludzie miastem szarzy
-Pozbawieni złudzeń marzeń
-Omijają wciąż główny nurt
-Kryją się w swych norach krecich
-I śnić nawet o karecie
-Co lśni złotem nie potrafią już
+Idą ludzie miastem szarzy          A E
+Pozbawieni złudzeń marzeń          fis cis
+Omijają wciąż główny nurt          D A E
+Kryją się w swych norach krecich   A E
+I śnic nawet o karecie             fis cis
+Co lśni zlotem nie potrafią już    D A E
 
-Żyją ludzie asfalt depczą
-Nikt nie krzyknie każdy szepcze
-Drzwi zamknięte zaklepany krąg
-Tylko czasem kropla z oczu
-Po policzku w dół się stoczy
-I to dziwne drżenie rąk
+  A tam w mech odziany kamień          D A 
+  Tam zaduma w wiatru graniu           D A
+  Tam powietrze ma inny smak           D A E 
+  Porzuć kroków rytm na bruku          D A
+  Spróbuj - znajdziesz jeśli szukasz   D A
+  Zechcesz nowy świat własny świat     D A E
+
+Żyją ludzie asfalt depczą         A E
+Nikt nie krzyknie każdy szepcze   fis cis
+Drzwi zamknięte zaklepany krąg    D A E
+Tylko czasem kropla z oczu        A E
+Po policzku w dół się stoczy      fis cis
+I to dziwne drżenie rak           A E
+
+  A tam w mech odziany kamień          D A 
+  Tam zaduma w wiatru graniu           D A
+  Tam powietrze ma inny smak           D A E 
+  Porzuć kroków rytm na bruku          D A
+  Spróbuj - znajdziesz jeśli szukasz   D A
+  Zechcesz nowy świat własny świat     D A E
 
 
  Przyjdzie rozstań czas
@@ -5009,8 +5060,7 @@ Jeździć z tobą po ruchomych schodach
 Ale nie! Bo ty zatrzymujesz je
 I przychodzi ochroniarz
 
-
- Bo ja, za dnia
+Bo ja, za dnia
 Jestem wilkiem 
 A ty, w nocy
 Jesteś sokołem
@@ -5087,8 +5137,7 @@ Mówi mi, że nic nie będzie z nas
 Dziś nie dbam o to, dziś jestem idiotą 
 Dzisiaj chodzę tylko z Tobą 
 
-
- Bo przecież!
+Bo przecież!
 Lubię patrzeć w Twoje oczy 
 Lubię trzymać Cię za rękę, paląc papierosy 
 Lubię też, kiedy patrzysz czy patrzę 
@@ -5467,8 +5516,6 @@ Otwieram drzwi i nie mówię już nic
 
 
  Dom wschodzącego słońca
-
- (na melodię „House of a Rising Sun”)
 
 W więziennym szpitalu na zgniłym posłaniu
 Nieznany młodzieniec umiera
@@ -6267,11 +6314,11 @@ Po pierwszym września - siedemnasty
 
 I święcić będą nam potomni
 Po pierwszym - siedemnasty 
- 
+
 
  Samosierra
 
- (Jacek Kaczmarski)
+(Jacek Kaczmarski)
 
 Pod prąd wąwozem w twarz ognistym wiatrom      a C
 Po końskie brzuchy w nurt płynącej lawy        F C d E
