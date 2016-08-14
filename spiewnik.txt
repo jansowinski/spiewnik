@@ -1236,29 +1236,29 @@ Nie będzie wcale mniej             d C F G
  Hej, przyjaciele!
 
 Tam, dokąd chciałem, już nie dojdę, szkoda zdzierać nóg  C G F C
-Już wędrówki naszej wspólnej nadchodzi kres      C G F G C
-Wy pójdziecie inną drogą, zostawicie mnie 
-Odejdziecie - sam zostanę na rozstaju dróg
+Już wędrówki naszej wspólnej nadchodzi kres              C G F G C
+Wy pójdziecie inną drogą, zostawicie mnie                C G F C
+Odejdziecie - sam zostanę na rozstaju dróg               C G F G C
 
-Hej, przyjaciele, zostańcie ze mną
-Przecież wszystko to, co miałem, oddałem Wam 
-Hej, przyjaciele, choć chwilę jedną
-Znowu w życiu mi nie wyszło, znowu będę sam 
+  Hej, przyjaciele, zostańcie ze mną             C G F C
+  Przecież wszystko to, co miałem, oddałem Wam   C G F G C
+  Hej, przyjaciele, choć chwilę jedną            C G F C
+  Znowu w życiu mi nie wyszło, znowu będę sam    C G F G C
 
-Znów spóźniłem się na pociąg i odjechał już
-Tylko jego mglisty koniec zamajaczył mi 
-Stoję smutny na peronie z tą walizką jedną 
-Tak jak człowiek, który zgubił od domu swego klucz 
+Znów spóźniłem się na pociąg i odjechał już          C G F C
+Tylko jego mglisty koniec zamajaczył mi              C G F G C
+Stoję smutny na peronie z tą walizką jedną           C G F C
+Tak jak człowiek, który zgubił od domu swego klucz   C G F G C
 
-Tam, dokąd chciałem, już nie dojdę, szkoda zdzierać nóg 
-Już wędrówki naszej wspólnej nadchodzi kres 
-Wy pójdziecie inną drogą, zostawicie mnie 
-Zamazanych drogowskazów nie odczytam już 
+Tam, dokąd chciałem, już nie dojdę, szkoda zdzierać nóg   C G F C
+Już wędrówki naszej wspólnej nadchodzi kres               C G F G C
+Wy pójdziecie inną drogą, zostawicie mnie                 C G F C
+Zamazanych drogowskazów nie odczytam już                  C G F G C
 
 
  Powrócisz
 
-Powrócisz znów            C G
+Powrócisz znów                            C G
 Do tych jezior, lasów, łąk zielonych      a F
 Do miejsca gdzie 
 Kiedyś obóz stał 
@@ -1366,30 +1366,30 @@ Cień przydrożnej wierzby...
 
  Za celem
 
-Nie wie słońce ani deszcz          a G a
-Jaki cel przed nami jest;
-Tyle ścieżek tu i tam, tu i tam 
-Cel się wkrótce znajdzie sam 
+Nie wie słońce ani deszcz         a G a
+Jaki cel przed nami jest;         a G a
+Tyle ścieżek tu i tam, tu i tam   a G a
+Cel się wkrótce znajdzie sam      a G a
 
-Rok ma tyle pięknych dni 
-Dostrzegalnych spoza szyb 
-Tuż za oknem kwitnie kwiat, kwitnie kwiat 
-Szybę stłucz, wejdź w jego świat 
+Rok ma tyle pięknych dni           a G a
+Dostrzegalnych spoza szyb          a G a
+Tuż za oknem kwitnie kwiat         a G a
+Szybę stłucz, wejdź w jego świat   a G a
 
-W drodze słońca nie przesłoni żaden dach     d e
-Podpierany jarzmem kilku martwych ścian 
-W drodze ziemi smak poczujesz, poznasz ją;
-Jak dziewczynę będziesz kochał, wracał wciąż 
+W drodze słońca nie przesłoni żaden dach       d e
+Podpierany jarzmem kilku martwych ścian        d e
+W drodze ziemi smak poczujesz, poznasz ją;     d e
+Jak dziewczynę będziesz kochał, wracał wciąż   d e
 
-Nie wie słońce ani deszcz 
-Jaki cel przed nami jest 
-Tyle ścieżek tu i tam, tu i tam 
-Cel się wkrótce znajdzie  sam 
+Nie wie słońce ani deszcz         a G a
+Jaki cel przed nami jest;         a G a
+Tyle ścieżek tu i tam, tu i tam   a G a
+Cel się wkrótce znajdzie sam      a G a
 
-Droga cel wyznaczy ci 
-A więc śmiało po niej idź
-Gdzieś przy końcu drogi swej 
-Znajdziesz upragniony cel
+Droga cel wyznaczy ci          a G a
+A więc śmiało po niej idź      a G a
+Gdzieś przy końcu drogi swej   a G a
+Znajdziesz upragniony cel      a G a
 
 
  Wieczorne krajobrazy
@@ -5230,7 +5230,7 @@ O no, no, no, no, no nasz bananowy song
 
 Znam małą sambę        E
 Sikoreczkę mambę         Fis
-Buty jej spadają kiedy tańczy      H7E
+Buty jej spadają kiedy tańczy   H7E
 Dała jej mamusia         E
 Słodkiego cycusia        Fis
 Żeby jej się śmiała        H7

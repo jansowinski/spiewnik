@@ -56,6 +56,7 @@
 - [ ] Hymn harcerski
 - [ ] Idzie zuch
 - [ ] Jaworzyna?
+- [ ] Kiedy ranne wstają zorze
 - [ ] Kołysanka dla Joanny
 - [ ] Kto zeżarł talerz klusek
 - [ ] Maestro bezdomny
