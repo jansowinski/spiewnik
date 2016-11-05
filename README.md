@@ -133,7 +133,7 @@
   - [ ] poprawianie tytułów piosenek
   - [ ] poprawki w rozmieszczeniu piosenek w treści
 
-2. Edycja - [ ] formatowanie dokumentu w jeden określony sposób
+2. Edycja - formatowanie dokumentu w jeden określony sposób
 
   - [ ] przygotowanie surowego dokumentu z odpowiednimi wcięciami i rozmieszczeniem chwytów
   - [ ] sformatowanie dokumentu jako plik markdown
@@ -174,7 +174,6 @@
 
   - [ ] propozycja wydrukowania śpiewników dla szczepu
   - [ ] konsultacja z drużynowymi i wybór piosenek
-  - [ ] rozwiązanie ewentualnych konfliktów z Martą Bieniasz
   - [ ] znalezienie drukarni i wycena
   - [ ] przelewy od chętnych
   - [ ] druk
