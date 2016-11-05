@@ -11,7 +11,7 @@
 2. Wpisujemy uwagi (czyli to co nam nie pasuje) do listy rzeczy do zrobienia w odpowiednią kategorię [dokumencie do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)
 3. (opcjonalnie) Kopiujemy piosenkę i wklejamy do [dokumentu do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing) a następnie przerabiamy tak, żeby było dobrze
 
-**_Uwaga!_** _Nie używamy tab'ów - zamiast tego spacje, nie używamy innych czcionek niż courier new - w finalnej wersji będziemy używać ładniejszej czcionki ale google docs oferuje tylko jedną czcionkę stałej szerokości, która pozwoli nam później na łatwiejsze ogarnięcie edycji._
+**_Uwaga!_** _Nie używamy tab'ów - [ ] zamiast tego spacje, nie używamy innych czcionek niż courier new - [ ] w finalnej wersji będziemy używać ładniejszej czcionki ale google docs oferuje tylko jedną czcionkę stałej szerokości, która pozwoli nam później na łatwiejsze ogarnięcie edycji._
 
 ## Co jest do zrobienia?
 
@@ -126,42 +126,57 @@
 
 1. [Poprawianie surowej wersji **_(od teraz do połowy września)_**](https://github.com/iansowinski/spiewnik#jak-to-działa)
 
-  - dodawanie piosenek
-  - dodawanie tabulatur
-  - poprawianie tekstów
-  - poprawianie chwytów
-  - poprawianie tytułów piosenek
+  - [ ] dodawanie piosenek
+  - [ ] dodawanie tabulatur
+  - [ ] poprawianie tekstów
+  - [ ] poprawianie chwytów
+  - [ ] poprawianie tytułów piosenek
+  - [ ] poprawki w rozmieszczeniu piosenek w treści
 
-2. Edycja i przygotowanie do druku **_(do końca października)_**
+2. Edycja - [ ] formatowanie dokumentu w jeden określony sposób
 
-  - przygotowanie surowego dokumentu z odpowiednimi wcięciami i rozmieszczeniem chwytów
-  - poprawki w rozmieszczeniu piosenek w treści
-  - opracowanie szablonu - przetestowanie odpowiednich czcionek i rozmieszczenia numerów stron itp
-  - przygotowanie dokumentu do druku w indesignie
-  - przerobienie surowego pliku na wersje markdown i eksport do html
+  - [ ] przygotowanie surowego dokumentu z odpowiednimi wcięciami i rozmieszczeniem chwytów
+  - [ ] sformatowanie dokumentu jako plik markdown
+  - [ ] napisanie skryptów do:
+    - [ ] usuwania formatowania markdown (dla łatwiejszego wklejania do indesignu)
+    - [ ] rozkmienienie automatyzacji składania tekstu
 
-3. Projektowanie śpiewnika samego w sobie **_(do połowy listopada)_**
+3. Przygotowanie wersji dla ludzi:
 
-  - research materiałów na okładkę
-  - ewentualne przygotowanie ilustracji na okładkę
-  - research rodzajów papieru
-  - przygotowanie arkuszu stylów internetowej wersji śpiewnika
-  - projektowanie i testowanie spisu treści
-  - poprawki w pliku do druku
-  - opracowanie dodatkowych bajerów i pierwszy testowy wydruk całości
+  - [ ] opracowanie szablonu:
+    - [ ] przetestowanie odpowiednich czcionek
+    - [ ] przetestowanie rozmieszczenia numerów stron itp
+  - [ ] przygotowanie dokumentu do druku w indesignie
+  - [ ] napisanie cssa do mdwiki
 
-4. Druk **_(do żółkiewszczady)_**
+4. Stworzenie wersji prywatnej:
 
-  - zebranie zamówień
-  - znalezienie drukarni i wycena
-  - przelewy od chętnych
-  - druk
-  - przycięcie
-  - oprawa
-  - publikacja w internecie pdfa z instrukcją do druku
-  - publikacja strony-śpiewnika
+  - [ ] ogarnięcie systemu aktualizacji i rozdzielenia śpiewnika prywatnego od błękitnego
+    - [ ] osobne repo i przekazanie tego jakiemuś aktywnemu ogarniaczowi?
+    - [ ] stworzenie softu do generacji śpiewnika?
+  - [ ] research materiałów na okładkę
+  - [ ] ewentualne przygotowanie ilustracji na okładkę
+  - [ ] research rodzajów papieru
+  - [ ] projektowanie i testowanie spisu treści
+  - [ ] wyrzucenie niechcianych piosenek i dodanie tylko swoich
+  - [ ] opracowanie dodatkowych bajerów
+  - [ ] druk!
 
-5. Post-druk
+5. Opublikowanie śpiewnika do wglądu Błękitnej:
 
-  - znalezienie osoby odpowiedzialnej za śpiewnik
-  - ogarnięcie systemu aktualizacji
+  - [ ] wrzucenie markdowna na stronę
+  - [ ] propozycja współpracy przy edycji
+    - [ ] utworzenie arkusza z spisem treści i proponowanymi zmianami
+    - [ ] post na grupie błękitnej
+  - [ ] publikacja w internecie pdfa z instrukcją do druku
+
+7. Druk wersji dla błękitnej:
+
+  - [ ] propozycja wydrukowania śpiewników dla szczepu
+  - [ ] konsultacja z drużynowymi i wybór piosenek
+  - [ ] rozwiązanie ewentualnych konfliktów z Martą Bieniasz
+  - [ ] znalezienie drukarni i wycena
+  - [ ] przelewy od chętnych
+  - [ ] druk
+  - [ ] przycięcie
+  - [ ] oprawa
