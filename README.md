@@ -50,30 +50,12 @@
 **Dodać piosenki:**
 
 - [ ] C'est la vie
-- [ ] Mój świat
-- [ ] Na przystanku PKS-u
-- [ ] all along watchtower
-- [ ] Hey, hey, My, my
-- [ ] Heart of gold
-- [ ] Blowing in the wind
-- [ ] don't think twice it's allrigt
-- [ ] Trudno nie wierzyć w nic
-- [ ] Droga do tipperary
-- [ ] Stygnę
-- [ ] Kto?
-- [ ] Moja i Twoja nadzieja
-- [ ] 600 mil od nikąd
-- [ ] Tam gdzie gnam
-- [ ] Odejdziemy
-- [ ] Lecimy
-- [ ] Ulica kolejowa
-- [ ] Złodzeje choinek
 - [ ] Chory na wyobraźnię
 - [ ] Cóż wam chorym
 - [ ] Droga do Tiperary
 - [ ] Hymn harcerski
 - [ ] Idzie zuch
-- [ ] Jaworzyna
+- [ ] Jaworzyna?
 - [ ] Kiedy ranne wstają zorze
 - [ ] Kołysanka dla Joanny
 - [ ] Kto zeżarł talerz klusek
@@ -81,16 +63,12 @@
 - [ ] Mleko
 - [ ] Modlitwa harcerska
 - [ ] My cyganie
+- [ ] Mój świat (kiedy w piątek słońce świeci)
 - [ ] Młody las
 - [ ] Niewidzialna plastelina
 - [ ] Pan jest mocą swojego ludu
 - [ ] Pałacyk Michla
 - [ ] Październik
-- [ ] Ballada o pancernych
-- [ ] ballada o szosie e7
-- [ ] fiat 126p
-- [ ] piosenka z szabli
-- [ ] ptaki ptakom
 - [ ] Pierwsza zmierzchu fala
 - [ ] Pieśń o małym rycerzu
 - [ ] Pieśń odchodzących
@@ -98,6 +76,7 @@
 - [ ] Piosenka z szabli
 - [ ] Pożegnanie (SDM)
 - [ ] Przebudzenie
+- [ ] Ptaki ptakom(?)
 - [ ] Pędziwiatr
 - [ ] Siódme niebo
 - [ ] Stare namioty
@@ -110,17 +89,6 @@
 - [ ] Windą do nieba
 - [ ] Więc chodź, pomaluj mój świat
 - [ ] Zakochani
-- [ ] Missouri, ty wielka rzeko
-- [ ] Piosenka o jeżach
-- [ ] Kwiecień 74
-- [ ] Tato
-- [ ] Ty druha we mnie masz
-- [ ] Wild horses
-- [ ] Wish you were here
-- [ ] Zakochani
-- [ ] Space oddity
-- [ ] Pamietam
-- [ ] Rower
 - [x] A piosnka wciąż płynie
 - [x] Bratnie słowo
 - [x] Gdy szedłem raz od warty
