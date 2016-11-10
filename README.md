@@ -1,7 +1,7 @@
 # spiewnik
 
 - [Wersja podglądowa (pdf)](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0)
-- [Wersja txt](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.txt)
+- [Wersja txt](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.md)
 - [Alfabetyczny spis treści (bez piosenek do dodania, dostępnych niżej)](https://github.com/iansowinski/spiewnik/blob/master/spis.txt)
 - **[Dokument do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)**
 
@@ -88,7 +88,7 @@
 - [ ] Wilno odbijemy
 - [ ] Windą do nieba
 - [ ] Więc chodź, pomaluj mój świat
-- [ ] Zakochani
+- [x] Zakochani
 - [x] A piosnka wciąż płynie
 - [x] Bratnie słowo
 - [x] Gdy szedłem raz od warty
