@@ -1,4 +1,4 @@
-# spiewnik
+X# spiewnik
 
 - [Wersja podglądowa (pdf)](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0)
 - [Wersja txt](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.md)
@@ -80,14 +80,15 @@
 - [ ] Pędziwiatr
 - [ ] Siódme niebo
 - [ ] Stare namioty
-- [ ] Stary cowboy (koń, lasso i bat)
-- [ ] Szklana góra
-- [ ] W domach z betonu
-- [ ] Walczyk kubusia
-- [ ] Wciąż płynie czas (szybko pędzi wielki pociąg)
-- [ ] Wilno odbijemy
-- [ ] Windą do nieba
-- [ ] Więc chodź, pomaluj mój świat
+- [ ] Missouri
+- [X] Stary cowboy (koń, lasso i bat)
+- [X] Szklana góra
+- [X] W domach z betonu
+- [X] Walczyk kubusia
+- [X] Wciąż płynie czas (szybko pędzi wielki pociąg)
+- [X] Wilno odbijemy
+- [X] Windą do nieba
+- [X] Więc chodź, pomaluj mój świat
 - [x] Zakochani
 - [x] A piosnka wciąż płynie
 - [x] Bratnie słowo

@@ -8608,3 +8608,320 @@ zakochani
 zakochani
 zakochani
 ~~~
+
+## Chodź, pomaluj mój świat
+
+~~~
+Piszesz mi w liście, że kiedy pada a d 
+Kiedy nasturcje na deszczu mokną, G a 
+Siadasz przy stole, wyjmujesz farby C G 
+I kolorowe otwierasz okno. d E a 
+
+Trawy i drzewa są takie szare, 
+Barwę popiołu przybrały nieba 
+W ciszy tak smutno szepce zegarek 
+O czasie co mi go nie potrzeba. 
+
+Więc chodź pomaluj mój świat C d 
+Na żółto i na niebiesko. F C 
+Niech na niebie stanie tęcza malowana Twoją kredką. C d F (G) 
+Więc chodź pomaluj mi życie 
+Niech świat mój się zarumieni, 
+Niech mi zalśni w pełnym słońcu 
+Kolorami całej Ziemi. 
+
+Za siódmą górą, za siódmą rzeką 
+Twoje sny zamieniasz na pejzaże, 
+Niebem się wlecze wyblakłe słońce 
+Oświetla ludziom wyblakłe twarze. 
+
+Więc chodź pomaluj mój świat 
+Na żółto i na niebiesko. 
+Niech na niebie stanie tęcza 
+Malowana Twoją kredką. 
+Więc chodź pomaluj mi życie 
+Niech świat mój się zarumieni, 
+Niech mi zalśni w pełnym słońcu 
+Kolorami całej Ziemi.
+~~~
+
+## Windą do nieba
+
+~~~
+mój piękny panie raz zobaczony w technikolorze          C a G
+piszę do pana ostatni list                              F G C
+już mi lusterko z tym pana zdjęciem też nie pomoże      G a F
+pora mi dzisiaj do ślubu iść                            C G C
+
+mój piękny panie ja go nie kocham taka jest prawda
+pan główną rolę gra w każdym śnie
+ale dziewczyna przez życie nie może iść całkiem sama
+życie jest życiem pan przecież wie
+
+        już mi niosą suknię z welonem           F G C a
+        już Cyganie czekają z muzyką
+        koń do taktu zamiata ogonem
+        Mendelsonem stukają kopyta              F G C G
+
+        jeszcze ryżem sypną na szczęście
+        gości tłum coś fałszywie odśpiewa
+        złoty krążek mi wcisnął na rękę
+        i powiozą mnie windą do nieba
+
+mój piękny panie z tego wszystkiego nie mogłam zasnąć
+więc nie mógł mi się pan przyśnić dziś
+i tak odchodzę bez pożegnania jakby znienacka
+ktoś między nami zatrzasnął drzwi
+
+        już mi niosą suknię z welonem           F G C a
+        już Cyganie czekają z muzyką
+        koń do taktu zamiata ogonem
+        Mendelsonem stukają kopyta              F G C G
+
+        jeszcze ryżem sypną na szczęście
+        gości tłum coś fałszywie odśpiewa
+        złoty krążek mi wcisnął na rękę
+        i powiozą mnie windą do nieba
+~~~
+
+## Wilno odbijemy
+
+~~~
+Jak mawiał wódz Słoneczko Stalin         a
+Obniżając stawki płacy                   C
+Nie znajdziesz na Syberii malin          D
+Tylko obozy pracy                        a
+
+Wieść ta do Polski szybko przyleciała
+Jak czarny rumak z prerii
+Więc cała ludność ciężko harowała 
+Nie chcąc się dać Syberii
+
+    A my Wilno zdobędziemy 
+    Lwów odbijemy
+    Odpoczniemy w Leningradzie 
+    W kołchozowym stadzie
+
+    A my Wilno zdobędziemy 
+    Lwów odbijemy
+    Odpoczniemy na Kamczatce
+    Przy chińskiej herbatce
+
+Przeminęły czasy Józefa Wielkiego
+Podrożały wszystkie trunki
+W Polsce rządzi klika górnika
+Z Moskwą ma stosunki
+
+A gdy nastanie nowe pokolenie 
+Młodzież na czele stanie
+Mając na celu Polski zmartwychwstanie 
+Sprawi moskalom lanie
+
+    A my Wilno zdobędziemy 
+    Lwów odbijemy
+    Odpoczniemy w Leningradzie 
+    W kołchozowym stadzie
+
+    A my Wilno zdobędziemy 
+    Lwów odbijemy
+    Odpoczniemy na Kamczatce
+    Przy chińskiej herbatce
+
+To nie są żarty ani żadne kpiny
+My nie jesteśmy na gazie
+Miłość do Polski nigdy nie zagaśnie 
+Więc zaśpiewajmy razem
+
+    A my Wilno zdobędziemy 
+    Lwów odbijemy
+    Odpoczniemy w Leningradzie 
+    W kołchozowym stadzie
+
+    A my Wilno zdobędziemy 
+    Lwów odbijemy
+    Będzie Polska jak złota zorza
+    Od morza do morza
+~~~
+
+## Wciąż płynie czas
+
+~~~
+Szybko pędzi wielki pociąg - wciąż płynie czas      e A7 H7 e
+Szybko pędzi wielki pociąg - wciąż płynie czas
+Jedni z niego wysiadają, inni wsiadają do niego     A7 H7
+Szybko pędzi wielki pociąg - wciąż płynie czas.
+
+Miałem wczoraj kupę forsy - wciąż płynie czas 
+Miałem wczoraj kupę forsy - wciąż płynie czas
+Dziś mi został jeden grosz, ten jedyny, ten ostatni 
+Miałem wczoraj kupę forsy - wciąż płynie czas.
+
+Niesiesz smutku pełne serce - wciąż płynie czas 
+Niesiesz smutku pełne serce - wciąż płynie czas 
+Ale chmury twoje miną i zaświeci twoje słońce 
+Niesiesz smutku pełne serce - wciąż płynie czas.
+
+Ściskasz życie mocno w garści - wciąż płynie czas 
+Ściskasz życie mocno w garści - wciąż płynie czas 
+Ściskasz życie mocno w garści, tak niewiele go zostało 
+Ściskasz życie mocno w garści - wciąż płynie czas.
+
+Tak niedawno był tu z nami - wciąż płynie czas
+Tak niedawno był tu z nami - wciąż płynie czas 
+Dzisiaj znika już za mgłą, nie pamięta go już nikt 
+Tak niedawno był tu z nami - wciąż płynie czas.
+
+Szybko pędzi wielki pociąg - wciąż płynie czas 
+Szybko pędzi wielki pociąg - wciąż płynie czas 
+Jedni z niego wysiadają, inni wsiadają do niego 
+Szybko pędzi wielki pociąg - wciąż płynie czas.
+~~~
+
+## Walczyk Kubusia
+
+~~~
+Na stole stoi wazonik         e A D 
+Pierdut w wazonik kamieniem 
+Jak pięknie wazonik zadzwonił 
+Cichutko spadając na ziemię
+
+    To walczyk małego Kubusia 
+    Znanego w całym miasteczku
+    Co nocą do majtek nie siusia
+    I grzecznie się bawi w piaseczku  
+
+Mój tata to też jest aparat 
+Nocami nie wraca do domu
+Już ja go tego oduczę
+Do zupy wlewając mu bromu
+ 
+    To walczyk małego Kubusia 
+    Znanego w całym miasteczku
+    Co nocą do majtek nie siusia
+    I grzecznie się bawi w piaseczku 
+
+Sąsiadki co mieszka nad nami
+Nie lubi bardzo mamusia
+Więc jutro z rana sąsiadce
+W butelkę od mleka nasiusiam
+ 
+    To walczyk małego Kubusia 
+    Znanego w całym miasteczku
+    Co nocą do majtek nie siusia
+    I grzecznie się bawi w piaseczku
+
+A babcia niczego nie słyszy
+Bo babcia jest trochę przygłucha 
+Na pewno mej babci pomoże
+Jak wsadzę jej druta do ucha
+ 
+    To walczyk małego Kubusia 
+    Znanego w całym miasteczku
+    Co nocą do majtek nie siusia
+    I grzecznie się bawi w piaseczku 
+
+Sąsiadki córeczkę malutką
+Po cichu gdzieś w bramę zaciągnę 
+Majteczki jej zdejmę na siłę
+I gumkę na procę wyciągnę
+ 
+To walczyk małego Kubusia 
+    Znanego w całym miasteczku
+    Co nocą do majtek nie siusia
+    I grzecznie się bawi w piaseczku
+~~~
+
+## W domach z betonu
+
+~~~
+Obudziłam się później niż zwykle                               e G 
+wstałam z łóżka, w radiu była muzyka                           h A e C D 
+najpierw zdjęłam koszule potem trochę tańczyłam                e G h 
+i przez chwile się czułam jak dziewczyny w "świerszczykach"    a e 
+
+W domach z betonu                             C G h 
+nie ma wolnej miłości                         A e 
+są stosunki małżeńskie oraz akty nierządne    C G h 
+Casanova tu u nas nie gości                   a 
+
+Ten z przeciwka co ma kota i rower 
+stał przy oknie nieruchomo jak skała 
+pomyślałam "to dla ciebie ta rewia 
+rusz się, przecież nie będę tak stała" 
+
+W domach z betonu 
+nie ma wolnej miłości 
+są stosunki małżeńskie oraz akty nierządne 
+Casanova tu u nas nie gości 
+
+Po południu zobaczyłam go w sklepie 
+patrzył we mnie jak w jakiś obrazek 
+ruchem głowy pokazał mi okno 
+wiec ten wieczór spędzimy znów razem 
+
+W domach z betonu 
+nie ma wolnej miłości 
+są stosunki małżeńskie oraz akty nierządne 
+Casanova tu u nas nie gości
+~~~
+
+## Szklana góra
+
+~~~
+Zyska sławę, królem będzie         gis H 
+Kto na szklaną górę wejdzie.       cis gis
+Kto zdobędzie szczyt w błękicie 
+Będzie tym, kto jest na szczycie.
+ 
+Lecz, choć wielu kusi wejście       A gis 
+Jeden tylko ma tam miejsce.
+A, że przecież Góra - Szklana,  
+Więc dla wielu - niewidzialna. 
+ 
+Nawet tym, co na jej zboczach 
+Szczyt się nie odbija w oczach. 
+Skóra góry gładka, śliska,  
+Diamentowo jest przejrzysta. 
+ 
+I dopiero krew rozlana
+Wskaże gdzie jest szklana ściana. 
+Więc pośladach cudzej krwi 
+Wiedzie wąski ślad na szczyt. 
+ 
+A nie wie wśród żywych
+Czy ten szlak, to szlak prawdziwy. 
+I niejeden całe życie 
+Nie wie, że już jest na szczycie.   
+
+Więc się modli u stóp krzyży
+Za tych, którzy padli niżej. 
+Po czym u ich boku spocznie 
+U stóp góry niewidocznej. 
+ 
+Zyska sławę, królem będzie
+Kto na szklana górę wejdzie
+~~~
+
+## Stary cowboy
+
+~~~
+Na prerię szary spłynął zmrok, po stepach wieje wiatr.   a G 
+Rozsiodłał konia stary kowboj, przy ognisku siadł.       a C 
+Gdy ogień resztką sił się tlił, dorzucił parę drew.      a F  
+Wieczorne mgły niosą jego śpiew:                         a F a
+ 
+Co mi tam wiatr, co mi tam chłód.   C a
+Byle był koń, wiatronogi druh.      F a  
+Byle był kolt, lasso i bat          C a  
+Co mi tam chłód, co mi tam wiatr.   F a
+ 
+Pamiętasz stary koniu, jak żeś młodym źrebcem był?  
+Marzyłem - kupię sobie dom, jak człowiek będę żył.  
+Pasałem bydło całe życie, co dziś mam, czy wiesz?  
+Dwa kolty, siodło, ciebie i tę pieśń.
+ 
+Nad ranem, gdy kowboje wyganiali bydło w step,  
+Starego pochowali, starej szkapie kula w łeb. 
+Na morzu prerii, w dali gdzieś, kowbojów znika sznur.  
+Wiatr niesie pieśń, wzmaga jeszcze ból. 
+~~~
