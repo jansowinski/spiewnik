@@ -5855,8 +5855,6 @@ Ocal mnie od pogard, Panie
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 On natchniony i młody był         e H7 e
 Ich nie policzyłby nikt           e H7
 On im pieśnią dodawał sił         C H7 C
@@ -6001,8 +5999,6 @@ Jedno i to samo drzewo...
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 W przedszkolu naszym nie jest źle          a
 Zabawek mamy tutaj w bród            B
 Po całych dniach bawimy się            a
@@ -6069,8 +6065,6 @@ W przedszkolu naszym nie jest źle!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Ojców dom pożegnał głupi Jasio          a
 Szukać wody życia rad nie rad        d
 Stopy ścisnął swym niedobrym braciom        E
@@ -6170,8 +6164,6 @@ Ale zawsze warto po nią iść!        H7 E a
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Na smyczy trzymam filozofów Europy      G D G
 Podparłam armią marmurowe Piotra stropy    G D e
 Mam psy, sokoły, konie - kocham łów szalenie    C D e
@@ -6218,8 +6210,6 @@ Gdyby się taki kochanek kiedyś znalazł...
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Dałeś mi Panie zbroję           e D e
 Dawny kuł płatnerz ją          e D e
 W wielu pogięta bojach         e D e
@@ -6310,8 +6300,6 @@ Zbroja!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Jak nowa rezydencja carów, służba swe obowiązki zna     D G D A D
 Precz wysiedlono stąd Tatarów, gdzie na świat wyrok zapaść ma
 Okna już widzą, słyszą ściany jak kaszle nad cygarem Lew
@@ -6386,8 +6374,6 @@ I tak rozumieć trzeba Jałtę!            D A D
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Skulony w jakiejś ciemnej jamie smaczniem sobie spał     a C G C
 I spały małe wilczki dwa - zupełnie ślepe jeszcze       F E
 Wtem stary wilk przewodnik co życie dobrze znał       a C G C
@@ -6455,8 +6441,6 @@ Ciała wilcze kłami gończych psów szarpane!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Długośmy na ten dzień czekali        e
 Z nadzieją niecierpliwą w duszy        a
 Kiedy bez słów Towarzysz Stalin        Fis
@@ -6510,8 +6494,6 @@ Po pierwszym - siedemnasty
 (Jacek Kaczmarski)
 
 ~~~
-
-
 Pod prąd wąwozem w twarz ognistym wiatrom      a C
 Po końskie brzuchy w nurt płynącej lawy        F C d E
 Prze szwoleżerów łatwopalny szwadron        a C
@@ -6554,8 +6536,6 @@ Ci, co przeżyli - muszą walczyć dalej        G D e Fis h
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Na brzegu stojąc, drżące plemię boże      a E7
 Patrzymy w trwodze na Czerwone Morze    C G
 Za nami ściana świata tego ludów        C C7 F
@@ -6626,8 +6606,6 @@ I stąd ta piosenka, której by nie było!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Tym galeonem barykady        a E7
 Planetę ognia opływamy        a G
 Nic nie widzący, niewidoczni -      C d
@@ -6670,8 +6648,6 @@ Planeta - grudka krwi          H7 E7 a
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Siedzieliśmy w poczekalni, bo na zewnątrz deszcz i ziąb  a E a
 Do pociągu sporo czasu jeszcze było -        G a
 Można zatem wypić kawę albo rzucić coś na ząb
@@ -6737,8 +6713,6 @@ Tę łatwą wiarę w megafony
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Rodowód mój nie sięga bursztynowych szlaków    D A
 Mój praszczur się nie najadł na ciele Popiela      D A
 I kiedy nie od razu budowano Kraków        h e
@@ -6795,8 +6769,6 @@ Prosi nas o dokument, że jest Polakiem!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Gallia est omnis divisa in partestres            C G
 Quarum unam incolunt Belgae aliam Aquitani        d E
 Tertiam qui ipsorum lingua Celtae nostra Galli appellantur    a F
@@ -6833,8 +6805,6 @@ A Juliusz Cezar ćwiczy lapidarność stylu!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Słońce błyśnie między wschodem a zachodem      a d a d
 Mimochodem obrysuje miasto chmur        a e a
 Jednych dziegciem dzień nakarmi, innych miodem     a d a d
@@ -6890,8 +6860,6 @@ Miasto chmur, chwile szczęść          a e a
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Płynie rzeka wąwozem jak dnem koleiny        e
 Która sama siebie żłobiła
 Rosną ściany wąwozu, z obu stron coraz wyżej        C
@@ -6943,8 +6911,6 @@ Wciąż bije                  C Ezm7 H
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Mam wszystko, czego może chcieć uczciwy człowiek –  a d a
 Światopogląd, wykształcenie, młodość, zdrowie     a d C
 Rodzinę, która kocha mnie, dwie, trzy kobiety       d E a
@@ -7007,8 +6973,6 @@ Jeszcze raz! Jeszcze raz! Encore!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 To moja droga z piekła do piekła           e
 W dół na złamanie karku gnam!           e
 Nikt mnie nie trzyma, nikt nie prześwietla       e
@@ -7191,8 +7155,6 @@ Przecież wrócę, gdy zacznie się dzień!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Patrz mój dobrotliwy Boże        a
 Na swój ulubiony ludek         C
 Jak wychodzi rano w zboże        G
@@ -7260,8 +7222,6 @@ W imię Ojca, Syna, Ducha…          Cis7
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 W pełnym słońcu w środku lata        e De
 Wśród łagodnych fal zieleni          e De
 Wre zapamiętała praca            e De
@@ -7322,8 +7282,6 @@ Na pierwszy i na ostatni chrzest!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Dlaczego wszyscy ludzie mają zimne twarze?       e fis h
 Dlaczego drążą w świetle ciemne korytarze?       e fis h
 Dlaczego ciągle muszę biec nad samym skrajem?     h e
@@ -7368,8 +7326,6 @@ Uznać krzyk z mych niemych ust za swój!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Na ziemi, co zawsze pod wodą, lub śniegiem
 Są drogi, po których nikt prawie nie chodzi
 Tam wariat się czasem przesunie po niebie
@@ -7475,8 +7431,6 @@ Koń i Ikona
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Nie bój się, nie zabraknie to krajowa czysta     d C
 Ja widzisz przed wojną byłem komunista      A7 g d
 Bo ja chciałem być kimś, bo ja byłem żyd       d C
@@ -7541,8 +7495,6 @@ Z tą Polską związanym pępowiną hańb
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Jeszcze pod ręką globus - z taką mapą świata      d C a d
 Na jaką stać strategię, plany i marzenia       d C a A7
 Jeszcze insygnia władzy, sobolowa szata       d C a d
@@ -7591,8 +7543,6 @@ Ach! Jean de Dinteville, francuski ambasador...
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Jeśli siadasz przy tym stole zważ, że światło nienajlepsze   D A Fis7 h
 A partnerzy w każdym razie przypadkowi        G D A7
 Popraw pludry, nim usiądziesz i pod boki się podeprzyj     D A Fis7 h
@@ -7629,8 +7579,6 @@ I zaprosisz - kogo chcesz - by go oskubać
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Jaja w kraju niewyjęte -          d
 Solidarność dała ciała           B
 Spawacz gra w bambuko z Glempem     d
@@ -7683,8 +7631,6 @@ Dadzą azyl polityczny?
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Był Anglik co przyjaźń nawiązał z Hindusem      a
 Z najczystszej sympatii, a nie pod przymusem      G
 Do dzisiaj by trwała              F
@@ -7918,8 +7864,6 @@ Nieprędko się chyba położą
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Mój śmiech histerii i pogardy        A
 Do waszych uszu nie dociera        A
 To On jest dzielny, mądry, twardy -      h
@@ -7972,8 +7916,6 @@ Kariera Nikodema Dyzmy!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Żyło raz przyjaciół dwóch; jeden mieli smak i słuch    a
 I na świat patrzyli takim samym wzrokiem;      a E
 A na świecie wojna trwała;   wojna ludzi rozdzielała;  a
@@ -8015,8 +7957,6 @@ Słup jak słup - a przyjaciela ma się raz!
 (Jacek Kaczmarski)
 
 ~~~
- 
-
 Nie patrz na nas z wyrzutem pyszny szaławiło       a G a G a
 Bądźże z sercem otwartym dla dzieci swych dzieci   d F G g A
 Od twoich czasów sławnych tyle się zmieniło        d C d a
@@ -8090,11 +8030,9 @@ Bo się kochamy - w sobie!
 Nie pragnąc - siebie - znać!
 ~~~
 
-##
-(Jacek Kaczmarski)
- A my nie chcemy uciekać stąd
+## A my nie chcemy uciekać stąd
 
- 
+(Jacek Kaczmarski)
 
 ~~~
 Stanął w ogniu nasz wielki dom      d
@@ -8278,15 +8216,15 @@ Ojczyzno moja żyj!
 ## Ogień
 
 ~~~
-Ref.:Zwyczaj to stary jak świat,   CF
-Ogień, ogień, ogień.               GC
-Rozpalmy blisko nas,               CF
-Ogień, ogień, ogień.               GC
+Ref.:Zwyczaj to stary jak świat,   C F
+Ogień, ogień, ogień.               G C
+Rozpalmy blisko nas,               C F
+Ogień, ogień, ogień.               G C
 
-Dla spóźnionego wędrowca,             	CF
-Dla wszystkich spóźnionych w noc      FGC
-Rozpalmy tu, rozpalmy tu              Ca
-Ogień, ogień, ogień.                  dGC
+Dla spóźnionego wędrowca,             C F
+Dla wszystkich spóźnionych w noc      F G C
+Rozpalmy tu, rozpalmy tu              C a
+Ogień, ogień, ogień.                  d G C
 
 I.Pierwsza gwiazdka już wzeszła,
 Czas by ogień rozpalić.
@@ -8464,9 +8402,11 @@ Mówią - whisky to nie wszystko, można bez niej żyć
 Lecz nie wiedzą o tym ludzie,
 że najgorzej w życiu to -
 To samotnym być, to samotnym być
+~~~
 
- A piosnka wciąż płynie
+## A piosnka wciąż płynie
 
+~~~
 A piosnka wciąż płynie  C
 Unosi ją wiatr          a
 I echo ją niesie        d
@@ -8484,9 +8424,11 @@ Dawne obozy
 I przygód moc
 W tę jasną gwiaździstą
 Sierpniową noc.
+~~~
 
- Siądź z nami przy kominku
+## Siądź z nami przy kominku
 
+~~~
 Siądź z nami przy kominku, rozjaśnij serce swe.
 Zaśpiewaj raz z zuchami wesołe nutki te,
 Siądź z nami przy kominku, rozjaśnij serce swe.
@@ -8507,9 +8449,11 @@ Przez wielka burzę i śnieżnobiałą mgłę
 W dżungli zabłądzić chcę, bo nie boję się
 
 Bum ta rira /8x
+~~~
 
- W lesie tym
+## W lesie tym
 
+~~~
 W lesie tym pełno drzew            a
 Głazów, rzek, kamieni i wykrotów   a e (a)
 Czasem zabrzmi ptasi śpiew         a
