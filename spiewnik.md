@@ -7917,9 +7917,9 @@ Kariera Nikodema Dyzmy!
 
 ~~~
 Żyło raz przyjaciół dwóch; jeden mieli smak i słuch    a
-I na świat patrzyli takim samym wzrokiem;      a E
+I na świat patrzyli takim samym wzrokiem;              a E
 A na świecie wojna trwała;   wojna ludzi rozdzielała;  a
-Oni cało szli przed siebie równym krokiem      E a
+Oni cało szli przed siebie równym krokiem              E a
 
 Razem naciskali spust, razem brali chleb do ust
 I do domów list pisali w jednej chwili;
@@ -8834,9 +8834,9 @@ To walczyk małego Kubusia
 ## W domach z betonu
 
 ~~~
-Obudziłam się później niż zwykle                               e G 
-wstałam z łóżka, w radiu była muzyka                           h A e C D 
-najpierw zdjęłam koszule potem trochę tańczyłam                e G h 
+Obudziłam się później niż zwykle                   e G 
+wstałam z łóżka, w radiu była muzyka               h A e C D 
+najpierw zdjęłam koszule potem trochę tańczyłam    e G h 
 i przez chwile się czułam jak dziewczyny w "świerszczykach"    a e 
 
 W domach z betonu                             C G h 
@@ -8924,4 +8924,480 @@ Nad ranem, gdy kowboje wyganiali bydło w step,
 Starego pochowali, starej szkapie kula w łeb. 
 Na morzu prerii, w dali gdzieś, kowbojów znika sznur.  
 Wiatr niesie pieśń, wzmaga jeszcze ból. 
+~~~
+
+## Missouri (Shenandoah)
+
+~~~
+O Missouri, ty wielka rzeko,              C F C
+Ojcze rzek  - kto bieg twój zmierzy ?     F C
+Wigwamy Indian na twym brzegu.            a F
+A away, gdy czółno mknie                  C e F
+poprzez nurt Missouri                     a G7 C
+
+O,  Shenandoah jej imię było
+I nie wiedziała co to miłość.
+
+Aż przybył kupiec i w rozterce
+jej własne podarował serce.
+
+A stary wódz rzekł że nie może
+białemu córka wódz ścielić łoże.
+
+Lecz wódka białych wzrok mu mami,
+już wojownicy śpią z duchami.
+
+Wziął czółno swe i z biegiem rzeki
+dziewczynę uwiózł w świat daleki.
+
+O Shenandoah, czerwony ptaku,
+wraz ze mną płyń po życia szlaku.
+~~~
+
+## Stare namioty
+
+~~~
+Będziemy dumni niesłychanie                   C G7 C
+Gdy zastęp nowy namiot dostanie               G7
+Szyk niedościgły, prosto spod igły            G7
+Ogólny podziw i uznanie                       C C7
+ 
+   Nowe namioty są jak marzenie                 F C
+   Nowe namioty robią wrażenie                  G C C7
+   Lecz stary namiot zachował twarz             F G7 C A7
+   Bo który namiot ma taki staż                 d G7 C
+
+Od wojska mamy go w prezencie 
+Czas wyrył na nim swoje pieczęcie 
+Jakie legendy, jakie gawędy 
+Drzemią ukryte w tym brezencie
+ 
+   Nowe namioty są jak marzenie
+   Nowe namioty robią wrażenie
+   Lecz stary namiot zachował twarz
+   Bo który namiot ma taki staż
+
+Bo w tej podszytej wiatrem budzie
+Pod skołatanym dachem płóciennym
+Zżyli się ludzie w codziennym trudzie
+A może nawet i wojennym
+
+   Nowe namioty są jak marzenie
+   Nowe namioty robią wrażenie
+   Lecz stary namiot zachował twarz
+   Bo który namiot ma taki staż
+
+Niejedna służba jest mu znana 
+Lepsza i gorsza losu odmiana 
+Wytrzyma jeszcze burze i deszcze 
+Więc uszanujmy weterana 
+~~~
+
+## Siódme niebo
+
+~~~
+Siódma wieczór, siedem klas,      a e 
+Dziecka ma już siedem lat,        C G
+Siódme piwo i już czas,           d a
+Żeby nie pamiętać dat...          F E
+
+W Twoje ślady młodzi idą -        F 
+Samtoprzyznaszzwielkimbólem,      C 
+Że zostałeś inwalidą,             F
+Bo wybrałeś nie te kule...        D F
+
+Mózg się zużył , czujesz jak
+Ledwie Ci pulsuje skroń.
+Może Ci odwagi brak
+Skończyć jak obity koń...
+
+W Twoje ślady młodzi idą -
+Sam to przyznasz z wielkim bólem,
+Że zostałeś inwalidą,
+Bo wybrałeś nie te kule...
+
+Na mieszkaniu siedem lat,
+Wyrok jak za skok na bank...
+Każde życie nie zza krat,
+Każda renta - żaden szwank.
+
+W Twoje ślady młodzi idą -
+Sam to przyznasz z wielkim bólem,
+Że zostałeś inwalidą,
+Bo wybrałeś nie te kule...
+~~~
+
+## Pędziwiatr
+
+~~~
+Idę drogą poprzez świat      G D e
+Idę tam gdzie hula wiatr     G D e
+Tam gdzie oczy niosą mnie
+Tam gdzie diabeł tylko wie
+Idę z moim wiatrem hen
+Choć ludziska patrzą źle
+Bom ja przecież pędziwiatr
+Dla takiego miejsca brak
+
+A ty wiej, wiej wietrze mój    C D G e
+Jam przyjaciel jest twój       C D e
+
+Na gitarze z wiatrem gram
+Czasem ptak wtóruje nam
+I choć mija dzień za dniem,
+Droga nam nie dłuży się.
+Bratem moim kamień jest
+Siostrą napotkany ptak
+Mą miłością droga ta,
+Która wiedze mnie przez świat
+
+A ty wiej, wiej wietrze mój    C D G e
+Jam przyjaciel jest twój       C D e
+~~~
+
+## Ptaki ptakom
+
+~~~
+Wybiegani, wysłuchani, wybawieni               D A D
+Siądźcie w koło do ogniska mego stóp           G A D
+Chcę powiedzieć wam o tamtej złej jesieni      G A D h
+z której przyszedł ten harcerski leśny grób    G A
+
+Myśli mieli rozczochrane tak jak dzisiaj      
+I mundury te dzisiejsze mieli też
+Lecz stanęli w pogotowiu gdy padł wystrzał 
+I bronili tej najwyższej z wszystkich wież
+
+Harcerze którym słowa na ustach zamierały     D h G A
+Harcerki którym uśmiech zabrał wojny czas     D h G A
+Jak ptaki po przestworzach lasu szybowały     D A G h
+By upaść jak puszczony bez pamięci głaz GA    G A
+ 
+Mogli odejśc, mogli uciec w swoje jutro 
+Nikt by słowa wypowiedzieć nie był śmiał 
+Lecz zostali chociaż było im tak trudno 
+Gdy za strzałem padał ciągle drugi strzał
+
+To dla Polski tak czuwali dniem i nocą 
+Polski sztandar osłaniali piersia swą 
+I odeszli kiedy wzięto ich przemocą 
+Aby w ziemię wtopić cała duszę swą
+
+Niech im pokłon odda nasze pokolenie 
+Tym co umrzeć tam musieli mimo snów
+I gdy przyjdą by podeptać wam marzenia 
+Polski sztandar osłonimy piersią swą
+~~~
+
+## Pożegnanie
+ 
+~~~
+     la la la lalalala la la            G D 
+     la la la lalalala                  G D Fis  
+     la la la lalalala la lalalala      G0 
+     la la la la                        h G D 
+     la la la                           Fis G0 Fis 
+
+Może się spotkamy znów po kilku             h Fis G0 h  
+Może właśnie tutaj lub na końcu             G D Fis 
+Będziesz wtedy inna - ja wciąż taki sam     G D Fis h  
+Może nam się uda zacząć jeszcze             G D Fis 
+ 
+Dzisiaj muszę odejść - już mnie
+Przez te wszystkie lata nic się
+Rozstawiłaś straże wokół moich snów 
+Daj mi wreszcie spokój - dosyć mam już słów 
+ 
+la la la... 
+ 
+Wrócę tu na pewno, gdy nadejdzie pora  Zapamiętaj tylko, co mówiłem wczoraj  Zapamiętaj tylko, że się nie zmieniłem  Myślę, co myślałem, wierzę w co wierzyłem 
+ 
+Wrócę, gdy zrozumiesz - już po kilku latach  Może właśnie tutaj będzie koniec świata  Będziesz wtedy inne - ja wciąż taki sam  Może nam się uda zacząć jeszcze raz ... 
+ 
+la la la... 
+~~~
+
+## Piosenka z szabli
+
+~~~
+Niech w księgach wiedzy szpera rabin   a E a 
+Nauka to jest wymysł diabli            G E
+Mądrością moją jest karabin            C G
+I klinga ukochanej szabli              E a
+
+Nie dbam o szarżę, ni o gwiazdki 
+Co kiedyś mi przystroją kołnierz Wy piszcie 
+klechdy i powiastki 
+Ja biję się jak musi żołnierz
+
+Nie pnę się do zaszczytów drabin 
+I generałów biorą diabli
+Podporą moją jest karabin
+I klinga ukochanej szabli
+
+Nie tęsknię do kawiarni gwarnej 
+Gdzie rządzi banda dziwolągów 
+Gardzę zapachem buduarów
+Gdzie Ania psoci wśród szezlongów
+
+Nie nęcą mnie zalety babin 
+Kobieta zdradną - bierz ją diabli 
+Kochanką moją jest karabin
+I klinga ukochanej szabli
+
+Niejeden wróg miał na mnie chrapkę, 
+A teraz jęczy w piekle na dnie
+Ze śmiercią igram w ciuciubabkę 
+Więc może kiedyś mnie dopadnie
+
+Ksiądz niech mnie grzebie, albo rabin 
+Żołnierza się nie czepią diabli
+Wy w grób połóżcie mi karabin
+I klingę ukochanej szabli
+~~~
+
+## Piosenka na nowy rok
+
+~~~
+Siedzę kiedy słońce lśni,           D fis7 h7 fis7
+Będę siedział, gdy zapadnie noc.    G7+ Fis0 e e7
+Czekam nowych, lepszych dni,        A A/g D G7+ D
+Kiedy Stary z Nowym wznoszą toast.  e D A A/g D G7+ D
+ 
+Nic do marzeń, nic do żalu,          D7+ e7 a7 G7+ D
+Kiedy Stary z Nowym wznoszą toast.   e D A A/g D G7+ D
+ 
+Siedzę sobie grzeję kości,
+Sam na sam ze samotnością,
+I nie czekam wcale gości,
+W purpurowej filiżance piję wino.
+ 
+Nic do marzeń, nic do żalu,
+Kiedy Stary z Nowym wznoszą toast.
+ 
+Siedzę sobie grzeję kości,
+Sam na sam ze samotnością,
+I nie czekam wcale gości,
+W purpurowej filiżance czekam wiosny.  
+
+Nic do marzeń, nic do żalu,
+Kiedy Stary z Nowym wznoszą toast.
+~~~
+
+## Pieśń odchodzących
+
+~~~
+Wśród tylu naszych szalonych marzeń     C G a e
+Wśród myśli nie poukładanych            d FG
+Wchodzimy w życie niepewnie jak dzieci  E a
+Jak małe wątłe bańki mydlane             d G
+
+Kolejne lata odciśniete na stopach       C G a e
+O przeszłych dniach nie dają zapomniec   d F G
+Jak zawsze rano dzień się budzi          E a
+Rośniemy tak dla innych ludzi            d G
+
+Pod naszym niebem na naszej ziemi        F G C a
+W tym domu który zbudujemy sami
+Nigdy nie braknie nam siebie
+Nigdy nie braknie nam siebie
+
+Choć niebo czasem chowa swe gwiazdy
+A droga wciąż się wije bez celu 
+Gdy czasem sił nam zabraknie  by szukać
+A ziemia pachnie zmęczoną ziemią
+
+W tedy ta jedna zostaje nadzieja
+Że kiedyś jeszcze lepiej nam bedzie
+I z czterolistną koniczyną
+Zdążymy złapac nasze szczęście
+~~~
+
+## Pieśń o małym rycerzu
+
+~~~
+W stepie szerokim, którego okiem           a C D
+Nawet sokolim nie zmierzysz:               a C E
+Wstań, unieś głowę, wsłuchaj się w słowa   a d a
+Pieśni o małym rycerzu.                    a E a
+
+Choć mały ciałem, rębacz wspaniały 
+Wyrósł nad pierwsze szermierze
+I wieki całe będą śpiewały
+Pieśni o małym rycerzu
+
+Ty, któryś w boju i ty, coś w znoju
+I ty, co liczysz i mierzysz
+Wstań, unieś głowę, wsłuchaj się w słowa 
+Pieśni o małym rycerzu
+~~~
+
+## Pierwsza zmierzchu fala
+
+~~~
+Pierwsza zmierzchu fala    a F G 
+Spływa ponad dach          C G a (F G) 
+W szybach mrok rozpala     C G a 
+Słońce się dopala
+W nasturcjach i mgłach
+
+Mąci nam rozmowę
+Pustych murów biel
+Dłonie swe różowe
+Ściel pod moją głowę
+Nic nie mówiąc ściel 
+
+Kto swe serce zbada
+W taki zmierzch jak ten
+Łza śmiertelnie blada
+W snu głębinę spada
+Choć nie wierzy w sen
+Na błękicie jest polana
+~~~
+
+## Październik
+
+~~~
+Burzą się dróg wymiary porudziałym wiatrem     a D a C F G C  
+Staje się październik w kapocie podartej       D G F G 
+Ścichają dni bezdrożne pogrążone w ciszy       d C e d  
+Staje się październik w czapie nędznolisiej    G a G C a 
+ 
+Staje się na oczach i w nozdrzach pochylony kroczy   a F C a e
+Dogląda, co jego, gdy liście i drzewa rozłącza       a C F C a e
+
+Tili tili liści szumem wypełnione rowy  
+Staje się październik z kaletą dziadową  
+Toczą się i klekocą kasztanowe kule 
+Staje się październik w złotawej koszuli 
+
+Staje się... 
+
+Złocąc się w stawie słońcem pozostałym z lata  
+Staje się październik jesienią bogaty 
+A potem trop znalazłszy na niebnych rozstajach  
+Odchodzi październik, listopad się staje 
+~~~
+
+## Pałacyk Michla
+ 
+~~~
+Pałacyk Michla, Żytnia, Wola,
+bronią się chłopcy spod "Parasola". 
+A na Tygrysy maja visy,
+to Warszawiaki, fajne chłopaki są!
+ 
+Hej! Czuwaj wiaro i wytężaj słuch, 
+pręż swój młody duch,
+pracując za dwóch!
+Czuwaj wiaro i wytężaj słuch,
+pręż swój młody duch
+jak stal!
+ 
+Każdy z chłopaków chce być ranny, 
+sanitariuszki morowe panny.
+A gdy cię trafi kula jaka,
+poprosisz pannę, da ci buziaka
+ 
+Hej! Czuwaj wiaro i wytężaj słuch, 
+pręż swój młody duch,
+pracując za dwóch!
+Czuwaj wiaro i wytężaj słuch,
+pręż swój młody duch
+jak stal!
+ 
+Za pierwszą linią dekowniki, intendentura, 
+różne umrzyki,
+gotują zupę, warzą kawę
+i tym sposobem walczą za sprawę.
+ 
+Hej! Czuwaj wiaro i wytężaj słuch, 
+pręż swój młody duch,
+pracując za dwóch!
+Czuwaj wiaro i wytężaj słuch,
+pręż swój młody duch
+jak stal!
+ 
+Za to dowództwo jest morowe
+i w pierwszej linii nadstawia głowę. 
+A najmorowszy przełożony
+to jest nasz Mietek, w kółko golony. 
+
+Hej! Czuwaj wiaro i wytężaj słuch, 
+pręż swój młody duch,
+pracując za dwóch!
+Czuwaj wiaro i wytężaj słuch,
+pręż swój młody duch
+jak stal!
+ 
+Wiara się broni, wiara śpiewa,
+Szkopy się złoszczą, krew ich zalewa. 
+Różnych sposobów się imają,
+co chwila szafę nam podstawiają.
+ 
+Hej! Czuwaj wiaro i wytężaj słuch, 
+pręż swój młody duch,
+pracując za dwóch!
+Czuwaj wiaro i wytężaj słuch,
+pręż swój młody duch
+jak stal!
+ 
+Lecz na nic szafa i granaty
+za każdym razem dostają baty.
+I co dzień się przybliża chwila,
+że zwyciężymy i do cywila!
+ 
+Hej! Czuwaj wiaro i wytężaj słuch, 
+pręż swój młody duch,
+pracując za dwóch!
+Czuwaj wiaro i wytężaj słuch,
+pręż swój młody duch
+jak stal!
+~~~
+
+## Pan jest mocą swojego ludu
+
+~~~
+Pan jest mocą swojego ludu.  D h e G
+Pieśnią moją jest Pan.       D e A
+Moja tarcza i moja moc,      G A D
+On jest mym Bogiem ,         A D
+Nie jestem sam.              G e
+W Nim moja siła              A G
+Nie jestem sam.              A D
+~~~
+
+## Niewidzialna plastelina 
+
+~~~
+Ulepiłem mamie domek           C
+z niewidzialnej plasteliny     G
+Dwa okienka, dwa koniny        a F7
+z niewidzialnej plasteliny.    C
+
+A w okienkach kwiatki bratki
+z niewidzialnej plasteliny
+A dla taty krawat w kwiatki
+z niewidzialnej plasteliny.
+ 
+La, la, la...
+ 
+Ulepiłem sobie pieska, 
+łaciatego z czarnym pyszczkiem, 
+Lalkę Kasię i Tereskę,
+i pistolet, i siostrzyczkę. 
+
+Namęczyłem sie ogromnie,
+zbiłem łokieć stłukłem szklankę mamo, 
+tato chodźcie do mnie, 
+mam tu dla was niespodziankę.
+ 
+La, la, la...
+ 
+Czemu na mnie tak patrzycie
+i zdziwione macie miny
+Czyście nigdy nie widzieli 
+niewidzialnej plasteliny?
+ 
+La, la, la...
 ~~~

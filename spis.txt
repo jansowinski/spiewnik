@@ -290,7 +290,11 @@ A my nie chcemy uciekać stąd
 \\=========================//
  \=========================/
 
+ Dżungla
+ Fula mi nalej
+ Z XVI – wiecznym portretem trumiennym rozmowa
 A my nie chcemy uciekać stąd
+A piosnka wciąż płynie
 A tu w głowie ciągle szumi
 Ambasadorowie
 Anioł i Diabeł
@@ -306,7 +310,7 @@ Ballada wrześniowa
 Bananowy Song
 Barykada (Śmierć Baczyńskiego)
 Beskid I
-Bez słów
+Bez słów (zmienić chwyty (lepsza tonacja)
 Bezsenność (Jaką tęczę malujesz)
 Bieszczady
 Bieszczadzka kołysanka
@@ -315,11 +319,13 @@ Bieszczadzkie anioły
 Bieszczadzkie reggae
 Blues dla małej
 Bolero
+Bratnie słowo
 Bukowina II
 Burza
 Było kiedyś między nami
 Błękitny czas
 California
+Chodź, pomaluj mój świat
 Chyba już można iść spać
 Czaple
 Czarny blues o czwartej nad ranem
@@ -333,11 +339,10 @@ Dom wschodzącego słońca
 Drugi Brzeg
 Drzewo genealogiczne
 Dym z jałowca
-Dżungla
-Easy Rider
+Easy rider (zmienić chwyty)
 Encore, jeszcze raz
 Epitafium dla Włodzimierza Wysockiego
-Fula mi nalej
+Gdy szedłem raz od warty
 Gdzie ta keja
 Gloria
 Graj jesiennie
@@ -348,7 +353,10 @@ Harcerskie ideały
 Hej w góry
 Hej, Leonardo
 Hej, przyjaciele!
+High Life
 Hiszpańskie dziewczyny
+Idzie noc
+Idziemy w jasną
 Ite missa est (Pieśń na wyjście)
 Ja jestem
 Jajecznica
@@ -376,6 +384,7 @@ Lekcja historii klasycznej
 Leluchów
 Limeryki o narodach
 Litania
+Lubię podróże
 Lubię mówić z Tobą
 Lubiła tańczyć
 Majka
@@ -383,6 +392,7 @@ Majster Bieda
 Mazurski rejs
 Mały obóz
 Minęło wiele miesięcy
+Missouri (Shenandoah)
 Modlitwa o wschodzie słońca
 Morskie Opowieści
 Mury
@@ -397,34 +407,47 @@ Nasza klasa
 Nasze przebudzenie
 Nic byś nie zyskał
 Nie brooklyński most
+Nie płacz Ewka
 Nie rozdziobią nas kruki
 Nie, nie kocham Cię wcale
 Niebo do wynajęcia
+Niewidzialna plastelina 
 Nim wstanie dzień
 Noc czerwcowa
 Nocna piosenka o mieście
 Nuta z Ponidzia
 Obława
 Ocean
+Ogień
 Ogniska już dogasa blask
 Ona sobie tego nie życzy
 Opadły mgły
 Opowieść pewnego Emigranta
+Pan jest mocą swojego ludu
+Październik
+Pałacyk Michla
 Pechowy dzień
 Peggy Brown
 Pejzaże harasymowiczowskie
+Pierwsza zmierzchu fala
+Pieski małe dwa
+Pieśń o małym rycerzu
 Pieśń Wielorybników
 Pieśń XXIX
+Pieśń odchodzących
 Pieśń Łagodnych
 Piosenka dla Wojtka Bellona
+Piosenka na nowy rok
 Piosenka napisana mimochodem
 Piosenka o zajączku
+Piosenka z szabli
 Poczekalnia
 Pod kątem ostrym
 Pod niebem
 Poezja
 Powroty
 Powrócisz
+Pożegnanie
 Połoniny niebieskie
 Pożegnalny ton
 Pożegnalny wieczór
@@ -437,7 +460,11 @@ Przedszkole
 Przejście polaków przez Morze Czerwone
 Przyjaciele
 Przyjdzie rozstań czas
+Ptaki ptakom
+Puszcza
 Pytania syna poety
+Pędziwiatr
+Płonie ognisko i szumią knieje
 Reggae syrena
 Rozpięty na ramionach
 Rublow
@@ -445,10 +472,15 @@ Rzeka
 Samba Sikoreczka
 Samosierra
 Sen Katarzyny II
+Siądź z nami przy kominku
 Sieje je
 Sielanka o domu
+Siódme niebo
 Sosenka (jak to dobrze być harcerzem)
+Stare namioty
+Stary cowboy
 Szara lilijka
+Szklana góra
 Szulerzy
 Taki mały taki duży
 Tam, gdzie byłem
@@ -456,35 +488,45 @@ Teksański
 Tyle kilometrów
 Uwielbiajcie pana
 Viva la sierra
+W domach z betonu
 W kręgu watry
 W lekkim powiewie
+W lesie tym
 W naszym niebie
 W wielkim mieście
+Walczyk Kubusia
+Wciąż płynie czas
 We wtorek w schronisku
+Wehikuł czasu
 Wesele Papuasa
+Whisky
 Wieczorne krajobrazy
 Wieczorne śpiewogranie
 Wieje wiatr
 Wigwam
 Wilk i Sokół
+Wilno odbijemy
 Winda
+Windą do nieba
 Wyspa
 Wyznanie
 Wędrowiec
 Wędrujemy
-Z XVI – wiecznym portretem trumiennym rozmowa
 Z nim będziesz szczęśliwsza
 Z tylu chmur
 Za celem
+Zakochani
 Zapiszę śniegiem w kominie
 Zaułki
 Zbroja
 Zegarmistrz Światła
 Zielony mundur
+Zielony płomień
 Znów bieszczadów stoki
 Znów wędrujemy
 Zostanie tyle gór
 Zwiewność
+Żegnaj Ameryko
 Łemata
 Śmiech
 Świadectwo

@@ -65,22 +65,23 @@ X# spiewnik
 - [ ] My cyganie
 - [ ] Mój świat (kiedy w piątek słońce świeci)
 - [ ] Młody las
-- [ ] Niewidzialna plastelina
-- [ ] Pan jest mocą swojego ludu
-- [ ] Pałacyk Michla
-- [ ] Październik
-- [ ] Pierwsza zmierzchu fala
-- [ ] Pieśń o małym rycerzu
-- [ ] Pieśń odchodzących
-- [ ] Piosenka na nowy rok?
-- [ ] Piosenka z szabli
-- [ ] Pożegnanie (SDM)
 - [ ] Przebudzenie
-- [ ] Ptaki ptakom(?)
-- [ ] Pędziwiatr
-- [ ] Siódme niebo
-- [ ] Stare namioty
-- [ ] Missouri
+- [ ] Przyjaciele których nie miałem
+- [x] Niewidzialna plastelina
+- [x] Pan jest mocą swojego ludu
+- [x] Pałacyk Michla
+- [x] Październik
+- [x] Pierwsza zmierzchu fala
+- [x] Pieśń o małym rycerzu
+- [x] Pieśń odchodzących
+- [x] Piosenka na nowy rok?
+- [x] Piosenka z szabli
+- [x] Pożegnanie (SDM)
+- [x] Ptaki ptakom
+- [x] Pędziwiatr
+- [x] Siódme niebo
+- [x] Stare namioty
+- [x] Missouri (Shenandoah)
 - [X] Stary cowboy (koń, lasso i bat)
 - [X] Szklana góra
 - [X] W domach z betonu
