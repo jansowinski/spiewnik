@@ -52,14 +52,21 @@ X# spiewnik
 - [ ] C'est la vie
 - [ ] Chory na wyobraźnię
 - [ ] Cóż wam chorym
+- [ ] Czołg
+- [ ] Buty
+- [ ] Karczma dla samotnych
+- [ ] wilki
+- [ ] Z wielu pieców się jadło chleb
 - [ ] Droga do Tiperary
+- [ ] Gdybym miał gitarę
 - [ ] Hymn harcerski
 - [ ] Idzie zuch
-- [ ] Jaworzyna?
+- [ ] Jaworzyna
 - [ ] Kiedy ranne wstają zorze
 - [ ] Kołysanka dla Joanny
 - [ ] Kto zeżarł talerz klusek
 - [ ] Maestro bezdomny
+- [ ] Marco Polo
 - [ ] Mleko
 - [ ] Modlitwa harcerska
 - [ ] My cyganie
@@ -67,6 +74,7 @@ X# spiewnik
 - [ ] Młody las
 - [ ] Przebudzenie
 - [ ] Przyjaciele których nie miałem
+- [ ] Wędrowanie (powiedz nam lesie i drogo piaszzysta)
 - [x] Niewidzialna plastelina
 - [x] Pan jest mocą swojego ludu
 - [x] Pałacyk Michla
