@@ -4859,7 +4859,7 @@ Na wszystko jeszcze raz popatrzę
 I pójdę, nie wiem gdzie na zawsze
 ~~~
 
-## Pod niebem
+## Pod niebem pełnym cudów
 
  (Raz Dwa Trzy)
 
@@ -9400,4 +9400,397 @@ Czyście nigdy nie widzieli
 niewidzialnej plasteliny?
  
 La, la, la...
+~~~
+
+## Wędrowanie
+
+~~~
+Rozwichrzone nad głową sosny rosochate,         a G E7 a
+Pędzą niebem chmórki, owieczki skrzydlate       a G E7 a
+Senne oko jeziora zda się na wpół drzemie,      C F G C E7
+Kolorowe sady słodnie niosą brzemię             a d G7 E7 a
+
+A nam czegóż to więcej potrzeba?                       C G F C
+powiedz, powiedz, powiedz nam.                         C G C
+Powiedz nam, powiedz nam lesie i drogo piaszczysta,    C G F C
+powiedz, powiedz, powiedz nam.                         C E7 a
+
+Połoniny zielone, przepastne doliny,
+Ukwiecone łąki - strojne jak dziewczyny.
+Płaczka wierzba przysiadła na przydrożnym rowie,
+Matka żegnająca ruszających w drogę.
+
+Przemierzamy drożyny jak wędrowne ptaki,
+Co na niebie kluczem wyznaczają szlaki.
+Dokąd, dokąd tak pędzisz uskrzydlony bracie...
+Pędzisz nie bez celu, już we krwi to macie.
+~~~
+
+## Przyjaciele których nie miałem
+
+~~~
+           h A5 C#5 A5
+           H5 C#5 H5 A5 h Asus2 E
+           
+           h A5 C#5 A5
+           H5 C#5 H5 A5 h Asus2 E
+           
+Przyjaciele, których nie miałem          h
+Których w biedzie sobie zmyśliłem        h
+Opowiedzą wam, że kochałem               A a d d9
+A to przecież znaczy, że żyłem           E
+           
+Oni każdy dzień wam powtórzą             h
+O powrotach znikąd powiedzą              h
+Zaufali ptasim podróżom                  A a d d9
+A to przecież znaczy, że wiedzą          E
+           
+           h A5 C#5 A5
+           H5 C#5 H5 A5 h Asus2 E
+           
+Nie gniewajcie się, że nie chciałem       h
+Żyć wśród was bo nie siebie zniszczyłem   h  
+Przyjaciele, których nie miałem           A a d d9
+Mogą przysiąc, że kiedyś byłem            E
+           
+           e F#7/E F7+/E E
+           
+Najgorsze, że trzeba nie wierzyć      e F#7/E
+Gdy deszcze, gdy słońce, gdy Bóg      F7+/E E
+Stratował mój sen święty Jerzy        e F#7/E
+Jak wrócę do ciebie bez nóg           F7+/E E
+           
+Najgorsze, że porwie od nowa           e/G F#
+Jak wczoraj fatalny nasz krąg          F E
+Gdy dżungla szydercza i płowa          e/G F#
+Jak ciebie powitam bez rąk             F E
+           
+Najgorsze, że jesteś, że jesteś           e/G F#
+Że czas wciąż ten sam choć nie nasz       F E
+A oto i życia sylwester                   e/G F#
+Makijaż z witriolu na twarz               F E
+           
+I kto mnie, kto mnie ograbił       e/G F#
+Nie wróci Gerdo twój Kaj           F E
+Najgorsze, że trzeba się zabić     e/G F#
+Gdy drzewa, gdy morze, gdy maj     F E
+
+           h A5 C#5 A5
+           H5 C#5 H5 A5 h Asus2 E
+
+Nie gniewajcie się, że nie chciałem        h
+Żyć wśród was bo nie siebie zniszczyłem    h
+Przyjaciele, których nie miałem            Aadd9
+Mogą przysiąc, że kiedyś byłem             E
+
+           h
+~~~
+## Mój świat
+
+~~~
+kiedy w piatek slonce swieci   D e
+serce mi  do gory wzlata       A7 D 
+ze w sobote wezme plecak       e
+w podroz do mojego swiata      A7 D  
+ 
+    bo ja mam tylko jeden swiat      D e 
+    slonce, gory, pola, wiatr        A7 D
+    i nic mie wiecej nie obchodzi    e
+    bom turysta sie urodzil          A7 D
+ 
+dla mnie w  miescie jest za ciasno 
+wsrod pojazdow, kurzu, spalin
+ja w zielona jade cisze
+w sciezki pelne slodkich malin
+ 
+    bo ja mam...
+ 
+mysle, lezac posrod kwiatow
+lub w jeczmienia zlotym lanie
+czy przypadkiem za pol wieku
+cos z tym swiatem sie nie stanie
+ 
+    bo ja mam...
+ 
+chcialbym zeby ten moj swiat
+przetrwal jeszcze tysiac lat
+i zeby mogly nasze dzieci
+z tego swiata tez sie cieszyc
+~~~
+
+## My, Cyganie
+
+~~~
+My cyganie co pędzimy razem z wiatrem   C G 
+My cyganie znamy cały świat             a e 
+My cyganie wszystkim gramy              a e 
+A śpiewamy sobie tak                    H7 e E 
+
+
+Ore, ore, szabadabada amore   C G 
+Hej amore, szabadabada        a e 
+O muriaty, o szariaty         a e 
+Hejda, trojka na mienia       H7 e E 
+
+
+Kiedy tańczę niebo tańczy razem ze mną 
+Gdy śpiewamy słucha każdy rad 
+Niechaj każdy z nami śpiewa 
+Niech rozbrzmiewa piosnka ta 
+
+Ore, ore ... 
+
+Będzie prościej, będzie jaśniej 
+Całą radość damy wam 
+Będzie prościej, będzie jaśniej 
+Gdy zaśpiewa każdy z was 
+~~~
+
+## Modlitwa harcerska
+
+~~~
+
+O Panie Boże, Ojcze nasz,
+W opiece swej nas miej.
+Harcerskich serc ty drgnienia znasz,
+Nam pomóc zawsze chciej.
+
+    Wszak Ciebie i Ojczyznę,
+    Miłując chcemy żyć.
+    Harcerskim prawom życia dnia,
+    Wiernymi zawsze być.
+
+Przed nami jest otwarty świat,
+A na nim wiele dróg.
+Choć wiele ścieżek kusi nas,
+Lecz dla nas tylko Bóg!
+
+    Wszak Ciebie i Ojczyznę,
+    Miłując chcemy żyć.
+    Harcerskim prawom życia dnia,
+    Wiernymi zawsze być.
+~~~
+
+## Mleko
+
+~~~
+U nas się wody nie leje do mleka     gC
+Pijesz śmietanę, lepiej smakuje       FD
+U nas się wody nie leje do mleka
+U nas się mleko odwirowuje
+
+Mleko zsiadając się, ma naturę
+Ujawniać prawdę tę dosadną
+Że wszystkie męty idą w górę
+A przezroczyste spada na dno
+
+Śmietana dla nas, dla człowieka
+Nie bywa w sklepach częściej niż trzeba
+U nas się wody nie leje do mleka
+U nas się wodę z mleka wylewa
+~~~
+
+## Marco Polo
+
+~~~
+Nasz "Marco Polo" to dzielny ship,   e G D e
+Największe fale brał                 e G
+W Australii będąc widziałem go,      C e G D
+Gdy w porcie przy kei stał.          e D e
+
+I urzekł mnie tak urodą swą,
+Że zaciągnąłem się
+I powiał wiatr, w dali zniknął ląd,
+Mój dom i Australii brzeg.
+
+    "Marco Polo"                e D C H7
+    W królewskich liniach był   e D e
+    "Marco Polo"                e D C H7
+    Tysiące przebył mil         e D e
+
+Na jednej z wysp za korali sznur
+Tubylec złoto dał
+I poszli wszyscy w ten dziki kraj,
+Bo złoto mieć każdy chciał.
+
+I wielkie szczęście spotkało tych,
+Co wyszli na ten brzeg,
+Bo pełne złota ładownie są
+I każdy bogaczem jest.
+
+W powrotnej drodze tak szalał sztorm,
+Że drzazgi poszły z rej,
+A statek wciąż burtą wodę brał,
+Do dna było coraz mniej.
+
+Ładunek cały trza było nam
+Do morza wrzucić tu,
+Do lądu dojść i biedakiem być,
+Ratować choć żywot swój.
+~~~
+
+## Maestro bezdomny
+
+~~~
+D D6 D D4, D D6 D D4
+
+Długo w nocy stukają klawisze    D D6 D
+Nocna lampka płonie do świtu     G
+Co pan pisze Maestro Bezdomny    A G D
+Co pan pisze                     A G D
+
+D D6 D D4, D D6 D D4
+
+Dziś już takich wierszy nie drukują
+Każdy dźwiga osobną chandrę
+Pan nie wierzy, a jednak to prawda
+Pan nie wierzy
+
+To wszystko napisane w księgach
+Mamy nawet własnych proroków
+Więc do przodu Maestro Bezdomny
+Więc do przodu
+
+Zechciej słuchać, za oknem zgrzyta   h
+Masowej pieśni ton wesoły            D
+Smutek proszę znika bezboleśnie      G fis e
+Smutek proszę                        e A
+Z pejzażu wyszły stare wiatraki      h
+Z pieczątką grzesznych Don Kichoci   D
+A myśmy przeszli do współczesnych    G fis e
+A myśmy przeszli                     A
+A myśmy przeszli                     D A
+Przeszli                             D A
+
+D D6 D D4, D D6 D D4
+
+Długo w nocy stukają klawisze
+Nocna lampka płonie do świtu
+Szkoda ciszy Maestro Bezdomny
+Szkoda ciszy
+~~~
+
+## Kołysanka dla Joanny
+
+~~~
+C7+ C C7+ C6
+
+Zanim mi sen na oczy spłynie         C e
+Moje myśli szybują przez lufcik      d C G
+Żeby cię ujrzeć w ową chwilę         C e
+Gdy włosy czeszesz przed lustrem     a C G
+
+A kiedy zaśniesz w ciepłej pościeli
+Znużone długim przelotem
+Jak ptaki głowy w skrzydła wtulają
+Patrząc na sen twój spokojny
+
+G C C7+ C6 C
+
+Niech ci się przyśnią pory roku      C e
+Niech grają we śnie twoim i tańczą   d C G
+Jesień prężąca liście do lotu        C G
+Lato w upale słonecznym              C G
+A jeśli zima to w śniegu cała        C G
+Wiosna w miłków słonecznych łąkach   C G
+Śpij moje myśli nad tobą czuwają     C F
+Na parapecie za oknem                e G a
+~~~
+
+## Jaworzyna
+
+~~~
+Letni deszcz po dachówkach szumi,           a 
+Spać się kładzie każdy, kto umie zasnąć     e
+Zasnąć, Zasnąć, gdy pada letni deszcz       G a
+Rzeki się pod mostami cisną
+Tysiące kropel drąży swe pismo, na szybach
+Na szybach cienie kładzie zmierzch
+
+Jaworzyna górom się kłania               C F
+Spod obłoków szczyty odsłania            C F
+Pogoda będzie, jutro będzie ładny świt   G C F G
+Rozchmurzyła się Jaworzyna               
+Już nie płacze, śmiać się zaczyna
+Pogoda będzie i jutro nie będzie smutny nikt  
+
+Noc się ściele na lasach mokrych
+Gasną światła w oknach domów samotnych
+W nocy samotność gorsza jest
+Ludzie się kryją w swoich myślach
+Zamknięte drzwi, zamknięte oczy, sen blisko 
+Blisko za oknem szczeka pies
+ 
+Jaworzyna górom się kłania
+Spod obłoków szczyty odsłania
+Pogoda będzie i jutro będzie ładny świt 
+Rozchmurzyła się Jaworzyna
+Już nie płacze, śmiać się zaczyna
+Pogoda będzie i jutro nie będzie smutny nikt
+~~~
+
+
+## Cóż wam chorym... (Fotele) 
+
+~~~
+Cóż wam chorym ze śmiechu zostało,    d 
+kołysanie w wygodnych fotelach,       C
+ciągle macie czegoś za mało           g 
+nie podoba wam się to teraz.          A7 
+Od potakiwań bolą was karki
+od czekania nogi bolą
+nie chcę was moi drodzy martwić 
+ale macie swój czas za sobą.
+ 
+Zanim się nowa gwiazda pokaże 
+zanim pobłyska kilku zgaśnie
+nowy was znów rozśmieszy błazen 
+wy nie bądźcie tacy jak zawsze. 
+Swój czas trzeba jakoś przeżyć
+zejdźcie więc z bujanych foteli 
+trzeba zacząć od siebie i wierzyć 
+trzeba tylko żebyście chcieli
+ 
+Zanim się nowa gwiazda pokaże 
+zanim pobłyska kilku zgaśnie
+nowy was znów rozśmieszy błazen 
+wy nie bądźcie tacy jak zawsze. 
+Swój czas trzeba jakoś przeżyć
+zejdźcie więc z bujanych foteli 
+trzeba zacząć od siebie i wierzyć 
+trzeba tylko żebyście chcieli
+~~~
+
+## Buty
+
+~~~
+Znów buty, buty, buty, tupot nóg     g D g
+I ptaków oszalałych czarny wiatr     G7 c 
+Kobiety stoją u rozstaju dróg        c g 
+Piechoty odchodzącej patrzą ślad     D g
+
+Czy słyszysz, słyszysz werbel, werbel gra
+Żołnierzu żegnaj ją przeżegnaj ją
+Odchodzi pluton, tylko mgła i mgła
+I tylko przeszłość nie zachodzi mgłą
+
+A męstwo nasze gdzie na miły Bóg
+Gdy przyjdzie wracać na rodzinny próg 
+Kobiety za pazuchę kładą je
+Jak pisklę ukradzione nam we śnie.
+ 
+A gdzie kobiety nasze, powiedz gdzie, 
+Kiedy nadejdzie upragniony dzień 
+Witają w progu nas i wiodą tam
+Gdzie wszystko nasze ukradziono nam.  
+
+A nam nie łzy, nie załamanie rąk.
+A my z nadzieją w nadchodzące dni
+A pośród pól żerują stada wron
+A pośród lat echami wojna grzmi.
+ 
+Znów buty, buty, buty, tupot nóg,
+I ptaków oszalałych czarny targ 
+Kobiety stoją u rozstajnych dróg
+W żołnierski podgolony patrzą kark
 ~~~

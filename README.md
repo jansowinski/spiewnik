@@ -1,4 +1,4 @@
-X# spiewnik
+xX# spiewnik
 
 - [Wersja podglądowa (pdf)](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0)
 - [Wersja txt](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.md)
@@ -29,6 +29,7 @@ X# spiewnik
 **Dorobić taby:**
 
 - [ ] Barykada (Śmierć Baczyńskiego)
+- [ ] Cóż wam chorym
 - [ ] Bukowina II
 - [ ] Błękitny czas
 - [ ] Chyba już można iść spać
@@ -49,72 +50,98 @@ X# spiewnik
 
 **Dodać piosenki:**
 
+- [ ] Aleksander Siergiejewicz Puszkin
+- [ ] Ballada o Janku Wiśniewskim
+- [ ] Ballada o pancernych
+- [ ] Ballada o szosie E7
+- [ ] Blues kolejowych mostów
 - [ ] C'est la vie
-- [ ] Chory na wyobraźnię
-- [ ] Cóż wam chorym
+- [ ] Chory na wyobraźnię
 - [ ] Czołg
-- [ ] Buty
-- [ ] Karczma dla samotnych
-- [ ] wilki
-- [ ] Z wielu pieców się jadło chleb
 - [ ] Droga do Tiperary
+- [ ] Dziewczyna o perłowych włosach
+- [ ] Fiat 126p
 - [ ] Gdybym miał gitarę
+- [ ] Hej, ho żagle staw!
 - [ ] Hymn harcerski
+- [ ] Hymn Lecha Poznań
 - [ ] Idzie zuch
-- [ ] Jaworzyna
-- [ ] Kiedy ranne wstają zorze
-- [ ] Kołysanka dla Joanny
+- [ ] It’s a long way to Tipperary
+- [ ] Karczma dla samotnych
+- [ ] Knajpa morderców
+- [ ] Knocking on heaven’s door
 - [ ] Kto zeżarł talerz klusek
-- [ ] Maestro bezdomny
-- [ ] Marco Polo
-- [ ] Mleko
-- [ ] Modlitwa harcerska
-- [ ] My cyganie
-- [ ] Mój świat (kiedy w piątek słońce świeci)
+- [ ] Kto?
 - [ ] Młody las
+- [ ] Na przystanku PKS-u
+- [ ] Pędziwiatr
+- [ ] Powrót Sentymentalnej Panny S
 - [ ] Przebudzenie
-- [ ] Przyjaciele których nie miałem
-- [ ] Wędrowanie (powiedz nam lesie i drogo piaszzysta)
+- [ ] Przypowieść o jerzach
+- [ ] Pytania, których nie zadam
+- [ ] Płonie ognisko i szumią knieje
+- [ ] Róża czerwono, biało kwitnie bez
+- [ ] Rzeki to idące drogi
+- [ ] Sentymentalna Panna S
+- [ ] Space Oddity
+- [ ] Sześćset mil od nikąd
+- [ ] Ty druha we mnie masz
+- [ ] Wild Horses
+- [ ] wilki
+- [ ] Wish You were here
+- [ ] Z wielu pieców się jadło chleb
+- [x] A piosnka wciąż płynie
+- [x] Bratnie słowo
+- [x] Buty
+- [x] Cóż wam chorym
+- [x] Gdy szedłem raz od warty
+- [x] High life
+- [x] Idzie noc
+- [x] Idziemy w jasną
+- [x] Jaworzyna
+- [x] Kołysanka dla Joanny
+- [x] Lubię podróże
+- [x] Maestro bezdomny
+- [x] Marco Polo
+- [x] Missouri (Shenandoah)
+- [x] Mleko
+- [x] Modlitwa harcerska
+- [x] My cyganie
+- [x] Mój świat (kiedy w piątek słońce świeci)
+- [x] Nie płacz Ewka
 - [x] Niewidzialna plastelina
+- [x] Ogień
 - [x] Pan jest mocą swojego ludu
 - [x] Pałacyk Michla
 - [x] Październik
 - [x] Pierwsza zmierzchu fala
+- [x] Pieski małe dwa
 - [x] Pieśń o małym rycerzu
 - [x] Pieśń odchodzących
 - [x] Piosenka na nowy rok?
 - [x] Piosenka z szabli
 - [x] Pożegnanie (SDM)
+- [x] Przyjaciele których nie miałem
 - [x] Ptaki ptakom
+- [x] Puszcza
 - [x] Pędziwiatr
+- [x] Płonie ognisko
 - [x] Siódme niebo
+- [x] Siądź z nami przy kominku
 - [x] Stare namioty
-- [x] Missouri (Shenandoah)
 - [X] Stary cowboy (koń, lasso i bat)
 - [X] Szklana góra
 - [X] W domach z betonu
+- [x] W lesie tym
 - [X] Walczyk kubusia
 - [X] Wciąż płynie czas (szybko pędzi wielki pociąg)
+- [x] Wehikuł czasu
+- [x] Whiskey
 - [X] Wilno odbijemy
 - [X] Windą do nieba
 - [X] Więc chodź, pomaluj mój świat
+- [x] Wędrowanie (powiedz nam lesie i drogo piaszzysta)
 - [x] Zakochani
-- [x] A piosnka wciąż płynie
-- [x] Bratnie słowo
-- [x] Gdy szedłem raz od warty
-- [x] High life
-- [x] Idzie noc
-- [x] Idziemy w jasną
-- [x] Lubię podróże
-- [x] Nie płacz Ewka
-- [x] Ogień
-- [x] Pieski małe dwa
-- [x] Puszcza
-- [x] Płonie ognisko
-- [x] Siądź z nami przy kominku
-- [x] W lesie tym
-- [x] Wehikuł czasu
-- [x] Whiskey
 - [x] Zielony płomień
 - [x] Żegnaj Ameryko
 
