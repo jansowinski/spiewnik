@@ -1,4 +1,4 @@
-xX# spiewnik
+# spiewnik
 
 - [Wersja podglądowa (pdf)](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0)
 - [Wersja txt](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.md)
@@ -159,8 +159,6 @@ xX# spiewnik
 
 ## Etapy rozwoju
 
-[_Zjedź niżej, żeby przeczytać instrukcję poprawiania śpiewnika i dodawania do niego piosenek_](](https://github.com/iansowinski/spiewnik#jak-to-działa))
-
 1. [Poprawianie surowej wersji **_(od teraz do połowy września)_**](https://github.com/iansowinski/spiewnik#jak-to-działa)
 
   - [ ] dodawanie piosenek
@@ -174,9 +172,9 @@ xX# spiewnik
 
   - [ ] przygotowanie surowego dokumentu z odpowiednimi wcięciami i rozmieszczeniem chwytów
   - [ ] sformatowanie dokumentu jako plik markdown
-  - [ ] napisanie skryptów do:
-    - [ ] usuwania formatowania markdown (dla łatwiejszego wklejania do indesignu)
-    - [ ] rozkmienienie automatyzacji składania tekstu
+  - [x] napisanie skryptów do:
+    - [x] usuwania formatowania markdown (dla łatwiejszego wklejania do indesignu)
+    - [x] rozkmienienie automatyzacji składania tekstu
 
 3. Przygotowanie wersji dla ludzi:
 
@@ -216,3 +214,10 @@ xX# spiewnik
   - [ ] druk
   - [ ] przycięcie
   - [ ] oprawa
+
+## Instrukcja obsługi skryptów
+
+  1. [markdown_to_XML.rb](https://github.com/iansowinski/spiewnik/blob/master/markdown_to_XML.rb) generuje plik XML na podstawie pliku [spiewnik.md](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.md)
+  2. [PageBreaks.js](https://github.com/iansowinski/spiewnik/blob/master/PageBreaks.js) dodajemy do folderu skrptów indesign
+  3. Importujemy XML do indesigna
+  4. Odpalamy skrypt (wstawi on znaki końca strony gdzie trzeba)
