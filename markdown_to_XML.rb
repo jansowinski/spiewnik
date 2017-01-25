@@ -8,9 +8,9 @@ module Render
     def header(title, level)
       case level 
       when 1
-        "<file_title>#{title}</file_title>\n"
+        "<file_title>#{title}\n</file_title>\n"
       when 2
-        "<song>\n<tytul>#{title}</tytul>\n"
+        "<song>\n<tytul>#{title}\n</tytul>\n"
       end
     end
   end
