@@ -55,25 +55,35 @@ max-width: 100%;
 width: 600px;
 }
 h1 {
+	display: none;
 font-size: 1.4em;
 font-family: 'Source Sans Pro', sans-serif;
 line-height: 3.6em;
 }
-code {
+code, pre {
 font-family: 'Fira Mono', monospace;
 font-size: 1em;
+background: none;
+color: inherit;
+}
+html {
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
 i {
    position: fixed;
    right: 30px;
 }
-
+h2 {
+	padding-top: 20px;
+	padding-bottom: 5px;
+}
 .dark i  {
-	color: #839496;
+  color: #839496;
 }
 .dark {
-	color: #657b83;
+  color: #657b83;
   background-color: #002b36;
 }
 
@@ -82,6 +92,6 @@ i {
 }
 
 .light {
-	color: #839496;
+  color: #839496;
   background-color: #fdf6e3;
 }
