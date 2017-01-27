@@ -217,7 +217,7 @@
 
 ## Instrukcja obsługi skryptów
 
-  1. [markdown_to_XML.rb](https://github.com/iansowinski/spiewnik/blob/master/markdown_to_XML.rb) generuje plik XML na podstawie pliku [spiewnik.md](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.md)
-  2. [PageBreaks.js](https://github.com/iansowinski/spiewnik/blob/master/PageBreaks.js) dodajemy do folderu skrptów indesign
-  3. Importujemy XML do indesigna
-  4. Odpalamy skrypt (wstawi on znaki końca strony gdzie trzeba)
+1. odpalamy konsolę i instalujemy paczki: ~~~bundle install~~~
+2. W [run.rb](https://github.com/iansowinski/spiewnik/blob/master/run.rb) wpisujemy ścieżkę folderu skryptów w indesignie
+3. odpalamy skrypt: ~~~ruby run.rb~~~
+4. Wygenerowany XML importujemy do indesigna, wstawiamy w pole tekstowe i odpalamy skrypt PageBreaks
