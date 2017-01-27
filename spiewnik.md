@@ -612,19 +612,20 @@ Dla Ciebie skaczę na jednej nodze      A h D
 Najlepszą modlitwę na świecie znam    E fis D
 Cieszyć się z tego, z tego co mam      E fis D
 
-Czy mam wszystko - czy mi brakuje
-Kiedy się modlę – mówię dziękuję
-Najlepszą modlitwę na świecie znam
-Cieszyć się z tego z tego co mam
+Czy mam wszystko - czy mi brakuje   A h D
+Kiedy się modlę – mówię dziękuję   A h D
+Najlepszą modlitwę na świecie znam   E fis D
+Cieszyć się z tego z tego co mam   E fis D
 
-Proszę za mamę, proszę za tatę
-Żebym nie biła się więcej z bratem
-Najlepszą modlitwę na świecie znam
-Cieszyć się z tego brata co mam
-Najlepszą modlitwę na świecie znam
-Cieszyć się z tego brata co mam
-Najlepszą modlitwę na świecie znam
-Cieszyć się z tego, z tego co mam
+Proszę za mamę, proszę za tatę   A h D
+Żebym nie biła się więcej z bratem   A h D
+Najlepszą modlitwę na świecie znam   E fis D
+Cieszyć się z tego brata co mam   E fis D
+
+Najlepszą modlitwę na świecie znam   
+Cieszyć się z tego brata co mam   
+Najlepszą modlitwę na świecie znam   
+Cieszyć się z tego, z tego co mam   
 ~~~
 
 ## Taki mały taki duży

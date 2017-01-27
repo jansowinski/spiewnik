@@ -1,4 +1,7 @@
 require 'redcarpet'
+# change this to your adobe script path:
+adobe_script_path = '/Users/janko/Library/Preferences/Adobe\ InDesign/Version\ 8.0/en_US/Scripts/Scripts\ Panel'
+
 module Redcarpet
   module Render
     class IndesignXML < Base
@@ -16,10 +19,13 @@ module Redcarpet
     end
   end
 end
+
+system("cp tools/PageBreaks.js #{adobe_script_path}")
+
 xml = Redcarpet::Markdown.new(Redcarpet::Render::IndesignXML, fenced_code_blocks: true )
 file = File.open('spiewnik.md') 
 cont = file.read
-style = `node minify.js`
+style = `node scripts/minify.js`
 File.open('spiewnik.xml', 'w') do |f| 
   f.write("<root>\n")
   f.write(xml.render(cont))
