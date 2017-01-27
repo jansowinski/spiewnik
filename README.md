@@ -54,7 +54,6 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 - [ ] Winda
 - [ ] Zaułki
 - [ ] Śmiech
-- [x] Piosenka o rzeczach białych
 
 **Dodać piosenki:**
 
@@ -98,60 +97,6 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 - [ ] wilki
 - [ ] Wish You were here
 - [ ] Z wielu pieców się jadło chleb
-- [x] A piosnka wciąż płynie
-- [x] Bratnie słowo
-- [x] Buty
-- [x] Cóż wam chorym
-- [x] Gdy szedłem raz od warty
-- [x] High life
-- [x] Idzie noc
-- [x] Idziemy w jasną
-- [x] Jaworzyna
-- [x] Kołysanka dla Joanny
-- [x] Lubię podróże
-- [x] Maestro bezdomny
-- [x] Marco Polo
-- [x] Missouri (Shenandoah)
-- [x] Mleko
-- [x] Modlitwa harcerska
-- [x] My cyganie
-- [x] Mój świat (kiedy w piątek słońce świeci)
-- [x] Nie płacz Ewka
-- [x] Niewidzialna plastelina
-- [x] Ogień
-- [x] Pan jest mocą swojego ludu
-- [x] Pałacyk Michla
-- [x] Październik
-- [x] Pierwsza zmierzchu fala
-- [x] Pieski małe dwa
-- [x] Pieśń o małym rycerzu
-- [x] Pieśń odchodzących
-- [x] Piosenka na nowy rok?
-- [x] Piosenka z szabli
-- [x] Pożegnanie (SDM)
-- [x] Przyjaciele których nie miałem
-- [x] Ptaki ptakom
-- [x] Puszcza
-- [x] Pędziwiatr
-- [x] Płonie ognisko
-- [x] Siódme niebo
-- [x] Siądź z nami przy kominku
-- [x] Stare namioty
-- [X] Stary cowboy (koń, lasso i bat)
-- [X] Szklana góra
-- [X] W domach z betonu
-- [x] W lesie tym
-- [X] Walczyk kubusia
-- [X] Wciąż płynie czas (szybko pędzi wielki pociąg)
-- [x] Wehikuł czasu
-- [x] Whiskey
-- [X] Wilno odbijemy
-- [X] Windą do nieba
-- [X] Więc chodź, pomaluj mój świat
-- [x] Wędrowanie (powiedz nam lesie i drogo piaszzysta)
-- [x] Zakochani
-- [x] Zielony płomień
-- [x] Żegnaj Ameryko
 
 **Zmienić / dodać chwyty:**
 
@@ -159,11 +104,6 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 - [ ] Easy rider
 - [ ] Rzeka
 - [ ] W więziennym szpitalu (Dom wschodzącego słońca)
-- [x] Bajka
-- [x] Bez słów
-- [x] Bieszczadzki trakt (nananananana)
-- [x] Przechyły
-- [x] W lekkim powiewie
 
 ## Etapy rozwoju
 
