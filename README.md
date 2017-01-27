@@ -1,18 +1,16 @@
 # spiewnik
 
-- [Wersja podglądowa (pdf)](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0)
-- [Wersja txt](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.md)
-- [Alfabetyczny spis treści (bez piosenek do dodania, dostępnych niżej)](https://github.com/iansowinski/spiewnik/blob/master/spis.txt)
-- **[Dokument do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)**
+- [Aktualne wygenerowane pliki (pdf+html)](https://github.com/iansowinski/spiewnik/releases)
+- [Wersja markdown (źródłowa)](https://github.com/iansowinski/spiewnik/blob/master/spiewnik.md)
+- **[Dokument do edycjii (dla ludzi którzy nie umieją into github)](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)**
 
 ## Jak to działa? (Instrukcja obsługi edycji)
 
-1. Zaglądamy sobie do [wersji poglądowej](https://www.dropbox.com/s/9ya7aeh9y9g6wjf/spiewnik.pdf?dl=0), lub do [spisu treści](https://github.com/iansowinski/spiewnik/blob/master/spis.txt) i ogarniamy co nam nie pasuje (brakuje piosenek, złe chwyty, brakuje tabulatur i tak dalej...)
+1. Zaglądamy sobie do [wersji poglądowej](https://github.com/iansowinski/spiewnik/releases) i ogarniamy co nam nie pasuje (brakuje piosenek, złe chwyty, brakuje tabulatur i tak dalej...)
 2. Wpisujemy uwagi (czyli to co nam nie pasuje) do listy rzeczy do zrobienia w odpowiednią kategorię [dokumencie do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing)
 3. (opcjonalnie) Kopiujemy piosenkę i wklejamy do [dokumentu do edycji](https://docs.google.com/document/d/1uRUAUEv_SaCI_815sAskEVCUBoUeLJSJrEcUolSJ8Oc/edit?usp=sharing) a następnie przerabiamy tak, żeby było dobrze
 
-**_Uwaga!_** _Nie używamy tab'ów - [ ] zamiast tego spacje, nie używamy innych czcionek niż courier new - [ ] w finalnej wersji będziemy używać ładniejszej czcionki ale google docs oferuje tylko jedną czcionkę stałej szerokości, która pozwoli nam później na łatwiejsze ogarnięcie edycji._
-
+**_Uwaga!_** _Nie używamy tób'ów - zamiast tego spacje, nie używay innych czcionek niż courier new - w finalnej wersji będziemy używać ładniejszej czcionki ale google docs oferuje tylko jedną czcionkę stałej szerokości, która pozwoli nam później na łatwiejsze ogarnięcie edycji._
 
 ## Instrukcja obsługi skryptów
 
@@ -192,13 +190,13 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
     - [ ] przetestowanie odpowiednich czcionek
     - [ ] przetestowanie rozmieszczenia numerów stron itp
   - [ ] przygotowanie dokumentu do druku w indesignie
-  - [ ] napisanie cssa do mdwiki
+  - [x] napisanie cssa do mdwiki
 
 4. Stworzenie wersji prywatnej:
 
   - [ ] ogarnięcie systemu aktualizacji i rozdzielenia śpiewnika prywatnego od błękitnego
     - [ ] osobne repo i przekazanie tego jakiemuś aktywnemu ogarniaczowi?
-    - [ ] stworzenie softu do generacji śpiewnika?
+    - [x] stworzenie softu do generacji śpiewnika?
   - [ ] research materiałów na okładkę
   - [ ] ewentualne przygotowanie ilustracji na okładkę
   - [ ] research rodzajów papieru
