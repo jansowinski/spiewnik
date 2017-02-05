@@ -57,15 +57,15 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 
 **Dodać piosenki:**
 
-- [ ] Aleksander Siergiejewicz Puszkin
-- [ ] Ballada o Janku Wiśniewskim
-- [ ] Ballada o pancernych
-- [ ] Ballada o szosie E7
-- [ ] Blues kolejowych mostów
-- [ ] C'est la vie
-- [ ] Chory na wyobraźnię
-- [ ] Czołg
-- [ ] Droga do Tiperary
+- [x] Aleksander Siergiejewicz Puszkin
+- [x] Ballada o Janku Wiśniewskim
+- [x] Ballada o pancernych
+- [x] Ballada o szosie E7
+- [x] Blues kolejowych mostów
+- [x] C'est la vie
+- [x] Chory na wyobraźnię
+- [x] Czołg
+- [x] Droga do Tiperary
 - [ ] Dziewczyna o perłowych włosach
 - [ ] Fiat 126p
 - [ ] Gdybym miał gitarę

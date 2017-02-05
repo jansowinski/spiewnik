@@ -6490,6 +6490,40 @@ I święcić będą nam potomni
 Po pierwszym - siedemnasty
 ~~~
 
+## Czołg
+
+~~~
+Gąsienicami zagrzebany w piach nad Wisłą   a B a
+Patrzę przez rzekę pustym peryskopem       a B a
+Na miasto w walce, które jest tak blisko   fis A7 d
+Że Wisły nurt frontowym staje się okopem   F E7
+
+Rozgrzany pancerz pod wrześniowym żarem 
+Rwie do ataku się i pali pod dotykiem 
+Ale wystygły silnik śpi pod skrzepłym smarem 
+I od miesiąca nie siadł nikt za celownikiem 
+
+Krtań lufy łaknie znów pocisków smaku 
+A łyka tylko tłusty dym z drugiego brzegu 
+W słuchawkach zdjetych hełmofonów krzyk Polaków 
+I nie wiem czemu rzeki tej nie wziąłem z biegu 
+
+Dajcie mi wgryźć się gąsienicą w fale śliskie 
+I ogniem z lufy dajcie wesprzeć barykady 
+By miasto w walce, które jest tak bliskie 
+Bezruchu mego nie nazwało mianem zdrady 
+
+Lecz milczy sztab i milczą pędy tataraku 
+Którymi mnie przed tymi, co czekają, skryto 
+Bo ruski tank nie bedzie walczył za Polaków 
+Bo ruski tank zaczekać ma, by ich wybito 
+
+Gdy się wypali już powstanie ciemnym błyskiem 
+Włączą mi silnik i rozgrzeją krew maszyny 
+Bym mógł obejrzeć miasto, co tak bliskie 
+Bez walki zdobywając gruzy i ruiny
+~~~
+
 ## Samosierra
 
 (Jacek Kaczmarski)
@@ -9794,4 +9828,365 @@ Znów buty, buty, buty, tupot nóg,
 I ptaków oszalałych czarny targ 
 Kobiety stoją u rozstajnych dróg
 W żołnierski podgolony patrzą kark
+~~~
+
+## Aleksander Siergiejewicz Puszkin
+
+~~~
+Co było nie wróci i szaty rozdzierać by próżno, a E a
+Cóż każda epoka ma własny porządek i ład        C G C A7
+A przecież mi żal że tu w drzwiach nie pojawi się Puszkin   d a
+Tak chętnie bym dziś choć na kwadrans na koniak z nim wpadł    E7 a A7
+  
+Dziś już nie musimy piechotą się wlec na spotkanie I tyle już aut, i rakiety unoszą nas w dal.
+A przecież mi żal, że po Moskwie nie suną już sanie I nie ma już sań, i nie będzie już nigdy, a żal.
+
+Pozdrawiam i wielbię mój wiek, mego stwórcę i mistrza, Pojętny mój wiek, zdolny wiek mój chcę cenić i czcić.
+A przecież mi żal, że jak dawniej śnią nam się bożyszcza I jakoś tak jest, że gotowiśmy czołem im bić.
+
+No cóż, nie na darmo zwycięstwem nasz szlak się uświetnił I wszystko już jest: cicha przystań, "non iron" i wikt,
+A przecież mi żal, że nad naszym zwycięstwem niejednym Górują cokoły, na których nie stoi już nikt.
+
+Co było - nie wróci... Wychodzę wieczorem na spacer Spojrzałem na Arbat i nagle - ach, co za gość!
+Rżą konie u sań, Aleksander Siergiejewicz przechadza się, Ach, głowę bym dał, że już jutro wydarzy się coś.
+~~~
+
+## Ballada o czterech pancernych 
+
+~~~   
+Na łąkach kaczeńce, 
+a na niebie wiatr, 
+a my na wojence 
+oglądamy świat.
+            
+Na łąki wrócimy, 
+tylko załatwimy 
+parę ważnych spraw. 
+Może nie ci sami, 
+wrócimy do mamy     
+i do szkolnych ław.
+            
+Deszcze niespokojne 
+potargały sad,
+a my na tej wojnie 
+ładnych parę lat. 
+Do domu wrócimy,          
+w piecu napalimy, 
+nakarmimy psa. 
+Przed nocą zdążymy, 
+tylko zwyciężymy, 
+bo to ważna gra!
+            
+
+Na niebie obłoki,
+po wsiach pełno bzu, 
+gdzież ten świat daleki, 
+pełen dobrych snów! 
+Powrócimy wierni
+my czterej pancerni, 
+"Rudy" i nasz pies.
+My czterej pancerni 
+powrócimy wierni,
+po wiosenny bez! 
+~~~
+
+## Ballada o szosie E7
+
+~~~       
+Czerwony Radom pamiętam siny    fis
+Jak zbite pałką ludzkie plecy   h
+Szosę E7 na dworcach gliny      D
+Jakieś pieniądze jakieś adresy  fis
+
+
+          
+Czerwiec nas zastał z dala od miasta 
+Jesienią Konrad już na nas czekał 
+Pierwsze pieniądze właśnie zebrano 
+Pojechaliśmy - ktoś musiał jechać.
+      
+Naprawę trzeba było coś zrobić 
+Naprawdę gliny były na dworcach 
+I stąd to całe nasze jeżdżenie 
+Szosą E7 - dziwny autostop
+    
+Czerwony Radom pamiętam siny 
+Jak zbite pałką ludzkie plecy 
+Szosę E7 na dworcach gliny 
+Jakieś pieniądze jakieś adresy
+      
+Strach w ludzkich oczach upokorzenie 
+W spotniałych palcach świstki wyroków 
+Pamięć odbitą na ścieżkach zdrowia 
+Listy z więzienia lekarz adwokat
+
+Nadziei miałem bardzo niewiele
+Że na coś przyda się to jeżdżenie 
+Mówiąc po prostu raczej myślałem 
+Że to się znowu skończy więzieniem
+
+Sto kilometrów - to niedaleko
+Można się było w końcu pocieszać 
+Logicznie biorąc mógł ktoś im spalić 
+Miejski komitet w miasteczku Cieszyn
+
+Czerwony Radom pamiętam siny 
+Jak zbite pałką ludzkie plecy 
+Szosę E7 na dworcach gliny 
+Jakieś pieniądze jakieś adresy
+
+Strach w ludzkich oczach upokorzenie   fis 
+W spotniałych palcach świstki wyroków  fis 
+Pamięć odbitą na ścieżkach zdrowia     E 
+Listy z więzienia lekarz adwokat       D fis
+
+Kuba jeździła zwykle w soboty 
+Wracała stamtąd jakby z daleka 
+Pamiętam dobrze te jej powroty
+Każdy z nas wolał jeździć niż czekać
+
+Ta moja żona jest taka drobna 
+Czasem jest całkiem trudno uwierzyć 
+Że przesiedziała w więzieniu dłużej 
+Niż ta wariatka Angela Davis
+
+Szosa E7 - znajoma szosa
+Jak na gitarze akord E7
+Długie wieczory oczekiwania
+Kuba wracała ze świeżym chlebem
+
+
+To był ej taki prywatny pomysł
+Kiedy myślała że za nią idą
+Stanęła w zwykłej kolejce w sklepie
+Gdy wyszła z siatką tajniak już spłynął
+
+Czerwony Radom pamiętam siny 
+Jak zbite pałką ludzkie plecy 
+Szosę E7 na dworcach gliny 
+Jakieś pieniądze jakieś adresy
+
+A tak naprawdę lubiłem tylko
+Z tego Radomia po prostu wracać 
+Zmęczony z lewej profil kierowcy 
+Nocna E7 i wozów światła
+
+W szumie silnika strzępy rozmowy 
+Wspólne patrzenie na szosy wstęgę 
+Ta romantyczna tania sceneria
+Co z urzędnika robi włóczęgę
+
+Na różnych szosach jadąc nocami
+Wiem że się Radom przypomni jeszcze 
+Gdy wycieraczki będą zmazywać 
+Półkola w kroplach rzadkiego deszczu
+
+Czerwony Radom pamiętam siny 
+Jak zbite pałką ludzkie plecy 
+Szosę E7 na dworcach gliny 
+Jakieś pieniądze jakieś adresy
+
+Strach w ludzkich oczach upokorzenie 
+W spotniałych palcach świstki wyroków 
+Pamięć odbitą na ścieżkach zdrowia 
+Listy z więzienia lekarz adwokat
+
+Szum zagłuszaczki - to o Radomiu 
+Jak o procesach mówią już 
+Brzeskich Znowu jesteśmy z dala od miasta
+Co też tam słychać u Romaszewskich      
+            
+Kuba coś mówi że nie rozumie
+Przy mikrofonie ktoś ponoć zasłabł 
+To już naprawdę pięć lat minęło 
+Znowu jesteśmy z dala od miasta
+    
+I tylko nie wiem czy będę umiał
+Znowu pojechać szosą E-ileś
+Gdy przyjdzie pora i co odpowiem
+Gdy ktoś mnie spyta "Gdzie wtedy byłeś?"
+~~~
+
+## Blues kolejowych mostów
+
+~~~
+
+Kolejowych mostów    e
+Smutna pieśń w powietrzu    a
+Kolejowych mostów    h
+Smutna pieśń w powietrzu    a
+Przejeżdżają wciąż pociągi    h e a
+Chciałbym kiedyś do któregoś wsiąść   h a e
+
+Kolejowych mostów
+Smutna pieśń w powietrzu
+Kolejowych mostów
+Smutna pieśń w powietrzu
+Przejeżdżają wciąż pociągi
+Chciałbym kiedyś do któregoś wsiąść
+
+Wstąpiłem na stacje
+Serce miałem w gardle
+Wstąpiłem na stacje
+Serce miałem w gardle
+Gdzież ten wagon co mnie weźmie
+Na południe do rodzinnych stron
+
+Wstąpiłem na stacje
+Serce miałem w gardle
+Wstąpiłem na stacje
+Serce miałem w gardle
+Gdzież ten wagon co mnie weźmie
+Na południe do rodzinnych stron
+
+Blues tropionych zwierząt
+Tęsknoty za domem
+Blues tropionych  zwierząt
+Tęsknoty ogromnej
+Jak powstrzymać się od płaczu
+Roześmiałem się na cały glos
+
+Blues tropionych zwierząt
+Tęsknoty za domem
+Blues tropionych  zwierząt
+Tęsknoty okropnej
+Jak powstrzymać się od płaczu   
+Roześmiałem się na cały glos
+~~~
+
+## Chory na wyobraźnię
+
+~~~
+Dawno już w mieście drwił z niego każdy    a d
+Pośmiewiskiem był ludziom na co dzień      a d
+Ot, wariat chory na wyobraźnię             F C F C
+Wiecznie w drodze, spóźniony przechodzień  d E
+
+Dokąd idziesz pytali go bliscy            a d
+Z tego bracie to trzeba się leczyć        a d
+A on brał tekturową walizkę               F C F C
+I wychodził swym obrazom naprzeciw, mówiąc:  d e
+
+    Idę tam, gdzie bezmiar błękitu       C G d a
+    Światłocienie cyprysów przy drodze   C G d a
+    Feerią barw każdy ranek rozkwita     F C F C
+    Chociaż wiem, że do celu nie dojdę   d e
+
+Gdy malował, świat milkł jak zaklęty 
+Kurczył się w skrawek płótna na ramach
+A on pieścił je jak pierś kobiety
+W siedmiobarwnych tęcz kreskach i plamach
+
+Kiedy skończył, wpatrywał się w ciszę
+By natchnieniem nasycić znów duszę
+A gdy już dał się marszandom wykpić
+Pił noc całą, by z brzaskiem wyruszyć, mówiąc:
+
+    Idę tam, gdzie bezmiar błękitu       C G d a
+    Światłocienie cyprysów przy drodze   C G d a
+    Feerią barw każdy ranek rozkwita     F C F C
+    Chociaż wiem, że do celu nie dojdę   d e
+~~~
+
+## C’est la vie
+
+~~~
+d7 G C7+ G0  d7 G C7+ G0
+
+Że se, proszę pana, od czasu do czasu golniemy,   d7 G
+to jeszcze nie powód, żeby nas pan, proszę pana, od alkoholików   C7+ G0
+i w dodatku publicznie, przy ludziach.   d7 G C7+ G0
+Panu, proszę pana, brak taktu   d7
+A poza tym, nie ma pan na nic dowodu   G C7+
+Ani na nasze, ani na swoje usprawiedliwienie.   G0
+Jak dotąd, ani jednego odcisku palca    d7 G
+Nie pozostawiliśmy w tym życiu.   C7+ G0
+Ani my, ani pan, proszę pana   d7 G
+
+    C’est la vie. Kogo to dzisiaj obchodzi,   C7+ G0 d7
+    że c’est, że la, że vie   G C7+
+    To tylko puste dźwięki   G0
+    Czym pan się tak przejął, proszę pana?   d7 G C7+
+    Że ludzie przestali śnić, bo nie mają czasu?   G0 d7 G
+    To jest życie proszę pana, samo życie.   C+ G0
+
+Że la górnego nie potrafimy wyciągnąć?   d7 G
+Myli się pan, proszę pana, potrafimy!   C7+ G0
+Tylko, że brzmi ono trochę fałszywie.   d7 G C7+ G0
+Całkiem nie pasuje do tej melodii.   d7
+Nasze serca są nastrojone na dużo niższe tony.   G C7+
+Zresztą, w dzisiejszych czasach doczekaliśmy się maszyn,   G0
+które potrafią wygrać za nas dużo wyższe nutki od górnego la,   d7 G
+ot, choćby taki klarnet.   C7+ G0
+A w ogóle, to czego się pan nas tak ciągle czepia?   d7 G
+
+    C’est la vie. Kogo to dzisiaj obchodzi,   C7+ G0 d7
+    że c’est, że la, że vie   G C7+
+    To tylko puste dźwięki   G0
+    Czym pan się tak przejął, proszę pana?   d7 G C7+
+    Że ludzie przestali śnić, bo nie mają czasu?   G0 d7 G
+    To jest życie proszę pana, samo życie.   C+ G0
+
+Że vie? Co to znaczy vie, proszę pana?!
+Wyraża się pan niegramatycznie,
+To znaczy, że po polsku nie umie pan mówić jak należy.
+Ja - wiem, ty - wiesz, on, ona, ono...
+I wszyscy dookoła wiedzą, proszę pana,
+Tylko pan jest ciągle niedoinformowany.
+I czego pan właściwie nie wie?
+Jak żyć, czy jak się w tym życiu ustawić?
+Bo żyć, proszę pana, należy pełną piersią.
+Pan jest po gruźlicy...? A czy ma pan na to papiery?
+Więc nie ma sprawy. Jest pan nieobecny usprawiedliwiony.
+
+    C’est la vie. Kogo to dzisiaj obchodzi,   C7+ G0 d7
+    że c’est, że la, że vie   G C7+
+    To tylko puste dźwięki   G0
+    Czym pan się tak przejął, proszę pana?   d7 G C7+
+    Że ludzie przestali śnić, bo nie mają czasu?   G0 d7 G
+    To jest życie proszę pana, samo życie, niestety...   C+ G0
+
+    C’est la vie. Kogo to dzisiaj obchodzi,   C7+ G0 d7
+    że c’est, że la, że vie   G C7+
+    To tylko puste dźwięki   G0
+    Czym pan się tak przejął, proszę pana?   d7 G C7+
+    Że ludzie nie mają czasu śnić? No trudno   G0 d7 G
+    To jest życie proszę pana, ktoś musi żyć.   C+ G0
+~~~
+
+## Droga do Tipperary
+
+~~~
+Pozostały za nami w dali
+Szkockie deszcze, szkockie mgły
+Każdy z nas się do czynu pali
+Każdy ziścić chce swe sny
+Żegnaj słodka Szkocjo
+I beztroski życia tryb
+Teraz masz znój, trudy i emocje 
+Komandosi, to my!
+Teraz masz znój, trudy i emocje 
+Komandosi, to my!
+ 
+Ani skały, ani morze
+Nie przerażą dzisiaj nas
+Gdy zabłysną krwawe zorze
+I do boju przyjdzie czas
+Płyńmy ciemną nocą
+Pod osłoną szarej mgły
+By na lądzie zmierzyć się z przemocą
+Komandosi, to my!
+By na lądzie zmierzyć się z przemocą 
+Komandosi, to my!
+ 
+Gdy z wyprawy powrócimy
+Słodkie dziewczę czeka nas
+A gdy do niej się tulimy
+Tak myślimy wszyscy wraz
+Może świt zabłyśnie
+Może spełnią się me sny
+Polskie dziewczę mocno mnie uściśnie 
+Komandosi, to my!
+Polskie dziewczę mocno mnie uściśnie 
+Komandosi, to my!
 ~~~
