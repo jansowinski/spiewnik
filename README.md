@@ -66,14 +66,14 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 - [x] Chory na wyobraźnię
 - [x] Czołg
 - [x] Droga do Tiperary
-- [ ] Dziewczyna o perłowych włosach
-- [ ] Fiat 126p
+- [x] Dziewczyna o perłowych włosach
+- [x] Fiat 126p
 - [ ] Gdybym miał gitarę
-- [ ] Hej, ho żagle staw!
-- [ ] Hymn harcerski
-- [ ] Hymn Lecha Poznań
+- [x] Hej, ho żagle staw!
+- [x] Hymn harcerski
+- [x] Hymn Lecha Poznań
 - [ ] Idzie zuch
-- [ ] It’s a long way to Tipperary
+- [x] It’s a long way to Tipperary
 - [ ] Karczma dla samotnych
 - [ ] Knajpa morderców
 - [ ] Knocking on heaven’s door

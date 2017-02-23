@@ -10190,3 +10190,313 @@ Komandosi, to my!
 Polskie dziewczę mocno mnie uściśnie 
 Komandosi, to my!
 ~~~
+
+## It’s a long way to Tipperary
+
+~~~
+Up to mighty London
+Came an Irishman one day.
+As the streets are paved with gold
+Sure, everyone was gay,
+Singing songs of Piccadilly,
+Strand and Leicester Square,
+Till Paddy got excited,
+Then he shouted to them there:
+
+It's a long way to Tipperary,
+It's a long way to go.
+It's a long way to Tipperary
+To the sweetest girl I know! 
+Goodbye, Piccadilly,
+Farewell, Leicester Square!
+It's a long long way to Tipperary, 
+But my heart's right there.
+
+Paddy wrote a letter
+To his Irish Molly-O,
+Saying, "Should you not receive it, 
+Write and let me know!"
+"If I make mistakes in spelling, 
+Molly, dear," said he,
+"Remember, it's the pen that's bad, 
+Don't lay the blame on me!
+ 
+It's a long way to Tipperary,
+It's a long way to go.
+It's a long way to Tipperary
+To the sweetest girl I know! 
+Goodbye, Piccadilly,
+Farewell, Leicester Square!
+It's a long long way to Tipperary, 
+But my heart's right there.
+
+Molly wrote a neat reply
+To Irish Paddy-O,
+Saying Mike Maloney
+Wants to marry me, and so
+Leave the Strand and Piccadilly 
+Or you'll be to blame,
+For love has fairly drove me silly:
+Hoping you're the same!
+
+It's a long way to Tipperary,
+It's a long way to go.
+It's a long way to Tipperary
+To the sweetest girl I know! 
+Goodbye, Piccadilly,
+Farewell, Leicester Square!
+It's a long long way to Tipperary, 
+But my heart's right there. 
+~~~
+
+## Dziewczyna o perłowych włosach
+
+~~~
+Stracone złudzenia I sny kolorowe  a G d a
+Nie wrócą juz nigdy na wiatr porzucone
+A przecież tak chciała Iść przez życie swą drogą
+Lecz życie nie dało Jej żadnych szans
+
+Do widzenia, dziewczyno ma       C G 
+O perłowych włosach, jak mgła    d a
+Żegnaj, nie roń już łez
+Wszystko ma swój kres
+Do widzenia, dziewczyno ma
+O perłowych włosach, jak mgła
+La la la la la la La la la la la la
+
+Już pocałunki Nie budzą jej rano,
+a usta kochane nie szepczą dobranoc
+A przecież tak chciała, iść przez życie swą drogą 
+Lecz życie nie dało, jej żadnych szans
+ 
+Do widzenia, dziewczyno ma
+O perłowych włosach, jak mgła 
+Żegnaj, nie roń już łez 
+Wszystko ma swój kres 4x
+ 
+Tak chciała swe szczęście zatrzymać dla siebie 
+Tak chciala mieć slońce na swym białym niebie 
+Straciła swe szczęście nie chciała być sługą 
+Bo jedną miłością nie można żyć długo
+ 
+Do widzenia, dziewczyno ma
+O perłowych włosach, jak mgła Ż
+egnaj, nie roń już łez
+Wszystko ma swój kres
+Do widzenia, dziewczyno ma
+O perłowych włosach, jak mgła
+La la la la la la La la la la la
+~~~
+
+## Fiat 126p
+
+~~~
+Znowu liście spadły miła na nasz dach           e De 
+wyjdź z łazienki jeszcze raz rzućmy okiem       a e 
+jak tam stoi wśród innych taki sam - ale nasz   D G e 
+na niewielkim parkingu przed blokiem            D e
+
+popatrz miła, jaki obcy jest ten świat
+dotąd dom był jedynym schronieniem
+teraz mamy już drugie, te są innych, ten nasz 
+odkąd przestał być tylko marzeniem
+
+a jutro, nagleni radiem,         e 
+inni przeciwko nam za szybą
+ruszamy znowu: RAJD SAFARI       D 
+ty zemną, po prawej mój pilot
+- uważaj! idiota wymusza pierwszeństwo
+- patrz! idą, i idą jak krowy przez pasy
+- stań tutaj! bo zajmie ci miejsce ten kretyn
+- pa! przedzwoń i podjedź po pracy              e
+
+znowu deszcze spadły miła, będę ... mył
+tyle było, pamiętasz wyrzeczeń
+póki nie ma na lepszy,
+trzeba tak o ten dbać
+żeby "brudas" nie pisały dzieci
+
+popatrz miła, jaki obcy jest ten świat 
+tyle mamy potrzeby miłości
+pieszczotliwie jak plecy kobiety myć dach 
+można z tobą a ty nie zazdrościsz
+
+pojutrze kolejny weekend
+inni przeciwko nam za szybą
+ruszamy znowu: RAJD SAFARI
+ty zemną, po prawej mój pilot
+- uważaj! idiota się nie da wyprzedzić
+- ten znowu się wlecze, syrenką jak furą, 
+- nie zostaw tu wozu, bo znów coś odkręcą 
+- wracajmy, ten cały Nieporęt to dziura
+~~~
+
+## Hymn harcerski
+
+~~~
+Wszystko co nasze Polsce oddamy
+W niej tylko życie więc idziem żyć 
+Świty się bielą, otwórzmy bramy 
+Rozkaz wydany, wstań w słońce idź!  
+
+Ramię pręż, słabość krusz
+Ducha tęż, Ojczyźnie miłej służ
+Na jej zew, w bój czy trud
+Pójdzie rad harcerzy polskich ród 
+Harcerzy polskich ród!
+~~~
+
+## Hej, ho żagle staw!
+ 
+~~~
+  Hej, ho, żagle staw!                   D A G A
+  Ciągnij linę i się baw!                D A G A
+  Hej, ho, śmiało steruj                 h fis G A
+  Statkiem, który jest z papieru. Hej!   A G A D
+ 
+Zadziwi się mama, zadziwi się tata,           h A h A
+Kiedy w rejs wypłyniesz, hen, dokoła świata   h A h A 
+Bo świat, moi mili, nie jest wcale duży,      e h e h
+Opłynąć go można w deszczowej kałuży.         e h A G A
+
+  Hej, ho, żagle staw!
+  Ciągnij linę i się baw!
+  Hej, ho, śmiało steruj
+  Statkiem, który jest z papieru. Hej!
+
+Wypłynę na Bałtyk, z Gdyni, no a potem
+Szybciutko opłynę całą Europę,
+Potem przez Atlantyk, jam odważnym smykiem,
+Z Kolumbem popłynę odkryć Amerykę.
+
+  Hej, ho, żagle staw!
+  Ciągnij linę i się baw!
+  Hej, ho, śmiało steruj
+  Statkiem, który jest z papieru. Hej!  
+
+Potem w dół globusa, przez morskie odmęty,
+Obejść Horn Przylądek – tam giną okręty,
+Ominąć Australię, aby Pacyfikiem
+Żaglując spokojnie osiągnąć Afrykę.
+
+  Hej, ho, żagle staw!
+  Ciągnij linę i się baw!
+  Hej, ho, śmiało steruj
+  Statkiem, który jest z papieru. Hej!  
+
+Teraz już do domu łódka płynie sama,
+Bo z kolacją czeka na żeglarza mama
+I wiesz już, wyjmując statek swój z kałuży: 
+Gdy masz wyobraźnię, to świat nie jest duży.
+
+  Hej, ho, żagle staw!
+  Ciągnij linę i się baw!
+  Hej, ho, śmiało steruj
+  Statkiem, który jest z papieru. Hej!
+~~~
+
+## Hymn Lecha Poznań
+
+~~~
+Ludzi tłum przez miasto gna 
+Dziś Kolejorz mecz swój gra 
+W kasach ścisk, biletów brak 
+Cały stadion pęka w szwach
+
+W górę serca, niech zwycięża 
+Lech! Niech zwycięża Lech!
+Niech zwycięża Lech!
+ 
+Sędzia już rozpoczął mecz 
+Piłka znowu toczy się
+Wnet z podania pada strzał 
+Na trybunach radość, szał  
+
+W górę serca, niech zwycięża Lech! 
+Niech zwycięża Lech!
+Niech zwycięża Lech!
+ 
+Kolejorz – skanduje tłum 
+Kolejorz i piłka w ruch 
+Kolejorz – na bramkę wal 
+Kolejorz i wreszcie gol!  
+
+W górę serca, niech zwycięża Lech! 
+Niech zwycięża Lech!
+Niech zwycięża Lech!
+ 
+Gdy się mecz zakończy już 
+Pusty stadion zamknie stróż
+Tylko jeszcze długo w noc 
+Będzie brzmiał kibica głos  
+
+W górę serca, niech zwycięża Lech! 
+Niech zwycięża Lech!
+Niech zwycięża Lech!
+~~~
+
+## Knajpa morderców
+
+~~~
+Nie szukaj drogi, znajdziesz ja w sercu       c Cis
+Smutna jest knajpa byłych morderców           c Cis c
+Niech Cię nie trwożą, gdy do niej wkroczysz   c Cis
+Płonące w mroku morderców oczy                c Cis c
+
+  Nieważny groźny grymas na gębie       Cis c 
+  Mordercy mają serca gołębie           Cis c 
+  Band armii, gangów i czarnych sotni   Cis c 
+  Wczoraj rycerze dziś - bezrobotni     b c
+
+    Pustka i chłodem wieje po kątach      Cis c 
+    Stary morderca z baru szkło sprząta   Cis c 
+    Szafa wygrywa rzewne kawałki          b f 
+    Siedzą mordercy łamią zapałki         Cis G
+
+Czasem twarz obca mignie i znika
+Zaraz się dźwignie ktoś od stolika
+Wróci nazajutrz z miną nijaką
+Bluźnie na życie, postawi flakon
+
+  Każdy do niego zaraz się tłoczy 
+  Wkrąg nad szklankami błyskają oczy 
+  I zaraz każdy lepiej się czuje 
+  Jeszcze morderców ktoś potrzebuje
+
+    Może nareszcie któregoś ranka 
+    Znowu się zacznie wielka kocanka 
+    I wrócą chwile pełne zazdrości
+    Znów będą płacić za przyjemności
+
+Znów w dłoni zamiast płaskiej butelki
+Znany kształt kolby od parabelki
+A w końcu palca wibruje skrycie
+Jak łaskotanie: tu śmierć, tu życie
+
+  Wracajcie słodkie chwały godziny 
+  Sławne gonitwy i strzelaniny
+  Tak tylko można znowu być młodym 
+  Zabić i z dumą czekać nagrody
+ 
+    W knajpie morderców gryziemy palce
+    Żądze nas dręczą i sny o walce
+    Ale któż dzisiaj mordercom ufa
+    Więc srebrne kule spią w czarnych lufach
+
+Zmazując barwy lasom i polom         c Cis
+Mknie balon nocy z knajpy gondolą    c Cis c
+Kiedyś tak jasno a dziś tak ciemno   c Cis
+Wroga, nie widzę wroga przede mną    c Cis c
+
+  Rwie łeb od tortur alkoholowych        Cis c 
+  Lecz wśród porcelan i rur niklowych    Cis c 
+  Człowiek się znowu czuje półbogiem     Cis c 
+  Bo oto stoi twarzą w twarz z wrogiem   b c
+   
+    Kula jak srebrna żmija wyskoczy   Cis c 
+    W lustrze nad kranem zagasną oczy   Cis c 
+    Ciała morderców skry potu zroszą    b f 
+    Gdy milcząc ciało za drzwi wynoszą  Cis G 
+
+Gdy bije północ!
