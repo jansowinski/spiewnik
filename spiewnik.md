@@ -10500,3 +10500,4 @@ Wroga, nie widzę wroga przede mną    c Cis c
     Gdy milcząc ciało za drzwi wynoszą  Cis G 
 
 Gdy bije północ!
+~~~
