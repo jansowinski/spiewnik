@@ -1967,7 +1967,7 @@ Nagle przystanęli obaj na drodze pod śliwką
 Zobaczyli że im browar wyszedł na przeciwko
 
 Nie ma szczęścia na tym świecie ni sprawiedliwości
-Anioł pije piwo trzecie,Diabeł mu zazdrości
+Anioł pije piwo trzeci              e,Diabeł mu zazdrości
 Mówi Diabeł: "postaw kufla - Bóg ci wynagrodzi
 My artyści w taki upał żyć musimy w zgodzie"
 
@@ -5684,13 +5684,13 @@ O matko, ja syn twój, umieram
 
 Przy jego posłaniu siostrzyczka więzienna
 Młodemu więźniowi tłumaczy
-,,Ty wrócisz do ojca, ty wrócisz do matki
+              ,,Ty wrócisz do ojca, ty wrócisz do matki
 Nim róże zakwitną i bratki''
 
 Gorączka się wzmaga, to znowu opada
 Wtem klawisz drzwi celi otwiera
 Chce powstać - nie może, łzy z oczu się leją
-,,Ach matko ja syn twój umieram''
+              ,,Ach matko ja syn twój umieram''
 
 O szóstej nad ranem wynieśli go z celi
 I skuli go w ciemnej mogile
@@ -5699,7 +5699,7 @@ Ich młodszy kolega nie żyje
 
 W więziennej kaplicy dwie świece się palą
 A przy nich niewiasta wyblakła
-,,Och Boże jedyny, to syn mój jedyny
+              ,,Och Boże jedyny, to syn mój jedyny
 Umiera zakuty w kajdany!''
 ~~~
 
@@ -8189,17 +8189,17 @@ Pieśń potężna, pieśń jak dzwon
 ## Idziemy w jasną
 
 ~~~
-Idziemy w jasną,z błękitu utkaną dal  d A A7 d
+Idziemy w jasn              ą,z błękitu utkaną dal  d A A7 d
 drogą wśród pól bezkresnych           A
 i wśród mórz szumiących fal           A A7 D
 
-Cicho,szeroko jak okiem spojrzenie śle
+Cich              o,szeroko jak okiem spojrzenie śle
 jakieś się snują marzenia
 w wieczornej spowite mgle
 
 Idziemy naprzód i ciągle pniemy się wzwyż
 by zdobyć szczyt ideału
-świetlany,harcerski krzyż
+świetlan              y,harcerski krzyż
 ~~~
 
 ## Puszcza
@@ -8337,9 +8337,9 @@ W obronie czci kobiety, podnieśli pistolety
 Zagrzmiało, wystrzeliło i w niebie dziur przybyło
 Na ziemi zaś pan z panem szli oblać to szampanem
 
-Zaś w domu pan do pani rzekł:,,po coż serce ranić?
+Zaś w domu pan do pani rzekł:              ,,po coż serce ranić?
 Nie będę Cię wstrzymywał, bądż wolna i szczęśliwa"
-Odrzekła:,,Ach mój miły, nasze sny już się prześniły,
+Odrzekła:              ,,Ach mój miły, nasze sny już się prześniły,
 On stanął na mej drodze, skończone, odchodzę."
 Pan pomógł palto włożyć, uprzejmie drzwi otworzył
 
@@ -8347,7 +8347,7 @@ A gdy już w progu stała krew nagle w nim zawrzała
 Jak nie skoczy, jak nie wrzaśnie, jak nie trzaśnie, jak i właśnie
 Skoczyła i zawyła i w policzek go strzeliła
 A potem w pół zemdlona opadła mu w ramiona
-I odrzekła:,,Ach mój miły" i odtąd powrócili
+I odrzekła:              ,,Ach mój miły" i odtąd powrócili
 ~~~
 
 ## Idzie noc
@@ -10501,3 +10501,267 @@ Wroga, nie widzę wroga przede mną    c Cis c
 
 Gdy bije północ!
 ~~~
+
+
+## Z wielu pieców się jadło chleb
+
+~~~
+Z wielu pieców się jadło chleb    C G C
+Bo od lat przyglądam się światu   F G
+Nieraz czasem rozbolał łeb        C G C
+I mówili: ZMIANA KLIMATU.         F G
+Czasem trafił się wielki raut     e d
+Albo feta proletariatu.           F G
+Czasem podróż najlepszym z aut    e d
+Częściej szare drogi powiatu      F G
+ 
+Ale to już było,                         F G
+I nie wróci więcej                       C
+I choć tyle się zdarzyło                 e
+To do przodu wciąż wyrywa głupie serce   F C
+Ale to już było,                         F G
+Znikło gdzieś za nami.                   C
+Choć w papierach lat przybyło,           e
+To naprawdę wciąż jesteśmy tacy sami     F C
+ 
+Na regale kolekcja płyt                  C G C
+I wywiadów pełne gazety.                 F G
+Za oknami kolejny świt                   C G C
+I w sypialni dzieci oddechy.             F G
+One lecą droga do gwiazd                 e d
+Przez niebieski ocean nieba.             F G
+Ale przecież za jakiś czas               e d
+Będą mogły same zaśpiewać:               F G
+ 
+Ale to już było,                         F G
+I nie wróci więcej                       C
+I choć tyle się zdarzyło                 e
+To do przodu wciąż wyrywa głupie serce   F C
+Ale to już było,                         F G
+Znikło gdzieś za nami.                   C
+Choć w papierach lat przybyło,           e
+To naprawdę wciąż jesteśmy tacy sami     F C
+~~~
+
+## Karczma dla samotnych
+
+~~~
+Na piaszczystej drodze chłodny we włosach wiatr        a d
+Już przeszedłeś w życiu tyle, za plecami drogi szmat   e C G
+Nagle na widnokręgu ostry światła blask                a d
+Może twym strudzonym nogom odpoczynek ktoś chce dać.   e C G
+
+  Witaj w naszej Karczmie Dla Samotnych    E a
+  Usiądź z nami w Karczmie Dla Samotnych   E a
+  Będzie piękna noc, będzie długa noc      F C F C
+  Tu zawsze są otwarte drzwi.              F C G
+
+Tu się schronisz chłodną nocą, tu pył drogi zmyjesz z warg   a d
+Tu zdrożone stopy spoczną, gdy zmęczenie ugnie kark          e C G
+Wiatr oplata okiennice, dym po chmurach hen się wspina       a d
+My się sercem podzielimy, gdy nadejdzie zła godzina.         e C G
+
+  Witaj w naszej Karczmie Dla Samotnych    E a
+  Usiądź z nami w Karczmie Dla Samotnych   E a
+  Będzie piękna noc, będzie długa noc      F C F C
+  Tu zawsze są otwarte drzwi.              F C G
+
+Wspomnisz jeszcze jak to było, kiedy minie wiele lat    a d
+Jak brzuchate szczęście piło do dna poezji dzban        e C G
+Nim odejdziesz mówiąc – bywaj – powtórzymy ci od nowa   a d
+Na teraz i na całe życie… słowa                         e C G
+
+  Witaj w naszej Karczmie Dla Samotnych    E a
+  Usiądź z nami w Karczmie Dla Samotnych   E a
+  Będzie piękna noc, będzie długa noc      F C F C
+  Tu zawsze są otwarte drzwi.              F C G
+~~~
+
+## Knajpa morderców
+
+~~~
+Nie szukaj drogi, znajdziesz ja w sercu       c Cis 
+Smutna jest knajpa byłych morderców           c Cis c 
+Niech Cię nie trwożą, gdy do niej wkroczysz   c Cis 
+Płonące w mroku morderców oczy                c Cis c
+
+  Nieważny groźny grymas na gębie       Cis c 
+  Mordercy mają serca gołębie           Cis c 
+  Band armii, gangów i czarnych sotni   Cis c 
+  Wczoraj rycerze dziś - bezrobotni     b c
+
+    Pustka i chłodem wieje po kątach      Cis c 
+    Stary morderca z baru szkło sprząta   Cis c 
+    Szafa wygrywa rzewne kawałki          b f 
+    Siedzą mordercy łamią zapałki         Cis G 
+
+Czasem twarz obca mignie i znika     c Cis 
+Zaraz się dźwignie ktoś od stolika   c Cis c 
+Wróci nazajutrz z miną nijaką        c Cis 
+Bluźnie na życie, postawi flakonc    Cis c
+
+  Każdy do niego zaraz się tłoczy      Cis c 
+  Wkrąg nad szklankami błyskają oczy   Cis c 
+  I zaraz każdy lepiej się czuje       Cis c 
+  Jeszcze morderców ktoś potrzebuje    b c
+
+    Może nareszcie któregoś ranka      Cis c 
+    Znowu się zacznie wielka kocanka   Cis c 
+    I wrócą chwile pełne zazdrości     b f 
+    Znów będą płacić za przyjemności   Cis G 
+
+Znów w dłoni zamiast płaskiej butelki   c Cis 
+Znany kształt kolby od parabelki        c Cis c 
+A w końcu palca wibruje skrycie         c Cis 
+Jak łaskotanie: tu śmierć, tu życie     c Cis c
+
+  Wracajcie słodkie chwały godziny   Cis c 
+  Sławne gonitwy i strzelaniny       Cis c 
+  Tak tylko można znowu być młodym   Cis c 
+  Zabić i z dumą czekać nagrody      b c
+
+    W knajpie morderców gryziemy palce         Cis c 
+    Żądze nas dręczą i sny o walce             Cis c 
+    Ale któż dzisiaj mordercom ufa             b f 
+    Więc srebrne kule spią w czarnych lufach   Cis G 
+
+Zmazując barwy lasom i polom         c Cis 
+Mknie balon nocy z knajpy gondolą    c Cis c 
+Kiedyś tak jasno a dziś tak ciemno   c Cis 
+Wroga, nie widzę wroga przede mną    c Cis c
+
+  Rwie łeb od tortur alkoholowych        Cis c 
+  Lecz wśród porcelan i rur niklowych    Cis c 
+  Człowiek się znowu czuje półbogiem     Cis c 
+  Bo oto stoi twarzą w twarz z wrogiem   b c
+
+    Kula jak srebrna żmija wyskoczy      Cis c 
+    W lustrze nad kranem zagasną oczy    Cis c 
+    Ciała morderców skry potu zroszą     b f 
+    Gdy milcząc ciało za drzwi wynoszą   Cis G 
+    Gdy bije północ 
+~~~
+
+## Kto?
+
+~~~
+Kto formuje z chmur              h D G
+Ten kształt,jakby smocze łby?    e fis h
+Kto zrywa z domu dach            h D G
+Jak skalp, pozbawia okna szyb?   e fis h
+Kto piorunom ostrzy groty?       A e G
+
+Aha    h
+
+Kto jęzorami fal                  h D G
+Zlizuje palmy z brzegów wysp?     e fis h
+I na rozkaz czyj                  h D G
+Dusze wyskakują z ciał?           e fis h
+Kto przejrzyste kule gradu        A e G
+Ciska z pasją w maszty statków?   A e G
+
+Aha    h
+
+Kto piorunom ostrzy groty?        A e G
+Kto z impetem nimi miota?         A e G
+Kto przejrzyste kule gradu        A e G
+Ciska z pasją w maszty statków?   A e G
+
+Aha   h
+~~~
+
+## Na przystanku PKS-u
+
+~~~
+...na przystanku PKS-u           B
+znalezionym już o zmierzchu      F7 F
+z piosenkami - jak z włóczęgą    Es
+łatwo zacząć - trudno przestać   F Es B
+
+więc po pierwsze panie Cohen       B
+to nie będzie o Zuzannach          F7 F
+powiedzieli by w ZAiKSie           Es
+- "osiem taktów to jest plagiat"   F Es B
+
+Na przystanku PKSu               B
+kawał w bok od szosy głównej     F7 F
+z nieskończona wciąż piosenka    Es
+siedząc sobie tak we dwójkę...   F Es B
+
+Tę szosę znalazłeś na chwilę przed zmierzchem   B Cis f Cis f
+skąd ten niepokój czy stąd się zabierzesz?      B Cis f Cis f
+świecisz zapałką tabliczkę ktoś zerwał          B Cis f Cis f
+spokojnie zwyczajna w podróży przerwa.          B Cis B
+
+dość daleko od poezji              B
+na przystanku PKSu                 F7 F
+spotkasz ludzi - ot, zwyczajnych   Es
+jak z piosenki Jacka Kleyffa       F Es B
+
+- "Tutaj panie znacznie łatwiej         B
+złapać trypra niż okazję"               F7 F
+- raz mi mówił jeden pijak              Es
+- "daj pan spokój z tym przystankiem"   F Es B
+
+Pies nam trochę się zestarzał      B
+już ma siwy pysk i uszy            F7 F
+- "Czy on z dzikiem skrzyżowany    Es
+czy go panie mróz oprószył?"       F Es B
+
+Raz powiedział napotkany       B
+na przystanku PKSu             F7 F
+człowiek który dotąd nie wie   Es
+że przez chwilę był poetą      F Es B
+
+Tę szosę znalazłeś na chwilę przed zmierzchem   B Cis f Cis f
+skąd ten niepokój czy stąd się zabierzesz?      B Cis f Cis f
+świecisz zapałką tabliczkę ktoś zerwał          B Cis f Cis f
+spokojnie zwyczajna w podróży przerwa.          B Cis B
+
+Polska z Polską i o Polsce         B
+- bardzo dobrze panie Pietrzak -   F7 F
+teraz trzeba nas powzruszać        Es
+gdy nie można już rozśmieszać      F Es B
+
+"NA KAPUŚCIE CZARNE LIŚCIE"    B
+- ja wolałem tamten patos -    F7 F
+"NIE DAJ DUPY KOMUNIŚCIE"      Es
+choć podobno dobrze płacą      F Es B
+
+pisał jakiś mój brat starzy      B
+na dnie nocy stalinowskiej       F7 F
+kredą, krwią i zwykłem gównem    Es
+na dworcowy gdzieś wychodkach    F Es B
+
+Jest więc ten - i tamten patos...   B
+...Porzuciłeś znowu miasto          F7 F
+po co masz dodawać drożdże          Es
+gdy naprawdę rośnie ciasto?         F Es B
+
+I szosę znalazłeś na chwilę przed zmierzchem   B Cis f Cis f
+skąd ten niepokój czy stąd się zabierzesz?     B Cis f Cis f
+świecisz zapałką tabliczkę ktoś zerwał         B Cis f Cis f
+spokojnie zwyczajna w podróży przerwa.         B Cis B
+
+Jak tu ustrzec się obsesji         B
+gdy na pierwszych stronach gazet   F7 F
+druk ocieka nienawiścią,           Es
+jak się ustrzec nienawiści         F Es B
+
+jak nie uciec w ciepły azyl         B
+spraw codziennych albo wiecznych    F7 F
+śpiewać głosem pokolenia            Es
+czy też śpiewać dla najbliższych?   F Es B
+
+Bez debitu i bez beatu            B
+na tych samych czterech taktach   F7 F
+na akordach wciąż tych samych     Es
+swoim głosem everymana            F Es B
+
+ocierając się o banał            B
+ocierając się o plagiat          F7 F
+raz próbując coś wykrzyczeć      Es
+raz próbując coś wyszeptać...    F Es B
+~~~
+
+## 

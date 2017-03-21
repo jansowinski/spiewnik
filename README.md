@@ -74,13 +74,13 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 - [x] Hymn Lecha Poznań
 - [ ] Idzie zuch
 - [x] It’s a long way to Tipperary
-- [ ] Karczma dla samotnych
+- [x] Karczma dla samotnych
 - [ ] Knajpa morderców
 - [ ] Knocking on heaven’s door
 - [ ] Kto zeżarł talerz klusek
-- [ ] Kto?
+- [x] Kto?
 - [ ] Młody las
-- [ ] Na przystanku PKS-u
+- [x] Na przystanku PKS-u
 - [ ] Pędziwiatr
 - [ ] Powrót Sentymentalnej Panny S
 - [ ] Przebudzenie
@@ -96,7 +96,7 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 - [ ] Wild Horses
 - [ ] wilki
 - [ ] Wish You were here
-- [ ] Z wielu pieców się jadło chleb
+- [x] Z wielu pieców się jadło chleb
 
 **Zmienić / dodać chwyty:**
 
