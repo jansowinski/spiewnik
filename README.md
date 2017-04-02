@@ -57,46 +57,22 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 
 **Dodać piosenki:**
 
-- [x] Aleksander Siergiejewicz Puszkin
-- [x] Ballada o Janku Wiśniewskim
-- [x] Ballada o pancernych
-- [x] Ballada o szosie E7
-- [x] Blues kolejowych mostów
-- [x] C'est la vie
-- [x] Chory na wyobraźnię
-- [x] Czołg
-- [x] Droga do Tiperary
-- [x] Dziewczyna o perłowych włosach
-- [x] Fiat 126p
+- [ ] All along the watchtower
 - [ ] Gdybym miał gitarę
-- [x] Hej, ho żagle staw!
-- [x] Hymn harcerski
-- [x] Hymn Lecha Poznań
-- [ ] Idzie zuch
-- [x] It’s a long way to Tipperary
-- [x] Karczma dla samotnych
-- [ ] Knajpa morderców
-- [ ] Knocking on heaven’s door
 - [ ] Kto zeżarł talerz klusek
-- [x] Kto?
-- [ ] Młody las
-- [x] Na przystanku PKS-u
-- [ ] Pędziwiatr
+- [ ] Pamiętam
 - [ ] Powrót Sentymentalnej Panny S
 - [ ] Przebudzenie
-- [ ] Przypowieść o jerzach
+- [ ] Przypowieść o jeżach
 - [ ] Pytania, których nie zadam
-- [ ] Płonie ognisko i szumią knieje
 - [ ] Róża czerwono, biało kwitnie bez
-- [ ] Rzeki to idące drogi
 - [ ] Sentymentalna Panna S
 - [ ] Space Oddity
-- [ ] Sześćset mil od nikąd
+- [ ] Tato
 - [ ] Ty druha we mnie masz
 - [ ] Wild Horses
-- [ ] wilki
+- [ ] Wilki
 - [ ] Wish You were here
-- [x] Z wielu pieców się jadło chleb
 
 **Zmienić / dodać chwyty:**
 
