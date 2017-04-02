@@ -39,3 +39,11 @@ File.open('index.html', 'w') do |f|
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script><script type="text/javascript">$(document).ready(function(){$(".scheme").click(function(){$("body").toggleClass("light")});});</script></body></html>')
 end
+
+File.open('spiewnik.txt', 'w+') do |f|
+  f << "\% Śpiewnik\n% Błękitna Czternastka\n\n"
+  File.readlines("spiewnik.md").each do |s|
+    f << s.gsub("##", "#").gsub("# Śpiewnik", "")
+  end
+end
+system("pandoc spiewnik.txt -o spiewnik.epub && rm spiewnik.txt && kindlegen spiewnik.epub")
