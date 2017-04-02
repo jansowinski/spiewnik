@@ -74,6 +74,7 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 - [ ] Wild Horses
 - [ ] Wilki
 - [ ] Wish You were here
+- [ ] Piosenka o nieszczęśliwej miłości chomika
 
 **Zmienić / dodać chwyty:**
 
