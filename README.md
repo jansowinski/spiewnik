@@ -14,11 +14,12 @@
 
 ## Instrukcja obsługi skryptów
 
-wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/en/), [clean-css](https://github.com/jakubpawlowicz/clean-css), [pandoc](http://pandoc.org/), [kindlegen](https://www.amazon.com/gp/feature.html?docId=1000765211)
+wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/en/), [clean-css](https://github.com/jakubpawlowicz/clean-css)
+opcjonalnie (potrzebne do generowania ebooków: [pandoc](http://pandoc.org/), [kindlegen](https://www.amazon.com/gp/feature.html?docId=1000765211)
 
 1. odpalamy konsolę i instalujemy paczki: `bundle install`
 2. W [run.rb](https://github.com/iansowinski/spiewnik/blob/master/run.rb) wpisujemy ścieżkę folderu skryptów w indesignie
-3. odpalamy skrypt: `ruby run.rb`
+3. odpalamy skrypt: `ruby run.rb` (jeśli chcesz wygenerować ebooki, to wpisz `ruby run.eb -e`)
 4. Wygenerowany XML importujemy do indesigna, wstawiamy w pole tekstowe i odpalamy skrypt PageBreaks
 5. Poza plikiem źródłowym XML generują się też pliki: html (na stronę), epub i mobi (do czytników ebooków)
 
@@ -61,7 +62,6 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 - [ ] All along the watchtower
 - [ ] Gdybym miał gitarę
 - [ ] Kto zeżarł talerz klusek
-- [ ] Pamiętam
 - [ ] Powrót Sentymentalnej Panny S
 - [ ] Przebudzenie
 - [ ] Przypowieść o jeżach
@@ -69,12 +69,21 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 - [ ] Róża czerwono, biało kwitnie bez
 - [ ] Sentymentalna Panna S
 - [ ] Space Oddity
-- [ ] Tato
 - [ ] Ty druha we mnie masz
 - [ ] Wild Horses
 - [ ] Wilki
 - [ ] Wish You were here
 - [ ] Piosenka o nieszczęśliwej miłości chomika
+- [ ] Rio
+- [ ] Zbyszek
+- [ ] Grażka
+- [ ] Tato
+- [ ] Tu i teraz
+- [ ] Las
+- [ ] Północ
+- [ ] "Wilkiem"
+- [ ] Wschód
+- [ ] Rycerz
 
 **Zmienić / dodać chwyty:**
 
@@ -145,4 +154,6 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 
 Wszystkie skrpyty udostępnione są na licencj [MIT](https://github.com/iansowinski/spiewnik/blob/master/license/MIT.txt). Tekst śpiewnika udostępniony jest na licencji [CC](https://github.com/iansowinski/spiewnik/blob/master/license/CC.txt).
 
+## Podziękowania
 
+Projekt powstał na podstawie różnych śpiewników kilku pokoleń Czternastaków. Należy tu wymienić kilku z nich: Kubę Zygrłowskiego (Zygacza), Tomka Bratkowskiego (Bratka), Grzesia Rachlewicza, Martę Bieniasz, Julkę Suwalską i Janka Sowińskiego.

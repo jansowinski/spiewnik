@@ -41,6 +41,8 @@ File.open('generated/spiewnik.html', 'w') do |f|
   crossorigin="anonymous"></script><script type="text/javascript">$(document).ready(function(){$(".scheme").click(function(){$("body").toggleClass("light")});});</script></body></html>')
 end
 
+if ARGV[0] == "-e"
+
 File.open('generated/spiewnik.txt', 'w+') do |f|
   f << "\% Śpiewnik\n% Błękitna Czternastka\n\n"
   File.readlines("spiewnik.md").each do |s|
@@ -48,3 +50,4 @@ File.open('generated/spiewnik.txt', 'w+') do |f|
   end
 end
 system("cd generated && pandoc spiewnik.txt -o spiewnik.epub && rm spiewnik.txt && kindlegen spiewnik.epub")
+end
