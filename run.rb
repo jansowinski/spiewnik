@@ -20,9 +20,15 @@ module Redcarpet
   end
 end
 
-system("cp scripts/PageBreaks.js #{adobe_script_path}")
-`mkdir generated`
+if ARGV[1] == "-w" or ARGV[0] == "-w"
+  warning = ""
+else
+  warning = ">/dev/null"
+end
 
+system("cp scripts/PageBreaks.js #{adobe_script_path}")
+system("mkdir -p generated")
+puts "Generating XML..."
 xml = Redcarpet::Markdown.new(Redcarpet::Render::IndesignXML, fenced_code_blocks: true )
 file = File.open('spiewnik.md') 
 cont = file.read
@@ -32,6 +38,7 @@ File.open('generated/spiewnik.xml', 'w') do |f|
   f.write(xml.render(cont))
   f.write("</root>")
 end
+puts "Generating HTML..."
 html = Redcarpet::Markdown.new(Redcarpet::Render::HTML, fenced_code_blocks: true )
 File.open('generated/spiewnik.html', 'w') do |f|
   f.write('<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Śpiewnik Błękitnej XIV</title><link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"><link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"><style>'+style+'</style></head><body class="dark"><a class="scheme" href="#"><i class="fa fa-adjust fa-2x" aria-hidden="true"></i></a><div class="container"><div class="row"><div class="col-md-6 col-md-offset-3">')
@@ -40,14 +47,16 @@ File.open('generated/spiewnik.html', 'w') do |f|
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script><script type="text/javascript">$(document).ready(function(){$(".scheme").click(function(){$("body").toggleClass("light")});});</script></body></html>')
 end
-
-if ARGV[0] == "-e"
-
-File.open('generated/spiewnik.txt', 'w+') do |f|
-  f << "\% Śpiewnik\n% Błękitna Czternastka\n\n"
-  File.readlines("spiewnik.md").each do |s|
-    f << s.gsub("##", "#").gsub("# Śpiewnik", "")
+if ARGV[0] == "-e" or ARGV[1] == "-e"
+  File.open('generated/spiewnik.txt', 'w+') do |f|
+    f << "\% Śpiewnik\n% Błękitna Czternastka\n\n"
+    File.readlines("spiewnik.md").each do |s|
+      f << s.gsub("##", "#").gsub("# Śpiewnik", "")
+    end
   end
+  puts "Generating EPUB..."
+  system("cd generated && pandoc spiewnik.txt -o spiewnik.epub #{warning} && rm spiewnik.txt")
+  puts "Generating MOBI..."
+  system("cd generated && kindlegen spiewnik.epub #{warning}")
 end
-system("cd generated && pandoc spiewnik.txt -o spiewnik.epub && rm spiewnik.txt && kindlegen spiewnik.epub")
-end
+puts "DONE 🎶"

@@ -19,7 +19,7 @@ opcjonalnie (potrzebne do generowania ebooków: [pandoc](http://pandoc.org/), [k
 
 1. odpalamy konsolę i instalujemy paczki: `bundle install`
 2. W [run.rb](https://github.com/iansowinski/spiewnik/blob/master/run.rb) wpisujemy ścieżkę folderu skryptów w indesignie
-3. odpalamy skrypt: `ruby run.rb` (jeśli chcesz wygenerować ebooki, to wpisz `ruby run.eb -e`)
+3. odpalamy skrypt: `ruby run.rb` (jeśli chcesz wygenerować ebooki, to wpisz `ruby run.eb -e`, by odpalić skrypt z ostrzeżeniami z konsoli, dodaj `-w`)
 4. Wygenerowany XML importujemy do indesigna, wstawiamy w pole tekstowe i odpalamy skrypt PageBreaks
 5. Poza plikiem źródłowym XML generują się też pliki: html (na stronę), epub i mobi (do czytników ebooków)
 
