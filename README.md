@@ -15,7 +15,8 @@
 ## Instrukcja obsługi skryptów
 
 wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/en/), [clean-css](https://github.com/jakubpawlowicz/clean-css)
-*opcjonalnie (potrzebne do generowania ebooków: [pandoc](http://pandoc.org/), [kindlegen](https://www.amazon.com/gp/feature.html?docId=1000765211))*
+
+*opcjonalnie (potrzebne do generowania ebooków): [pandoc](http://pandoc.org/), [kindlegen](https://www.amazon.com/gp/feature.html?docId=1000765211)*
 
 1. odpalamy konsolę i instalujemy paczki: `bundle install`
 2. W [run.rb](https://github.com/iansowinski/spiewnik/blob/master/run.rb) wpisujemy ścieżkę folderu skryptów w indesignie
