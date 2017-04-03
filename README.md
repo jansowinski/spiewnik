@@ -92,6 +92,12 @@ opcjonalnie (potrzebne do generowania ebooków: [pandoc](http://pandoc.org/), [k
 - [ ] Rzeka
 - [ ] W więziennym szpitalu (Dom wschodzącego słońca)
 
+**Fonty:**
+- [iosevka](https://be5invis.github.io/Iosevka/)
+- [fira mono](https://mozilla.github.io/Fira/)
+- [input](http://input.fontbureau.com/preview/)
+- [source code pro](https://fonts.google.com/specimen/Source+Code+Pro)
+
 ## Etapy rozwoju
 
 1. [Poprawianie surowej wersji **_(od teraz do połowy września)_**](https://github.com/iansowinski/spiewnik#jak-to-działa)
