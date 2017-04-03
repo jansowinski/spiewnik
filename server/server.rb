@@ -9,7 +9,9 @@ get '/*' do
   send_file "index.html"
 end
 post "/add" do
+  puts params
   File.open("add.md", "a") do |f|
-    f << params["data"]
+    f << "## #{params["title"]}\n"
+    f << "```\n#{params["text"]}\n```\n"
   end
 end

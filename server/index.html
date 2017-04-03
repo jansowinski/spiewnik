@@ -7,34 +7,49 @@
       margin: 0;
       height: 100%;
       font-family: 'Helvetica Neue', Arial, sans-serif;
-      color: #333;
     }
 
-    textarea, #editor div {
+    .text {
       display: inline-block;
-      width: 49%;
-      height: 100%;
+      width: 100%;
+      height: 90%;
       vertical-align: top;
       box-sizing: border-box;
-      padding: 0 20px;
+      padding: 10px;
+    }
+    .title {
+       display: inline-block;
+      width: 100%;
+      height: 10%;
+      vertical-align: top;
+      box-sizing: border-box;
+      padding: 10px;
     }
     textarea {
       border: none;
-      border-right: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
       resize: none;
       outline: none;
-      background-color: #f6f6f6;
+      background-color: #fdf6e3;
       font-size: 14px;
-      font-family: 'Monaco', courier, monospace;
-      padding: 20px;
+      font-family: 'Fira Mono', courier, monospace;
+      padding: 10px;
     }
     code {
-      color: #f66;
+      color: #657b83;
+    }
+    .title {
+      border-bottom: 1px solid #ccc;
+    }
+    #editor {
+      display: flex;
+      flex-direction: column;
     }
   </style>
   <div id="editor">
-    <textarea v-model="input"></textarea>
-    <button v-on:click="send"></button>
+    <textarea class="header" v-model="title"></textarea>
+    <textarea class="text" v-model="input"></textarea>
+    <button v-on:click="send">SEND</button>
   </div>
   <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
   <script src="https://unpkg.com/vue"></script>
@@ -42,17 +57,16 @@
     new Vue({
       el: '#editor',
       data: {
+        title : "tytul",
         input: '# hello'
       },
       methods: {
         send: function(){
-          var data = this.input
+          var data = {"text":this.input,"title":this.title}
           console.log(data)
           $.ajax({
                 url: "http://iansowinski.com:4567/add",
-                data : {
-                    data
-                },
+                data,
                 method: 'POST',
                 success: function(s){
                     console.log(s);
