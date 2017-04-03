@@ -1,5 +1,7 @@
 *.xml
 *.epub
 *.mobi
-*.html
+generated/*.html
+server/config
+server/add.md
 generated/
