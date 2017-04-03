@@ -130,6 +130,10 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
     - [ ] przycięcie
     - [ ] oprawa
 
+4. Dalszy rozwój:
+  
+  - [ ] stworzenie web-apki do generowania śpiewnika i proponowania edycji
+
 ## Licencja
 
 Wszystkie skrpyty udostępnione są na licencj [MIT](https://github.com/iansowinski/spiewnik/blob/master/license/MIT.txt). Tekst śpiewnika udostępniony jest na licencji [CC](https://github.com/iansowinski/spiewnik/blob/master/license/CC.txt).
