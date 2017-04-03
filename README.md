@@ -26,17 +26,6 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 
 ## Co jest do zrobienia?
 
-- [ ] **zmienić miejsce piosenek kończących**
-
-**zmienić tytuły piosenek:**
-
-- [ ] California (Kalifornia)
-- [ ] Góry (A kiedy idę wśród gór (Góry))
-- [ ] Pytania syna poety (Ja poeta (Pytania syna poety)
-- [ ] Tyle kilometrów (Tyle kilometrów (Tam w bieszczadach))
-- [ ] Viva la sierra (viva la plata)
-- [ ] W kręgu watry (W kręgu watry (Watra))
-
 **Dorobić taby:**
 
 - [ ] Barykada (Śmierć Baczyńskiego)
@@ -82,16 +71,9 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 - [ ] Tu i teraz
 - [ ] Las
 - [ ] Północ
-- [ ] "Wilkiem"
+- [ ] Wilkiem
 - [ ] Wschód
 - [ ] Rycerz
-
-**Zmienić / dodać chwyty:**
-
-- [ ] Dola szeryfa
-- [ ] Easy rider
-- [ ] Rzeka
-- [ ] W więziennym szpitalu (Dom wschodzącego słońca)
 
 **Fonty:**
 
@@ -102,7 +84,7 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
 
 ## Etapy rozwoju
 
-1. [Poprawianie surowej wersji **_(od teraz do połowy września)_**](https://github.com/iansowinski/spiewnik#jak-to-działa)
+1. [edycja surowej wersji (do czerwca)](https://github.com/iansowinski/spiewnik#jak-to-działa)
 
   - [ ] dodawanie piosenek
   - [ ] dodawanie tabulatur
@@ -110,53 +92,43 @@ wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/e
   - [ ] poprawianie chwytów
   - [ ] poprawianie tytułów piosenek
   - [ ] poprawki w rozmieszczeniu piosenek w treści
-
-2. Edycja - formatowanie dokumentu w jeden określony sposób
-
   - [ ] przygotowanie surowego dokumentu z odpowiednimi wcięciami i rozmieszczeniem chwytów
-  - [ ] sformatowanie dokumentu jako plik markdown
+  - [x] sformatowanie dokumentu jako plik markdown
   - [x] napisanie skryptów do:
     - [x] usuwania formatowania markdown (dla łatwiejszego wklejania do indesignu)
     - [x] rozkmienienie automatyzacji składania tekstu
 
-3. Przygotowanie wersji dla ludzi:
+2. Przygotowanie fizycznej wersji prototypowej (do końca czerwca):
 
   - [ ] opracowanie szablonu:
     - [ ] przetestowanie odpowiednich czcionek
     - [ ] przetestowanie rozmieszczenia numerów stron itp
   - [ ] przygotowanie dokumentu do druku w indesignie
-  - [x] napisanie cssa do mdwiki
-
-4. Stworzenie wersji prywatnej:
-
-  - [ ] ogarnięcie systemu aktualizacji i rozdzielenia śpiewnika prywatnego od błękitnego
-    - [ ] osobne repo i przekazanie tego jakiemuś aktywnemu ogarniaczowi?
-    - [x] stworzenie softu do generacji śpiewnika?
+  - [x] napisanie cssa do htmla
+  - [x] ogarnięcie systemu aktualizacji
+  - [x] stworzenie softu do generacji śpiewnika?
   - [ ] research materiałów na okładkę
-  - [ ] ewentualne przygotowanie ilustracji na okładkę
+  - [ ] przygotowanie ilustracji na okładkę
   - [ ] research rodzajów papieru
   - [ ] projektowanie i testowanie spisu treści
   - [ ] wyrzucenie niechcianych piosenek i dodanie tylko swoich
   - [ ] opracowanie dodatkowych bajerów
   - [ ] druk!
+  - [ ] znalezienie drukarni i wycena
 
-5. Opublikowanie śpiewnika do wglądu Błękitnej:
-
-  - [ ] wrzucenie markdowna na stronę
-  - [ ] propozycja współpracy przy edycji
-    - [ ] utworzenie arkusza z spisem treści i proponowanymi zmianami
-    - [ ] post na grupie błękitnej
-  - [ ] publikacja w internecie pdfa z instrukcją do druku
-
-7. Druk wersji dla błękitnej:
+3. Opublikowanie śpiewnika (2 tygodnie przed obozem):
 
   - [ ] propozycja wydrukowania śpiewników dla szczepu
-  - [ ] konsultacja z drużynowymi i wybór piosenek
-  - [ ] znalezienie drukarni i wycena
-  - [ ] przelewy od chętnych
-  - [ ] druk
-  - [ ] przycięcie
-  - [ ] oprawa
+    - [ ] konsultacja z drużynowymi i wybór piosenek
+  - [ ] post na grupie błękitnej + zebranie zamówień
+  - [ ] wrzucenie plików na stronę
+    - [ ] publikacja w internecie pdfa z instrukcją do druku
+    - [ ] wrzucenie tego na fanpage i napisanie do starych czternastaków
+    - [ ] propozycja współpracy przy edycji
+  - [ ] produkcja
+    - [ ] druk
+    - [ ] przycięcie
+    - [ ] oprawa
 
 ## Licencja
 
@@ -164,4 +136,4 @@ Wszystkie skrpyty udostępnione są na licencj [MIT](https://github.com/iansowin
 
 ## Podziękowania
 
-Projekt powstał na podstawie różnych śpiewników kilku pokoleń Czternastaków. Należy tu wymienić kilku z nich: Kubę Zygrłowskiego (Zygacza), Tomka Bratkowskiego (Bratka), Grzesia Rachlewicza, Martę Bieniasz, Julkę Suwalską i Janka Sowińskiego.
+Projekt powstał na podstawie różnych śpiewników kilku pokoleń Czternastaków. Korzystaliśmy z śpiewników autorstwa: Marty Bieniasz, Julki Suwalskiej i Janka Sowińskiego, Kuby Zygrłowskiego (Zygacza) i Tomka Bratkowskiego (Bratka), Grzesia Rachlewicza
