@@ -20,7 +20,7 @@ module Redcarpet
   end
 end
 
-if ARGV[1] == "-w" or ARGV[0] == "-w"
+if ARGV.include?("-w")
   warning = ""
 else
   warning = ">/dev/null"
@@ -47,7 +47,8 @@ File.open('generated/spiewnik.html', 'w') do |f|
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script><script type="text/javascript">$(document).ready(function(){$(".scheme").click(function(){$("body").toggleClass("light")});});</script></body></html>')
 end
-if ARGV[0] == "-e" or ARGV[1] == "-e"
+system("cp generated/spiewnik.html server/")
+if ARGV.include?("-e")
   File.open('generated/spiewnik.txt', 'w+') do |f|
     f << "\% Śpiewnik\n% Błękitna Czternastka\n\n"
     File.readlines("spiewnik.md").each do |s|
