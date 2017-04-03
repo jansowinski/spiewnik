@@ -15,13 +15,13 @@
 ## Instrukcja obsługi skryptów
 
 wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/en/), [clean-css](https://github.com/jakubpawlowicz/clean-css)
-opcjonalnie (potrzebne do generowania ebooków: [pandoc](http://pandoc.org/), [kindlegen](https://www.amazon.com/gp/feature.html?docId=1000765211)
+*opcjonalnie (potrzebne do generowania ebooków: [pandoc](http://pandoc.org/), [kindlegen](https://www.amazon.com/gp/feature.html?docId=1000765211))*
 
 1. odpalamy konsolę i instalujemy paczki: `bundle install`
 2. W [run.rb](https://github.com/iansowinski/spiewnik/blob/master/run.rb) wpisujemy ścieżkę folderu skryptów w indesignie
 3. odpalamy skrypt: `ruby run.rb` (jeśli chcesz wygenerować ebooki, to wpisz `ruby run.eb -e`, by odpalić skrypt z ostrzeżeniami z konsoli, dodaj `-w`)
-4. Wygenerowany XML importujemy do indesigna, wstawiamy w pole tekstowe i odpalamy skrypt PageBreaks
-5. Poza plikiem źródłowym XML generują się też pliki: html (na stronę), epub i mobi (do czytników ebooków)
+4. Wygenerowany XML (`generated/spiewnik.xml`) importujemy do indesigna, wstawiamy w pole tekstowe i odpalamy skrypt PageBreaks
+5. Poza plikiem źródłowym XML, w folderze `generated/` znajdziemy też pliki: html (na stronę), epub i mobi (do czytników ebooków)
 
 ## Co jest do zrobienia?
 
@@ -93,6 +93,7 @@ opcjonalnie (potrzebne do generowania ebooków: [pandoc](http://pandoc.org/), [k
 - [ ] W więziennym szpitalu (Dom wschodzącego słońca)
 
 **Fonty:**
+
 - [iosevka](https://be5invis.github.io/Iosevka/)
 - [fira mono](https://mozilla.github.io/Fira/)
 - [input](http://input.fontbureau.com/preview/)
