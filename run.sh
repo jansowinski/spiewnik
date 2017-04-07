@@ -1,9 +1,20 @@
 #!/bin/bash
 export LANG=C.UTF-8
+ebooks='false'
+# warnings='false'
 
-adobe_script_path='/Users/janko/Library/Preferences/Adobe\ InDesign/Version\ 8.0/en_US/Scripts/Scripts\ Panel'
+while getopts 'e' flag; do
+  case "${flag}" in
+    e) ebooks='true' ;;
+    # w) warnings='true' ;;
+  esac
+done
 
-cp scripts/PageBreaks.js $adobe_script_path
+
+adobe=/Users/janko/Library/Preferences/Adobe\ InDesign/Version\ 8.0/en_US/Scripts/Scripts\ Panel
+
+cp scripts/PageBreaks.js "$adobe"
+
 mkdir -p generated
 
 echo "Generating XML..."
@@ -27,14 +38,16 @@ echo '</div></div></div><script src="https://code.jquery.com/jquery-3.1.1.min.js
 
 cp generated/spiewnik.html server/
 
-echo "Generating EPUB..."
+if [[ $ebooks = true ]]
+then
+  echo "Generating EPUB..."
 
-echo '\% Śpiewnik\n% Błękitna Czternastka\n\n' > generated/spiewnik.txt
-gsed 's/# Śpiewnik//' spiewnik.md | gsed 's/##/#/' >> generated/spiewnik.txt
+  echo '\% Śpiewnik\n% Błękitna Czternastka\n\n' > generated/spiewnik.txt
+  gsed 's/# Śpiewnik//' spiewnik.md | gsed 's/##/#/' >> generated/spiewnik.txt
 
-cd generated && pandoc spiewnik.txt -o spiewnik.epub && rm spiewnik.txt
+  cd generated && pandoc spiewnik.txt -o spiewnik.epub && rm spiewnik.txt
 
-echo "Generating MOBI..."
-kindlegen spiewnik.epub >/dev/null
-
+  echo "Generating MOBI..."
+  kindlegen spiewnik.epub >/dev/null
+fi
 echo "DONE 🎶"
