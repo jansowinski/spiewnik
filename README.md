@@ -112,6 +112,7 @@ wymagania:
   - [x] napisanie skryptów do:
     - [x] usuwania formatowania markdown (dla łatwiejszego wklejania do indesignu)
     - [x] rozkmienienie automatyzacji składania tekstu
+    - [ ] spis treści według inciptu
 
 2. Przygotowanie fizycznej wersji prototypowej (do końca czerwca):
 

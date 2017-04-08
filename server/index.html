@@ -1,5 +1,8 @@
 <html>
-<head></head>
+<head>
+<meta charset="utf-8"/>
+	<link href="https://fonts.googleapis.com/css?family=Fira+Mono:400,500,700&amp;subset=greek-ext" rel="stylesheet">
+</head>
 <body>
   
   <style>
@@ -8,7 +11,6 @@
       height: 100%;
       font-family: 'Helvetica Neue', Arial, sans-serif;
     }
-
     .text {
       display: inline-block;
       width: 100%;
@@ -16,31 +18,40 @@
       vertical-align: top;
       box-sizing: border-box;
       padding: 10px;
-    }
-    .title {
-      font-weight: 900;
-      display: inline-block;
-      width: 100%;
-      height: 10%;
-      vertical-align: top;
-      box-sizing: border-box;
-      padding: 10px;
-    }
-    textarea {
+      padding-left: 40px;
       border: none;
-      border-bottom: 1px solid #ccc;
       resize: none;
       outline: none;
+      color: #586e75;
       background-color: #fdf6e3;
       font-size: 14px;
       font-family: 'Fira Mono', courier, monospace;
+      font-weight: 500;
+    }
+    .header {
+      display: inline-block;
+      width: 100%;
+      height: 60px;
+      vertical-align: top;
+      box-sizing: border-box;
       padding: 10px;
+      padding-left: 40px;
+      border: none;
+      resize: none;
+      outline: none;
+      color: #586e75;
+      background-color: #eee8d5;
+      font-size: 14px;
+      font-family: 'Fira Mono', courier, monospace;
+      font-weight: 700;
+      font-size: 20pt;
+    }
+    textarea::placeholder {
+    	color: #93a1a1;
+    	font-weight: 400;
     }
     code {
       color: #657b83;
-    }
-    .title {
-      border-bottom: 1px solid #ccc;
     }
     #editor {
       display: flex;
@@ -55,9 +66,10 @@
       text-decoration: none;
       display: inline-block;
       font-size: 16px;
-      -webkit-transition: .2s all;
-      -o-transition: .2s all;
-      transition: .2s all;
+      -moz-transition: .6s all;
+      -webkit-transition: .6s all;
+      -o-transition: .6s all;
+      transition: .6s all;
     }
     button:hover {
       background-color: #d33683;
