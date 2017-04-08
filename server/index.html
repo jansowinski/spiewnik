@@ -18,7 +18,8 @@
       padding: 10px;
     }
     .title {
-       display: inline-block;
+      font-weight: 900;
+      display: inline-block;
       width: 100%;
       height: 10%;
       vertical-align: top;
@@ -45,11 +46,29 @@
       display: flex;
       flex-direction: column;
     }
+    button {
+      background-color: #eee8d5; 
+      border: none;
+      color: #657b83;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      -webkit-transition: .2s all;
+      -o-transition: .2s all;
+      transition: .2s all;
+    }
+    button:hover {
+      background-color: #d33683;
+      cursor: pointer;
+      color: white;
+    }
   </style>
   <div id="editor">
-    <textarea class="header" v-model="title"></textarea>
-    <textarea class="text" v-model="input"></textarea>
-    <button v-on:click="send">SEND</button>
+    <textarea class="header" v-model="title" :placeholder="placeholdertitle"></textarea>
+    <textarea class="text" v-model="input" :placeholder="placeholdertext"></textarea>
+    <button v-on:click="send">Z A P R O P O N U J</button>
   </div>
   <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
   <script src="https://unpkg.com/vue"></script>
@@ -57,8 +76,10 @@
     new Vue({
       el: '#editor',
       data: {
-        title : "tytul",
-        input: '# hello'
+        title : '',
+        input: '',
+        placeholdertitle: 'Już rozpaliło się ognisko',
+        placeholdertext: 'Już rozpaliło się ognisko           C\nDając nam dobrej wróżby znak        C G\nSiedliśmy wszyscy przy nim blisko   G\nBo w całej Polsce siedzą tak        G C C7\n\n  Siedzą harcerze przy płomieniach   F\n  Ciepły blask ognia skupia ich      G C G\n  Wszystko co złe to szuka cienia    C\n  Do światła dobro garnie się        G C C7/ G C\n\nMówiłeś druhu komendancie           C\nŻe zaufanie do nas masz             C G\nŻe wierzysz w nasze szczere chęci   G\nWszak ty harcerskie serca znasz     G C C7\n\n  Warunki tylko warunkami            F\n  Od dawna już słyszymy to           G C G\n  Lecz my jesteśmy harcerzami        C\n  I zwyciężymy wszelkie zło!         G C C7/ GC'
       },
       methods: {
         send: function(){
