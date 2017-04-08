@@ -3,6 +3,7 @@
 *.mobi
 generated/*.html
 server/spiewnik.html
+server/proponowane.html
 server/config
 server/add.md
 generated/
