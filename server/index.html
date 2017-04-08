@@ -72,15 +72,15 @@
       transition: .6s all;
     }
     button:hover {
-      background-color: #d33683;
+      background-color: #268bd2;
       cursor: pointer;
-      color: white;
+      color: #fdf6e3;
     }
   </style>
   <div id="editor">
     <textarea class="header" v-model="title" :placeholder="placeholdertitle"></textarea>
     <textarea class="text" v-model="input" :placeholder="placeholdertext"></textarea>
-    <button v-on:click="send">{{button.text}}</button>
+    <button v-on:click="send" v-bind:style="button.style">{{button.text}}</button>
   </div>
   <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
   <script src="https://unpkg.com/vue"></script>
@@ -90,7 +90,7 @@
       data: {
         title : '',
         input: '',
-        button: {"text":"Z A P R O P O N U J"},
+        button: {"text":"Z A P R O P O N U J", "style":{}},
         placeholdertitle: 'Już rozpaliło się ognisko',
         placeholdertext: 'Już rozpaliło się ognisko           C\nDając nam dobrej wróżby znak        C G\nSiedliśmy wszyscy przy nim blisko   G\nBo w całej Polsce siedzą tak        G C C7\n\n  Siedzą harcerze przy płomieniach   F\n  Ciepły blask ognia skupia ich      G C G\n  Wszystko co złe to szuka cienia    C\n  Do światła dobro garnie się        G C C7/ G C\n\nMówiłeś druhu komendancie           C\nŻe zaufanie do nas masz             C G\nŻe wierzysz w nasze szczere chęci   G\nWszak ty harcerskie serca znasz     G C C7\n\n  Warunki tylko warunkami            F\n  Od dawna już słyszymy to           G C G\n  Lecz my jesteśmy harcerzami        C\n  I zwyciężymy wszelkie zło!         G C C7/ GC'
       },
@@ -99,7 +99,11 @@
           var data = {"text":this.input,"title":this.title}
           if (data.text.length === 0 || data.title.length === 0){
             app.button.text = "BŁĄD, ŻADNE POLE NIE MOŻE BYĆ PUSTE"
-            setTimeout(function(){app.button.text = "Z A P R O P O N U J"}, 2000)
+            app.button.style = {"background-color":"#d33683","color":"#fdf6e3"}
+            setTimeout(function(){
+              app.button.text = "Z A P R O P O N U J"
+              app.button.style = {}
+            }, 2000)
           }
           else {
           $.ajax({
@@ -108,7 +112,8 @@
                 method: 'POST',
                 success: function(s){
                     app.button.text = "S U K C E S !"
-                    setTimeout(function(){app.button.text = "Z A P R O P O N U J"}, 2000)
+                    app.button.style = {"background-color":"#2aa198","color":"#fdf6e3"}
+                    setTimeout(function(){app.button.text = "Z A P R O P O N U J";app.button.style={}}, 2000)
                 },
                 error : function(e){
                     console.log(e)
