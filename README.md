@@ -14,9 +14,24 @@
 
 ## Instrukcja obsługi skryptów
 
-wymagania: [ruby](https://www.ruby-lang.org/en/), [node.js](https://nodejs.org/en/), [clean-css](https://github.com/jakubpawlowicz/clean-css)
+wymagania: 
+  - [node.js](https://nodejs.org/en/)
+  - [clean-css](https://github.com/jakubpawlowicz/clean-css)
 
-*opcjonalnie (potrzebne do generowania ebooków): [pandoc](http://pandoc.org/), [kindlegen](https://www.amazon.com/gp/feature.html?docId=1000765211)*
+*opcjonalnie:
+  - [ruby](https://www.ruby-lang.org/en/) - do odpalenia starym sposobem
+  - potrzebne do generowania ebooków): 
+    - [pandoc](http://pandoc.org/)
+    - [kindlegen](https://www.amazon.com/gp/feature.html?docId=1000765211)*
+
+**BASH:**
+
+1. W [run.sh](https://github.com/iansowinski/spiewnik/blob/master/run.sh) wpisujemy ścieżkę folderu skryptów w indesignie
+2. odpalamy skrypt: `sh run.sh` (jeśli chcesz wygenerować ebooki, to wpisz `sh run.sh -e`)
+3. Wygenerowany XML (`generated/spiewnik.xml`) importujemy do indesigna, wstawiamy w pole tekstowe i odpalamy skrypt PageBreaks
+4. Poza plikiem źródłowym XML, w folderze `generated/` znajdziemy też pliki: html (na stronę), epub i mobi (do czytników ebooków)
+
+**RUBY:**
 
 1. odpalamy konsolę i instalujemy paczki: `bundle install`
 2. W [run.rb](https://github.com/iansowinski/spiewnik/blob/master/run.rb) wpisujemy ścieżkę folderu skryptów w indesignie
