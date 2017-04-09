@@ -17,6 +17,19 @@ module Redcarpet
         end
       end
     end
+    class Json < Base
+      def block_code(code, lang)
+        "'text':'#{code.gsub(/\n/, "\\n")}'},"
+      end
+      def header(title, level)
+        case level 
+        when 1
+          ""
+        when 2
+          "{'title':'#{title}',\n"
+        end
+      end
+    end
   end
 end
 
@@ -38,6 +51,12 @@ File.open('generated/spiewnik.xml', 'w') do |f|
   f.write(xml.render(cont))
   f.write("</root>")
 end
+puts "Generating JSON..."
+json = Redcarpet::Markdown.new(Redcarpet::Render::Json, fenced_code_blocks: true )
+File.open('generated/spiewnik.json', 'w') do |f| 
+  f.write(json.render(cont))
+end
+
 puts "Generating HTML..."
 html = Redcarpet::Markdown.new(Redcarpet::Render::HTML, fenced_code_blocks: true )
 File.open('generated/spiewnik.html', 'w') do |f|

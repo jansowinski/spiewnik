@@ -17,8 +17,11 @@ get '/p/' do
 	end
 	send_file "proponowane.html"
 end
+get '/all/' do
+	puts File.open("spiewnik.json", "r").read
+end
 get '/*' do
-  send_file 'index.html'
+  send_file 'all.html'
 end
 post "/add" do
   puts params
