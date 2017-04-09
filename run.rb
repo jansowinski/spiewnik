@@ -19,14 +19,14 @@ module Redcarpet
     end
     class Json < Base
       def block_code(code, lang)
-        "'text':'#{code.gsub(/\n/, "\\n")}'},"
+        "\"text\":\"#{code.gsub(/\n/, "\\n").gsub('"','\"').gsub("'","\\'")}\"},\n"
       end
       def header(title, level)
         case level 
         when 1
           ""
         when 2
-          "{'title':'#{title}',\n"
+          "{\"title\":\"#{title}\","
         end
       end
     end
