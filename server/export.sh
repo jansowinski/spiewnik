@@ -1,1 +1,0 @@
-awk -F '```' '{for (i=1; i<NF; i++) {OFS=c%2?"</code></pre>":FS; printf "%s%s", $i, OFS; c++} print $NF}' add.md | sed 's/```/<\/h2><pre><code>/' | sed 's/## /<h2>/' | sed '/# /a <\/h1>' | sed 's/# /<h1>/' | cat
