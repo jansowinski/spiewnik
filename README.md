@@ -89,6 +89,7 @@ wymagania:
 - [ ] Wilkiem
 - [ ] Wschód
 - [ ] Rycerz
+- [ ] Krakowski Spleen
 
 **Fonty:**
 
