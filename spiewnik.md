@@ -1431,83 +1431,95 @@ Znajdziesz upragniony cel      a G a
 ## Wieczorne krajobrazy
 
 ```
-Już zaszedł za doliną złocisty słońca krąg       G e a7 D
-Odgłosy ciche płyną z zielonych pól i łąk;
-Dalekie ludzi głosy, daleki słychać śpiew
-I szelest kropel rosy po drżących liściach drzew
+Już zaszedł za doliną złocisty słońca krąg         G e a7 D
+Odgłosy ciche płyną z zielonych pól i łąk;         G e a7 D
+Dalekie ludzi głosy, daleki słychać śpiew          G e a7 D
+I szelest kropel rosy po drżących liściach drzew   G e a7 D
 
-Posłuchaj w ciszy ognia i wkoło spójrz;      G e
-Wieczorne krajobrazy czas zabiera        C D
-Wędrowcze stron dalekich - zamknij nasz krąg
-Już dopalają się ostatnie drewna
+  Posłuchaj w ciszy ognia i wkoło spójrz;        G e
+  Wieczorne krajobrazy czas zabiera              C D
+  Wędrowcze stron dalekich - zamknij nasz krąg   G e
+  Już dopalają się ostatnie drewna               C D
 
-Promieni gra różana topnieje w sinej mgle
-A świeży zapach siana skoszona łąka śle
-Wraz z wonią polnych kwiatów, z gasnącym blaskiem zórz
-Poezja krajobrazów w głąb ludzkich płynie dusz
+Promieni gra różana topnieje w sinej mgle                G e a7 D
+A świeży zapach siana skoszona łąka śle                  G e a7 D
+Wraz z wonią polnych kwiatów, z gasnącym blaskiem zórz   G e a7 D
+Poezja krajobrazów w głąb ludzkich płynie dusz           G e a7 D
 
-Posłuchaj w ciszy ognia i wkoło spójrz;
-Wieczorne krajobrazy czas zabiera
-Wędrowcze stron dalekich - zamknij nasz krąg
-Już dopalają się ostatnie drewna
+  Posłuchaj w ciszy ognia i wkoło spójrz;        G e
+  Wieczorne krajobrazy czas zabiera              C D
+  Wędrowcze stron dalekich - zamknij nasz krąg   G e
+  Już dopalają się ostatnie drewna               C D
 
-W półcieniu kształt olbrzymi rzucają pasma gór
-Zrzucają piękne suknie, wkładają płaszcze z chmur
-Prostują swoje skrzydła, podarty kryją stok
-Jak senne malowidła powoli toną w mrok
+W półcieniu kształt olbrzymi rzucają pasma gór      G e a7 D
+Zrzucają piękne suknie, wkładają płaszcze z chmur   G e a7 D
+Prostują swoje skrzydła, podarty kryją stok         G e a7 D
+Jak senne malowidła powoli toną w mrok              G e a7 D
 ```
 
 ## Harcerska miłość
 
 ```
-Przychodzisz codziennie do naszej harcówki      C G
-Dla ślicznej druhenki przynosisz borówki        G C
-Przychodzisz codziennie, sam nie wiesz dlaczego    a G
-Ten obóz tak działa na ciebie kolego        G CC7
+Przychodzisz codziennie do naszej harcówki        C G
+Dla ślicznej druhenki przynosisz borówki          G C
+Przychodzisz codziennie, sam nie wiesz dlaczego   a G
+Ten obóz tak działa na ciebie kolego              G C C7
 
-Harcerska miłość to jakby nic nie było        F G C
-To jakby nam się śniło to jakby zawiał wiatr, jesienny wiatr  a d G CC7
-Harcerska miłość, na warcie fajnie było        F G C
-I gwiazdy się liczyło od zmierzchu, aż po świt      a d G C
+  Harcerska miłość to jakby nic nie było          F G C
+  To jakby nam się śniło to jakby zawiał wiatr    a d G C C7
+  Harcerska miłość, na warcie fajnie było         F G C
+  I gwiazdy się liczyło od zmierzchu, aż po świt  a d G C
 
-Gdy rano ci kumpel zwiastuje pobudkę
-Ty patrzysz na niego i oczy masz smutne
-Bo twoja dziewczyna ze swoją drużyną
-Zdobywa sprawności, niepewna miłości
+Gdy rano ci kumpel zwiastuje pobudkę      C G
+Ty patrzysz na niego i oczy masz smutne   G C
+Bo twoja dziewczyna ze swoją drużyną      a G
+Zdobywa sprawności, niepewna miłości      G C C7
 
-Chcesz odejść daleko, już jesteś w pół drogi
-Gdy nagle ci chusta upada pod nogi
-To chusta dziewczyny, dla ciebie jest znakiem
-Że jesteś harcerzem i fajnym chłopakiem
+  Harcerska miłość to jakby nic nie było          F G C
+  To jakby nam się śniło to jakby zawiał wiatr    a d G C C7
+  Harcerska miłość, na warcie fajnie było         F G C
+  I gwiazdy się liczyło od zmierzchu, aż po świt  a d G C
+
+Chcesz odejść daleko, już jesteś w pół drogi    C G
+Gdy nagle ci chusta upada pod nogi              G C
+To chusta dziewczyny, dla ciebie jest znakiem   a G
+Że jesteś harcerzem i fajnym chłopakiem         G C C7
+
+  Harcerska miłość to jakby nic nie było          F G C
+  To jakby nam się śniło to jakby zawiał wiatr    a d G C C7
+  Harcerska miłość, na warcie fajnie było         F G C
+  I gwiazdy się liczyło od zmierzchu, aż po świt  a d G C
 ```
 
 ## Sosenka (jak to dobrze być harcerzem)
 
 ```
-Jak dobrze być harcerzem        a d
-Na obozie spędzać czas           E a
-Na północy pojezierze
-Na południu szumi las
+Jak dobrze być harcerzem   a d
+Na obozie spędzać czas     E a
+Na północy pojezierze      a d
+Na południu szumi las      E a
 
-Hej las, mówię wam           a
-Szumi las, mówię wam           d
-A w lesie, mówię wam, sosenka       E a
-Spodobała mi się jeden raz         d a
-Harcerka Marysieńka           E a
+  Hej las, mówię wam              a
+  Szumi las, mówię wam            d
+  A w lesie, mówię wam, sosenka   E a
+  Spodobała mi się jeden raz      d a
+  Harcerka Marysieńka             E a
 
-Ref; Hej las, mówię wam…
+Biała fala łódkę niosła       a d
+Łódkę niosła w siną dal       E a
+A on zamiast trzymać wiosła   a d
+Objął ją i śpiewał tak        E a
 
-Biała fala łódkę niosła
-Łódkę niosła w siną dal
-A on zamiast trzymać wiosła
-Objął ją i śpiewał tak
+  Hej las, mówię wam              a
+  Szumi las, mówię wam            d
+  A w lesie, mówię wam, sosenka   E a
+  Spodobała mi się jeden raz      d a
+  Harcerka Marysieńka             E a
 
-Ref; Hej las, mówię wam…
-
-Całuj, całuj, całuj szczerze
-Całuj, miły, póki czas
-Może wtedy Ci uwierzę
-Że prawdziwą miłość znasz
+Całuj, całuj, całuj szczerze   a d
+Całuj, miły, póki czas         E a
+Może wtedy Ci uwierzę          a d
+Że prawdziwą miłość znasz      E a
 ```
 
 ## Hej w góry
@@ -1532,41 +1544,41 @@ Wiatr i deszcz razem tańczą
 ## Góry
 
 ```
-Kiedy idę wśród gór          A cis
-Rozwiane włosy mam          h cis
-A gwiazdy są tuż tuż
-A oczy patrzą w dal
-A góry
-A góry…
+Kiedy idę wśród gór    A cis
+Rozwiane włosy mam     h cis
+A gwiazdy są tuż tuż   A cis
+A oczy patrzą w dal    h cis
+A góry                 A cis
+A góry…                h cis
 
-Wiatry niosą mnie daleko         A fis h cis
-Góry leżą gdzie nad rzeką
-A ja idę w dal
+Wiatry niosą mnie daleko    A fis h cis
+Góry leżą gdzie nad rzeką   A fis h cis
+A ja idę w dal              A fis h cis
 
-Pierwszy promień słońca
-Obudził mnie rano
-A droga mnie wiodąca
-Pyta jak się spało
-A góry
-A góry…
+Pierwszy promień słońca   A cis
+Obudził mnie rano         h cis
+A droga mnie wiodąca      A cis
+Pyta jak się spało        h cis
+A góry                    A cis
+A góry…                   h cis
 
-Wiatry niosą mnie daleko
-Góry leżą gdzieś nad rzeką
-A ja idę w dal
+Wiatry niosą mnie daleko     A fis h cis
+Góry leżą gdzieś nad rzeką   A fis h cis
+A ja idę w dal               A fis h cis
 ```
 
 ## Bieszczady
 
 ```
-Tu w dolinach wstaje mgłą wilgotny dzień     e a
-Szczyty ogniem płoną, stoki kryje cień      D7 G H7
-Mokre rosą trawy, wypatrują dnia
-Ciepła, które pierwszy słońca promień da
+Tu w dolinach wstaje mgłą wilgotny dzień   e a
+Szczyty ogniem płoną, stoki kryje cień     D7 G H7
+Mokre rosą trawy, wypatrują dnia           e a
+Ciepła, które pierwszy słońca promień da   D7 G H7
 
-Cicho potok gada, gwarzy pośród skał      G C D7 G
-O tym deszczu, co z góry trochę wody dał
-Świerki zapatrzone w horyzontu kres
-Głowy pragną wysoko, jak najwyżej wznieść
+Cicho potok gada, gwarzy pośród skał        G C D7 G
+O tym deszczu, co z góry trochę wody dał    G C D7 G
+Świerki zapatrzone w horyzontu kres         G C D7 G
+Głowy pragną wysoko, jak najwyżej wznieść   G C D7 G
 
 Tęczą kwiatów barwny połoniny łan
 Słońcem wypełniony jagodowy dzban
